@@ -9,14 +9,23 @@ Horario:		Martes 19:00 – 20:00, Miércoles 15:00 – 16:00, Jueves 18:00 – 1
 Grupo:			7A
 
 
+#########
+Today
+#########
 
+---- Open (40 min)
 
----- Open (10 min)
+Intros
 
+Go thru
+	* Course description and scope
+	* Course sequence
+	* Course contract
 
----- Content 1 (40 min)
+---- Content 1 (10 min)
 
-
-
-
+Round Table
+	* What is law?
+	* Difference between legal and non-legal?
+	* Fields of law?
 

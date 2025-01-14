@@ -9,18 +9,48 @@ Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
 Grupo:			6A
 
 
+####
+HW_01
+Due: 21 Jan 2025
+####
+-- HW_01.1
+Select two (2) fields of engineering. You will become an expert in these fields and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a two-page paper on the history of each field of engineering. The first page of each paper will be dedicated to the general history the field. The second page of each paper will be dedicated to the history of the field in Mexico. Papers will have 0.5 inch margins, 12-point Times New Roman font, and will be printed. Students should save a copy in PDF format. In the upper right-hand corner please place your name, the course ID followed by my last name in parentheses, and the date, That is, your upper right-hand corner should look like this.
+	Your Name
+	IT0629 (Marron)
+	Date
+
+The title of your paper should be centered in bold. You should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. Remember, your deliverable will be the original paper, written in either English or Spanish, and the translated paper, written in either Spanish or English. Be prepared to present and share your findings with the class.
+
+-- HW_01.2
+Read Picon's,"Engineers and engineering history: problems and perspectives." Write a one-page summary of the paper in English and translate the summary into Spamish.
+
+
+#######
+Today
+#######
 ---- Open (10 min)
 
+"One man's 'magic' is another man's engineering. 'Supernatural' is a null word."
+		-- Robert A. Heinlein
 
 ---- Content 1 (40 min)
 
+Critique
+	* Who generates them?
+	* What are they? 
+	* When are they useful? 
+	* Where are they used?
+	* Why are they useful?
 
+Speed read
+	"Helpful Hints for Writing A Critique"
+	Chesapeake College
 
-
-
----- Content 2 (50 min)
 
 #### Break (10 min)  #####
+---- Content 2 (50 min)
+HW Time
+
 
 
 
