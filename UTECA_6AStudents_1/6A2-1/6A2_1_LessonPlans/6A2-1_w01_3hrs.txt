@@ -18,7 +18,7 @@ Select one (1) field of science. You will become an expert in this field and wil
 
 For this assignment and for all subsequent assignments in this class, the following format requirements apply:
 
-	* Papers must have 0.5 inch margins and 12-point Times New Roman font
+	* Papers must be double-spaced have 0.5 inch margins and 12-point Times New Roman font
 	* In the upper right-hand corner please place your name, the course ID followed by my last name in 
 	parentheses, and the date, That is, your upper right-hand corner should look like this.
 
@@ -64,7 +64,7 @@ Go thru
 
 Round Table (general and science)
 	* function of language 
-	* structure of language (?
+	* structure of language ?
 	* discipline-specific jargon?
 	* communication channels?
 	

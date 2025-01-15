@@ -2,7 +2,7 @@
 
 Docente:		Bruce D. Marron
 Ciclo: 			25-2
-Materia: 		Traducción y Terminología Especializada en Documentos Jurídicos
+Materia: 		Terminología Especializada en Documentos Jurídicos
 Curso:			IT0733
 Licenciatura: 	Interpretación y Traducción
 Horario:		Martes 19:00 – 20:00, Miércoles 15:00 – 16:00, Jueves 18:00 – 19:00
@@ -21,8 +21,9 @@ For this assignment and for all subsequent assignments in this class, the follow
 	* In the upper right-hand corner please place your name, the course ID followed by my last name in 
 	parentheses, and the date, That is, your upper right-hand corner should look like this.
 
-                         Your Name
+                         <Your Name>
                          IT0733 (Marron)
+						 <Assignment>
                          Date
 
 	* The title of your paper should be centered in bold.
@@ -39,9 +40,6 @@ Today
 #########
 ---- Open (10 min)
 
-At his best, man is the noblest of all animals; separated from law and justice he is the worst. 
-		-- Aristotle
-
 There is no greater tyranny than that which is perpetrated under the shield of the law and in the name of justice.
 		--- Montesquieu
 
@@ -49,7 +47,7 @@ There is no greater tyranny than that which is perpetrated under the shield of t
 ---- Content 1 (40 min)
 
 Round table 
-	* What is the structure and function of language in law ?
+	* What is the structure and function of language in law?
 	* Why is legal language created?
 	* Who uses legal language?
 
@@ -63,5 +61,6 @@ Practice
 	Grossfield, "Language and the Law"
 	Journal of Air Law and Commerce. 1985
 
-
+Work time
+(all period tomorrow)
 

@@ -2,22 +2,89 @@
 
 Docente:		Bruce D. Marron
 Ciclo: 			25-2
-Materia: 		Traducción y Terminología Especializada en Mercadotécnica y Diseño
+Materia: 		Terminología Especializada en Mercadotécnica y Diseño
 Curso:			IT0942
 Licenciatura: 	Interpretación y Traducción
 Horario:		Miércoles 19:00 – 20:00, Jueves 15:00 – 17:00
 Grupo:			9A
 
 
+####
+HW_01
+Due: 23 Jan 2025
+####
+You must become a language designer. These first two assignments will introduce you to some foundational concepts in the history of marketing and in linguistics.
+
+-- HW_01.1
+Read the following excerpt from Ch.1, "Introducing the History of Marketing Theory and Practice from Marketing: A Critical Textbook (pp. 1-6):
+	* 1.1 Introduction
+	* 1.2 The Early Development of Marketing Thought
+	* 1.3 The First Courses in Marketing in the Early Twentieth Century
+	* 1.4 Marketing, Efficiency and Utility Creation
+	
+Write a one-page summary of the excerpt in English and translate the summary into Spanish. The format requirements above apply.
+
+For this assignment and for all subsequent assignments in this class, the following format requirements apply:
+	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
+	* In the upper right-hand corner please place your name, the course ID followed by my last name in 
+	parentheses, and the date, That is, your upper right-hand corner should look like this.
+
+                         <Your Name>
+                         IT0942 (Marron)
+						 <Assignment>
+                         Date
+
+	* The title of your paper should be centered in bold.
+	* Unless told otherwise, you must include references
+	* The assignment must be printed for submission although students should save a copy in PDF format.
+
+
+-- HW_01.2
+Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 4-8):
+	*Introduction
+	Part I – Linguistics and Language Research
+	* 1. Introduction
+	  2. The Components of Language
+		* 2.1 Phonetics (Sounds)
+		* 2.2 Morphology and Semantics (The Structure and Meaning of Words)
+		* 2.3 Syntax and Grammar (Sentence Structure)
+		* 2.4 Discourse (Text)
+
+Write a one-page summary of the excerpt in English and translate the summary into Spanish. The format requirements above apply.
+
+
+
+
 ---- Open (10 min)
+
+Intros
+
+Go thru
+	* Course description and scope
+	* Course sequence
+	* Course contract
+
 
 
 ---- Content 1 (40 min)
 
+"Good marketing makes the company look smart. Great marketing makes the customer feel smart.” 
+		– Joe Chernov
 
+Green Machine
 
+Round Table
+	What is language?
+	Does language influence behavior? dictate behavior?
+	What is creative language?
+	What is a language deigner?
+	What is marketing?
 
-
-
-
+Reading techniques
+	* slow and focused
+	* rapid scan
+	* speed reading
+	
+Practice
+	Konrod's,"Language Research in Marketing" 
 
