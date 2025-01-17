@@ -26,16 +26,15 @@ Write a one-page summary of the excerpt in English and translate the summary int
 
 For this assignment and for all subsequent assignments in this class, the following format requirements apply:
 	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
-	* In the upper right-hand corner please place your name, the course ID followed by my last name in 
-	parentheses, and the date, That is, your upper right-hand corner should look like this.
+	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date, That is, your upper right-hand corner should look like this.
 
                          <Your Name>
-                         IT0942 (Marron)
-						 <Assignment>
+                         IT0629 (Marron)
+						 <Assignment ID>
                          Date
 
 	* The title of your paper should be centered in bold.
-	* Unless told otherwise, you must include references
+	* Unless told otherwise, you must include references in a standard format (eg, APA)
 	* The assignment must be printed for submission although students should save a copy in PDF format.
 
 
@@ -53,9 +52,11 @@ Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 4
 Write a one-page summary of the excerpt in English and translate the summary into Spanish. The format requirements above apply.
 
 
+#######
+Today
+#######
 
-
----- Open (10 min)
+---- Open 
 
 Intros
 
@@ -66,12 +67,12 @@ Go thru
 
 
 
----- Content 1 (40 min)
+---- Content 
 
 "Good marketing makes the company look smart. Great marketing makes the customer feel smart.” 
 		– Joe Chernov
 
-Green Machine
+Green Machine Biofules, Inc.
 
 Round Table
 	What is language?
@@ -85,13 +86,8 @@ Reading techniques
 	* rapid scan
 	* speed reading
 	
-Practice
+Speed Reading Practice
 	Ch.1, "Introducing the History of Marketing Theory and Practice from Marketing: A Critical Textbook (pp. 1-6)
-	
-
-Socratic seminar
 
 
---- Content 2 
-
-work time
+Work time

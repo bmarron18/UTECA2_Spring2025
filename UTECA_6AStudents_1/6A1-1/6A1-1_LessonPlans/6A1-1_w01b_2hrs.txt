@@ -30,14 +30,12 @@ Today
 #######
 ---- Open (10 min)
 
-"One man's 'magic' is another man's engineering. 'Supernatural' is a null word."
-		-- Robert A. Heinlein
+
 
 ---- Content 1 (40 min)
 
 Socratic
 	"Scientists vs engineers: this time it’s financial"
-
 
 
 	"The Differences Between Engineering and Science"
@@ -51,6 +49,7 @@ Critiques
 	* When are they useful? 
 	* Where are they used?
 	* Why are they useful?
+
 
 Go thru 
 	"Helpful Hints for Writing A Critique"

@@ -558,3 +558,153 @@ These are crucial for understanding a bank's financial health, regulatory compli
         Liquidity coverage metrics.	
 
 
+
+General Economic Terms 
+    Scarcity
+	Supply and Demand: : The relationship between the availability of a product (supply) and the desire for that product (demand), which determines its price.
+	
+    Opportunity Cost: The cost of the next best alternative foregone when a decision is made.
+	
+	Fiscal Policy: The use of government spending and taxation to influence the economy.
+	
+	Monetary Policy: The process by which a central bank manages the supply of money and interest rates to influence economic activity.
+	
+	Market Economy: An economic system where decisions regarding investment, production, and distribution are guided by market forces such as supply and demand.
+	
+    Market Equilibrium
+    Elasticity (Price Elasticity of Demand, Elasticity of Supply)
+    Marginal Utility
+    Diminishing Marginal Returns
+    Economic Efficiency
+    Comparative Advantage
+	
+	
+
+Microeconomics Concepts
+    Externalities (Positive, Negative)
+    Public Goods
+    Market Failure
+    Monopoly
+    Oligopoly
+    Perfect Competition
+    Monopolistic Competition
+    Game Theory
+
+Macroeconomics Concepts
+    Gross Domestic Product (GDP)
+    Gross National Product (GNP)
+    Inflation
+    Deflation
+    Stagflation
+    Labor Force Participation Rate
+    Aggregate Demand (AD)
+    Aggregate Supply (AS)
+    Business Cycle
+
+Fiscal Policy
+    Government Spending
+    Taxation
+    Budget Deficit
+    Budget Surplus
+    Public Debt
+    Automatic Stabilizers
+    Discretionary Fiscal Policy
+    Progressive Taxation
+    Regressive Taxation
+    Proportional Taxation
+
+Monetary Policy
+    Money Supply
+    Interest Rates
+    Central Bank
+    Federal Reserve (The Fed)
+    Open Market Operations (OMO)
+    Discount Rate
+    Reserve Requirement
+    Monetary Expansion
+    Quantitative Easing (QE)
+    Inflation Targeting
+
+International Economics
+    Exchange Rates
+    Balance of Payments (BOP)
+    Trade Deficit
+    Trade Surplus
+    Tariffs
+    Quotas
+    Trade Agreements
+    World Trade Organization (WTO)
+    Foreign Direct Investment (FDI)
+    Comparative vs. Absolute Advantage
+
+Development Economics
+    Human Development Index (HDI)
+    Poverty Line
+    Income Inequality
+    Gini Coefficient
+    Microfinance
+    Sustainable Development
+    Infrastructure Development
+    Foreign Aid
+    Population Growth
+    Economic Growth Models
+
+Behavioral Economics
+    Bounded Rationality
+    Nudge Theory
+    Prospect Theory
+    Anchoring Bias
+    Behavioral Finance
+    Loss Aversion
+    Herd Behavior
+    Mental Accounting
+    Hyperbolic Discounting
+    Choice Overload
+
+Key Acronyms in Economics
+    GDP - Gross Domestic Product
+    CPI - Consumer Price Index
+    PPI - Producer Price Index
+    FOMC - Federal Open Market Committee
+    IMF - International Monetary Fund
+    WTO - World Trade Organization
+    FDI - Foreign Direct Investment
+    NAFTA - North American Free Trade Agreement (now USMCA)
+    EU - European Union
+    OECD - Organization for Economic Cooperation and Development
+	
+1. Financial Market:
+
+    Definition: A broad term encompassing all markets where financial instruments are traded, such as stocks, bonds, derivatives, currencies, and more.
+    Purpose: Facilitates the flow of money between borrowers and lenders, enabling economic activities.
+    Types:
+        Money Market: Short-term borrowing and lending (e.g., treasury bills, commercial paper).
+        Capital Market: Long-term borrowing and lending (see below).
+        Foreign Exchange Market (Forex): Currency trading.
+        Derivatives Market: Trading financial contracts based on underlying assets.
+
+2. Capital Market:
+
+    Definition: A subset of the financial market where long-term financial instruments (maturing in more than a year) like stocks and bonds are traded.
+    Purpose: Helps businesses and governments raise funds for long-term investments and infrastructure projects.
+    Participants: Corporations, governments, institutional investors, and retail investors.
+    Divisions:
+        Primary Market: Where new securities are issued (e.g., IPOs).
+        Secondary Market: Where existing securities are traded among investors.
+
+3. Stock Market:
+
+    Definition: A specific part of the capital market focused exclusively on the buying, selling, and issuance of equities (stocks/shares).
+    Purpose: Provides companies with access to capital and investors with partial ownership in companies.
+    Example: NYSE, NASDAQ, London Stock Exchange.
+    Activities:
+        Primary Market Activities: IPOs (Initial Public Offerings) or direct stock offerings.
+        Secondary Market Activities: Trading of stocks between investors.
+
+Key Differences:
+Aspect		Financial Market							Capital Market							Stock Market
+Scope	Broad (all financial instruments)			Focused on long-term instruments			Focused on equity trading
+Instruments	Stocks, bonds, currencies, derivatives, etc.	Stocks and bonds	Only stocks
+Purpose	General financial intermediation	Long-term funding and investment	Ownership in companies
+Examples	Money Market, Forex Market	Primary and Secondary Markets	NYSE, NASDAQ
+
