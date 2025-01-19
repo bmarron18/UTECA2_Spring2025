@@ -5,7 +5,7 @@ Ciclo: 			25-2
 Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
 Curso:			IT0628
 Licenciatura: 	Interpretación y Traduccíón
-Horario:		Miercoles 16:00 – 19:00
+Horario:		Jueves 16:00 – 19:00
 Grupo:			6A
 
 
@@ -21,7 +21,7 @@ For this assignment and for all subsequent assignments in this class, the follow
 	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date, That is, your upper right-hand corner should look like this.
 
                          <Your Name>
-                         IT0629 (Marron)
+                         IT0628 (Marron)
 						 <Assignment ID>
                          Date
 
@@ -63,7 +63,7 @@ Go thru
 
 Round Table (general and science)
 	* function of language? 
-	* structure of language ?
+	* structure of language?
 	* discipline-specific jargon?
 	* communication channels?
 	
@@ -81,7 +81,7 @@ Reading Practice: Read aloud
 	Handbooks of Applied Linguistics (HAL), vol. 9. Berlin, 2007
 
 
-Work Time
+---- Work Time
 
 
 

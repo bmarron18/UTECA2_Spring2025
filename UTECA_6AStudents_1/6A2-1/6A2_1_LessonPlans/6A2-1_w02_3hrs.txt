@@ -5,7 +5,7 @@ Ciclo: 			25-2
 Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
 Curso:			IT0628
 Licenciatura: 	Interpretación y Traduccíón
-Horario:		Miercoles 16:00 – 19:00
+Horario:		Jueves 16:00 – 19:00
 Grupo:			6A
 
 
@@ -13,9 +13,8 @@ Grupo:			6A
 HW_02
 Due: 30 Jan 2025
 ####
--- HW_02.1
 
--- HW_02.1
+
 
 #######
 Today
@@ -31,9 +30,9 @@ lot of courage to move in the opposite direction."
 
 
 
----- Content 1 (40 min)
+---- Content 
 
-Jargon
+On jargon
 
 "SCIENTIFIC JARGON, GOOD AND BAD" by Russel Hirst
 J. TECHNICAL WRITING AND COMMUNICATION, Vol. 33(3) 201-229, 2003
@@ -128,15 +127,6 @@ Jargon in Style
 	
 
 
-
-
----- Content 2 (50 min)
-
-
-
-
-#### Break (10 min)  #####
----- Content 3 (50 min)
 HW Time
 
 

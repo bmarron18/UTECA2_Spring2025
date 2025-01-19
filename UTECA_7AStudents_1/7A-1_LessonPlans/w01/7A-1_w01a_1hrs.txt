@@ -5,7 +5,7 @@ Ciclo: 			25-2
 Materia: 		Terminología Especializada en Documentos Jurídicos
 Curso:			IT0733
 Licenciatura: 	Interpretación y Traducción
-Horario:		Martes 19:00 – 20:00, Miércoles 15:00 – 16:00, Jueves 18:00 – 19:00
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
 Grupo:			7A
 
 
@@ -13,7 +13,7 @@ Grupo:			7A
 Today
 #########
 
----- Open (40 min)
+---- Open 
 
 Intros
 
@@ -22,7 +22,7 @@ Go thru
 	* Course sequence
 	* Course contract
 
----- Content 1 (10 min)
+---- Content 
 
 At his best, man is the noblest of all animals; separated from law and justice he is the worst. 
 		-- Aristotle

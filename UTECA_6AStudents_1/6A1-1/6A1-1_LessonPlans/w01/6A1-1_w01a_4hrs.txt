@@ -18,7 +18,7 @@ Select two (2) fields of engineering. You will become an expert in these fields 
 
 For this assignment and for all subsequent assignments in this class, the following format requirements apply:
 	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
-	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date, That is, your upper right-hand corner should look like this.
+	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date. That is, your upper right-hand corner should look like this:
 
                          <Your Name>
                          IT0629 (Marron)
@@ -84,7 +84,7 @@ Translation Problems in Picon
 		.. I will envisage in particular the interest of notions such as...
 
 
-I found these in Picon...... 
+I found these in Picon....................................
 Facts
 	two fundamental aspects of the history of engineers
 		the history of social framework for engineers
@@ -107,9 +107,9 @@ Theses
 	Engineering looks more like a continent marked by striking contrasts than like a unified field. On this continent, no self-evident link seems to exist between the organization of the profession and the various activities engineers are involved in.
 
 	The lack of relations between these two fundamental aspects of the history of engneers is partly attributable to the extreme 	diversity of their jobs and realizations. Besides the distance that separates civil, mechanical or electrical engineering, engineers—since the second half of the 19th century at least—have occupied all kinds of positions between purely technical functions and management responsibilities.
+...................................
 
-
-Work time
+---- Work time
 
 
 

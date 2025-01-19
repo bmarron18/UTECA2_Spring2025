@@ -5,13 +5,14 @@ Ciclo: 			25-2
 Materia: 		Terminología Especializada en Mercadotécnica y Diseño
 Curso:			IT0942
 Licenciatura: 	Interpretación y Traducción
-Horario:		Miércoles 19:00 – 20:00, Jueves 15:00 – 17:00
+Horario:		Miércoles 18:00 – 21:00
 Grupo:			9A
 
 
 ####
-HW_01
-Due: 23 Jan 2025
+HW01	Due: 23 Jan 2025
+	HW01.1
+	HW01.2
 ####
 You must become a language designer. These first two assignments will introduce you to some foundational concepts in the history of marketing and in linguistics.
 
@@ -26,17 +27,16 @@ Write a one-page summary of the excerpt in English and translate the summary int
 
 For this assignment and for all subsequent assignments in this class, the following format requirements apply:
 	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
-	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date, That is, your upper right-hand corner should look like this.
+	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date. That is, your upper right-hand corner should look like this:
 
                          <Your Name>
-                         IT0629 (Marron)
+                         IT0942 (Marron)
 						 <Assignment ID>
                          Date
 
 	* The title of your paper should be centered in bold.
 	* Unless told otherwise, you must include references in a standard format (eg, APA)
 	* The assignment must be printed for submission although students should save a copy in PDF format.
-
 
 -- HW_01.2
 Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 4-8):
@@ -90,4 +90,4 @@ Speed Reading Practice
 	Ch.1, "Introducing the History of Marketing Theory and Practice from Marketing: A Critical Textbook (pp. 1-6)
 
 
-Work time
+---- Work time
