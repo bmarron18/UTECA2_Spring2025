@@ -10,10 +10,10 @@ Grupo:			6A
 
 
 ####
-HW_01
-	HW01.1
-	HW01.2
-Due: 21 Jan 2025
+HW_02
+	HW02.1
+	HW02.2
+Due: 28 Jan 2025
 ####
 
 
@@ -22,12 +22,12 @@ Today
 #######
 ---- Open
 
-
+“The way to succeed is to double your failure rate.”
+	—Thomas J. Watson, pioneer in the development computing equipment for IBM
 
 ---- Content
 
-Socratic
-	"The Differences Between Engineering and Science"
+
 	
 
 Work Time
