@@ -11,14 +11,12 @@ Grupo:			6A
 
 ####
 HW_02
-Due: 28 Jan 2025
 ####
---- HW_02.1
-	Read Chap. III The Nature of Normal Science in Thomas Kuhn's, "The Structure of Scientific Revolutions". Extract  3-5 main points from the text. Be prepared to share these in class.
+--- HW_02.1		[Due: 23 Jan 2025]
+	Read Chap. III The Nature of Normal Science in Thomas Kuhn's, "The Structure of Scientific Revolutions." Extract  3-5 main points from the text. Be prepared to share these in class.
 	
-
---- HW_02.2
-	Translate B. Remarks On The Nature of Normal Science from An Overview Of Thomas Kuhn's, "The Structure of Scientific Revolutions" into Spanish. Standard format requirements apply.
+--- HW_02.2		[Due: 28 Jan 2025]
+	From "An Overview Of Thomas Kuhn's, 'The Structure of Scientific Revolutions'", translate part B. 'Remarks On The Nature of Normal Science' into Spanish. Standard format requirements apply.
 
 
 #######
@@ -89,10 +87,14 @@ Socratic Seminar after silent reading
 						
 
 
+
 Presentations
+(one of two fields)
+
+
+
 
 Thoughts on Picon (Students)
-
 I found these in Picon....................................
 Facts
 	two fundamental aspects of the history of engineers
@@ -115,7 +117,7 @@ Questions Addressed
 Theses
 	Engineering looks more like a continent marked by striking contrasts than like a unified field. On this continent, no self-evident link seems to exist between the organization of the profession and the various activities engineers are involved in.
 
-	The lack of relations between these two fundamental aspects of the history of engneers is partly attributable to the extreme 	diversity of their jobs and realizations. Besides the distance that separates civil, mechanical or electrical engineering, engineers—since the second half of the 19th century at least—have occupied all kinds of positions between purely technical functions and management responsibilities.
+	The lack of relations between these two fundamental aspects of the history of engneers is partly attributable to the extreme diversity of their jobs and realizations. Besides the distance that separates civil, mechanical or electrical engineering, engineers—since the second half of the 19th century at least—have occupied all kinds of positions between purely technical functions and management responsibilities.
 ...................................
 
 Turn in HW
@@ -125,33 +127,9 @@ Turn in HW
 
 Read Aloud 
 	St Mary's College of Maryland 
-	An Overview Of Thomas Kuhn's, "The Structure of Scientific Revolutions"
+		An Overview Of Thomas Kuhn's, "The Structure of Scientific Revolutions
 
 
 
 
-Thomas Kuhn, "The Structure Of Scientific Revolutions"
-	III. The Nature of Normal Science
-	
-	Normal science consists in the actualization of that promise, an actualization achieved by extending the knowledge of those 
-	facts that the paradigm displays as particularly revealing, by increasing the extent of the match between those facts and the 
-	paradigm’s predictions, and by further articulation of the paradigm itself.
-	
-	Few people who are not actually practitioners of a mature science realize how much mop-up work of this sort a paradigm leaves to 
-	be done or quite how fascinating such work can prove in the execution. And these points need to be understood. Mopping-up 
-	operations are what engage most scientists throughout their careers.
-	
-	No part of the aim of normal science is to call forth new sorts of phenomena; indeed those that will not fit the box are often 	
-	not seen at all. Nor do scientists normally aim to invent new theories, and they are often intolerant of those invented by 
-	others.
-
-
-
-
-
-
-
-
-
-
-Work time
+---- Work time

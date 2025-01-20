@@ -16,9 +16,6 @@ HW_02.2
 ####
 
 
-
-
-
 #########
 Today
 #########
@@ -32,7 +29,8 @@ The end of law is not to abolish or restrain, but to preserve and enlarge freedo
 
 ---- Content 
 
-Presentations [one (1) field]
+Presentations 
+	[first field of law]
 
 
 On jargon
@@ -117,6 +115,7 @@ Jargon vs. "Fat"
 	Since the compressor broke down before we finished the job, we told the contractor to bring us another one, 
 	at no extra cost, or we 'd cancel our contract with him.
 
+
 Getting to Good Jargon
 	* Aldous Huxley said that if a person really knows the subject, "s/he will be able to speak of it in an easy language and
 	with the completeness of conviction with which s/he talks of an ordinary every-day matter. If s/he does not, s/he will be afraid
@@ -140,6 +139,12 @@ Jargon in Style
 	* Use words with a precise meaning rather than those that are vague
 	
 
+Read
+DIEGO VALADÉS, "THE LANGUAGE OF LAW AND THE LAW OF THE LANGUAGE"
+	p.19-24 	I. The Language of Law
+					1. The Word Law
+					2. The Words of Law		
+	p.31-35			3. Legal Lexicons
 
 
 ---- Work Time

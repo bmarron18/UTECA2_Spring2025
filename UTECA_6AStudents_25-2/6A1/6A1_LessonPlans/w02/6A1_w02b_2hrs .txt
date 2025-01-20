@@ -10,10 +10,8 @@ Grupo:			6A
 
 
 ####
-HW_02
-	HW02.1
-	HW02.2
-Due: 28 Jan 2025
+HW02.1		Due: 23 Jan 2025
+HW02.2		Due: 28 Jan 2025
 ####
 
 
@@ -27,10 +25,33 @@ Today
 
 ---- Content
 
+Presentations 
+(two of two fields)
 
+
+Reminder of Kuhn's SSR Sequence (from Overview doc)
+
+
+
+Share Out / Discuss
+	III. The Nature of Normal Science Thomas Kuhn, "The Structure Of Scientific Revolutions"
 	
+	Normal science consists in the actualization of that promise, an actualization achieved by extending the knowledge of those facts that the paradigm displays as particularly revealing, by increasing the extent of the match between those facts and the paradigm’s predictions, and by further articulation of the paradigm itself.
+	
+	Few people who are not actually practitioners of a mature science realize how much mop-up work of this sort a paradigm leaves to be done or quite how fascinating such work can prove in the execution. And these points need to be understood. Mopping-up operations are what engage most scientists throughout their careers.
+	
+	No part of the aim of normal science is to call forth new sorts of phenomena; indeed those that will not fit the box are often not seen at all. Nor do scientists normally aim to invent new theories, and they are often intolerant of those invented by others.
 
-Work Time
+
+
+
+In-Class Reading / Share Out / Discussion
+	Read Chap. IV. Normal Science as Puzzle-solving in Thomas Kuhn's, "The Structure of Scientific Revolutions." Extract  3-5 main points from the text. Be prepared to share these in class.
+
+
+
+
+---- Work Time
 
 
 
