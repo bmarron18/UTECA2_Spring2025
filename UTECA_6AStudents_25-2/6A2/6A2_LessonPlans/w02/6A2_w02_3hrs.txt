@@ -11,7 +11,7 @@ Grupo:			6A
 
 ####
 HW_02.1 	[Due: ]
-	Take about five (5) lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
+	Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
 		i) The original material and its source
 		ii) Your jargonized version of the original in both English and Spanish
 		
@@ -19,6 +19,11 @@ Standard format applies. And we will try to guess the original when you read the
 
 HW_02.2		[Due: ]
 ####
+	Investigate the mental process that engineers and scientists use to solve a problem. More specifically, 
+	i) Given a design or conceptual problem, what is a first step that engineers and scientists are likely to take? Why?
+	ii) What are the accepted foundations for conceptualizing the problem? That is, what is the worldview or the overarching mental model that lies at the very foundation of science and engineering? What are the components of this worldview?
+	iii) What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin modeling the problem?
+	iv) When are models useful for reaching a soluton to the problem? If no solution presents itself what can the engineer or scientist do?
 
 
 
@@ -141,15 +146,19 @@ Language Structures and Functions in Engineering
 	Look at a standard curriculum
 
 	Look at language structures used by engineers
-		structures are a result of:
+	The structures are a result of:
 			*natural laws and mathematics as a common language
 			*the methodology and process of problem solving using heuristics and models
-			*developing models from fundamental principles is the hallmark of engineering courses
-			*analysis and design
+			*developing models from fundamental principles (the hallmark of engineering courses)
 		
 
+	Look at the engineer's mental paradigm
+		*analysis (models) and design (models)
+		*Nature (and problems) are studied with models
+		*ASSUMES natural laws and mathematics can yield useful models for MOST problems
+		*
 
-
+	A model is a purposeful representation of reality.
 
 ---- Work Time
 
