@@ -42,25 +42,19 @@ Presentations ( 1 field applied)
 
 General Economic Concepts and Terms
 
-Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the 
-goods and services we might desire. In other words, society faces a scarcity of resources.
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
 
-	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services 
-	we need. We are economically linked to others in hundreds—even thousands—of different ways.
+	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we need. We are economically linked to others in hundreds—even thousands—of different ways.
 	
-	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because 
-	specialization and exchange enable us to enjoy greater production, and higher living standards 
-	than would otherwise be possible.
+	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because specialization and exchange enable us to enjoy greater production, and higher living standards than would otherwise be possible.
 
 
 Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must 
 shift resources away from producing something else. “There is no such thing as a free lunch.”
 		
-	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they 
-	are constrained by the resources they control.
+	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are constrained by the resources they control.
 	
-		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have 
-		more or less resources under their control than others.
+		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have more or less resources under their control than others.
 		
 
 
@@ -84,25 +78,27 @@ Terms
 		Long-lasting tools used in producing goods and services. (human and physical)	
 		
 	Supply and Demand
-		The relationship between the availability of a product/service (supply) and the desire for 
-		that product/service (demand)
+		The relationship between the availability of a product/service (supply) and the desire 
+		for that product/service (demand)
 		
     Opportunity Cost
 		The cost of the next best alternative foregone when a decision is made.
 		
 	Comparative Advantage 
-		The ability to produce a good or service at a lower opportunity cost than other producers.
+		The ability to produce a good or service at a lower opportunity cost than other 
+		producers.
 		
 	Resource Allocation 
-		A method of determining which goods and services will be produced, how they will be produced, 
-		and who will get them.
+		A method of determining which goods and services will be produced, how they will be 
+		produced, and who will get them.
 		
 	Traditional Economy 
-		An economy in which resources are allocated according to long-lived practices from the past.
+		An economy in which resources are allocated according to long-lived practices from the 
+		past.
 		
 	Command or Centrally Planned Economy 
-		An economic system in which resources are allocated according to explicit instructions from a 
-		central authority.
+		An economic system in which resources are allocated according to explicit instructions 
+		from a central authority.
 		
 	Market Economy 
 		An economic system in which resources are allocated through individual decision making.

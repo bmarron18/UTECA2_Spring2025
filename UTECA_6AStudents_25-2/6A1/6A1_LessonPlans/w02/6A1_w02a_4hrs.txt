@@ -29,13 +29,16 @@ Today
 	—Isaac Asimov, American writer, professor of biochemistry
 
 
+
+
 ---- Content
 
-Socratic Seminar after silent reading
+Socratic Seminar / Silent reading
 	Jeremy Ramsden, "The Differences Between Engineering and Science"
 
 
-	General perception 	1)“industry, science and technology create jobs and create wealth”
+	General perception 
+		“industry, science and technology create jobs and create wealth”
 
 						
 	Three states 	1) academic science and scientists
@@ -45,8 +48,8 @@ Socratic Seminar after silent reading
 						empirical support "how improbable quantitative discovery by quantitative 
 						measurement is.”
 						
-						independent mission to uncover hidden truths about nature and the scientists 
-						are guided by their intuition about what is important to investigate, which 
+						independent mission to uncover hidden truths about nature are guided by their 
+						intuition about what is important to investigate, which 
 						may only be slightly influenced by practical human needs
 						
 						the scientist has an easier task — he or she is only dealing with the absolute 
@@ -57,7 +60,7 @@ Socratic Seminar after silent reading
 						imagination to the creation of useful products required by society.
 						
 						the engineer, when confronted by problems, for which existing knowledge is 
-						inadequate, will not wait for the  scientist but will forge ahead, using 
+						inadequate, will not wait for the scientist but will forge ahead, using 
 						heuristic methods to establish a bridgehead in unknown territory, achieving 
 						what the scientists may have deemed to be “impossible”
 						
@@ -100,7 +103,7 @@ Presentations
 
 
 
-Thoughts on Picon (Students)
+Thoughts on Picon HW (Students)
 I found these in Picon....................................
 Facts
 	two fundamental aspects of the history of engineers
@@ -130,11 +133,10 @@ Turn in HW
 
 ---break
 
-
-Read Aloud 
+Intro to Kuhn's SSR
+Read Aloud / Silent Read
+	An Overview Of Thomas Kuhn's, "The Structure of Scientific Revolutions
 	St Mary's College of Maryland 
-		An Overview Of Thomas Kuhn's, "The Structure of Scientific Revolutions
-
 
 
 
