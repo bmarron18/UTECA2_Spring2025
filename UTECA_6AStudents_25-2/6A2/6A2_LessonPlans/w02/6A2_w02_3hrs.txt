@@ -20,10 +20,18 @@ Standard format applies. We will try to guess the original when you read the jar
 
 HW_02.2	[Due: 30Jan2025]
 Investigate the mental process that engineers and scientists use to solve a problem. More specifically, 
-	i) Given a design or conceptual problem, what is a first step that engineers and scientists are likely to take? Why?
-	ii) What are the accepted foundations for conceptualizing a problem? That is, what is the worldview or the overarching mental model that lies at the very foundation of science and engineering? What are the components of this worldview?
-	iii) What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin modeling a problem?
-	iv) When are models useful for reaching a soluton to a problem? If no solution presents itself what can the engineer or scientist do?
+	i) Given a design or conceptual problem, what is a first step that engineers and scientists 
+	are likely to take? Why?
+	
+	ii) What are the accepted foundations for conceptualizing a problem? That is, what is the 
+	worldview or the overarching mental model that lies at the very foundation of science and 
+	engineering? What are the components of this worldview?
+	
+	iii) What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin 
+	modeling a problem?
+	
+	iv) When are models useful for reaching a soluton to a problem? If no solution presents 
+	itself what can the engineer or scientist do?
 	
 The results of your investigations will be delivered in a two-page paper. The original paper is to be written in English and you must provide a Spanish translation. Standard format applies and references must be included.
 ###############################################
@@ -45,6 +53,7 @@ Today
 ---- Content 
 
 Presentations (field of science)
+
 
 
 
@@ -152,11 +161,11 @@ Jargon in Style
 
 
 Language Structures and Functions in Engineering 
-	(from Richards', BASIC-ENGINEERING-SCIENCE p 9-11; p 16-20)
+	(from Richards', BASIC-ENGINEERING-SCIENCE )
 
-	Look at a standard curriculum
-
+	Look at a standard curriculum (p 9-11; p 16-20
 	Look at language structures used by engineers
+
 	Language structure create mental models
 	The structures are a result of:
 			*natural laws and mathematics as a common language
@@ -168,11 +177,13 @@ Language Structures and Functions in Engineering
 		*analysis (models) and design (models)
 		*Nature (and problems) are studied with models
 		*ASSUMES natural laws and mathematics can yield useful models for MOST problems
-		*
+		
 
 	A model is a purposeful representation of reality.
 	
-	Figure A-1 (p 386) Heuristic for Problem Solving in Richards_BASIC-ENGINEERING-SCIENCE
+	
+	Look at Figure A-1 (p 386) Heuristic for Problem Solving 
+	(Richards_BASIC-ENGINEERING-SCIENCE)
 
 
 

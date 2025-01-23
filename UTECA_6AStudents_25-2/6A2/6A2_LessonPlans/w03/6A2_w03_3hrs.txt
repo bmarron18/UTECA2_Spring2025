@@ -40,6 +40,14 @@ Review HW_01.2
 Read Out / Jargonized HW_02.1 
 
 
+[Richards_BASIC-ENGINEERING-SCIENCE]
+The six extensive properties (p 10)
+9.3: Appendix C- Summary of Conservation and Accounting Equations, (p 399)
+The fundamental laws are related to six extensive properties—mass, charge, linear momentum, angular momentum, energy, and entropy. In each case, the physical law is introduced by answering four questions about the pertinent extensive property:
+	What is the property in question?
+	How can it be stored in a system?
+	How can it be transported across the system boundary?
+	How can it be generated or consumed inside the system?
 
 
 Introduce Wicked Problems
@@ -48,6 +56,6 @@ Introduce Wicked Problems
 
 ---- Work Time
 
-Figure A-1 p 386 Heuristic for Problem Solving
+
 
 

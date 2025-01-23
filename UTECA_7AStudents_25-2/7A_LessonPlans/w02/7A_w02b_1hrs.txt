@@ -22,7 +22,7 @@ As a first step in your investigation, check out the following links to Cornell 
 
 	civil law (Mexico via Spain and France)
 	https://www.law.cornell.edu/wex/civil_law
-
+https://www.law.cornell.edu/wex/
 	common law (US via England)
 	https://www.law.cornell.edu/wex/common_law
 
@@ -42,7 +42,7 @@ Today
 
 ---- Content 
 
-Presentations
+Presentations cont.
 	[fields of law]
 
 Highlights
@@ -50,7 +50,7 @@ Glogar, "What Make Legal Language Legal?"
 	p.17 	4.2 What Could the Attribute ‘Legal’ Mean? (again, rather poor writing)
 	
 	1. Defined by a ‘quality’ (e.g., incomprehensibility, complexity)
-	2. Defined by ‘officialness’ (manifestations of public authorities bearing normativity)
+	2. Defined by ‘officialness’ (manifestations of public https://www.law.cornell.edu/wex/authorities bearing normativity)
 	3. Defined by speakers and their profession (as language used by lawyers)
 	4. Defined by an enumeration of genres or categories of texts or speeches
 	5. Defined by situational settings (especially function)
