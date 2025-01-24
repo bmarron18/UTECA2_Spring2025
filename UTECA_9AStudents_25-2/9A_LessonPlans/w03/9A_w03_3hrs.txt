@@ -34,6 +34,7 @@ Concept of Value
 
 
 Structure, Function, and Design of Advertisements
+Value
 
 from Kosler&Armstrong_Principles-of-Marketing
 	integrated marketing communications
@@ -42,8 +43,8 @@ from Kosler&Armstrong_Principles-of-Marketing
 	p 452 advertising history
 	p 457 advertisement strategy
 	p 461 Message Execution style The approach, style, tone, words, and format used for executing an advertising message
-	
-	
+
+
 
 
 --- Work time
