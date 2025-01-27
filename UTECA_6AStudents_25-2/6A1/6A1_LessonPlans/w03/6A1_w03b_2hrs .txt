@@ -1,4 +1,4 @@
-							LESSON PLAN  (200 min)
+							LESSON PLAN  (100 min)
 
 Docente:		Bruce D. Marron
 Ciclo: 			25-2
@@ -8,10 +8,9 @@ Licenciatura: 	Interpretación y  Traducción
 Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
 Grupo:			6A
 
-
 NB. HW_03 will be last HW on 1st partial
 
-#####################
+####
 HW_03.1		[Due: 4 Feb 2025]
 Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
 	System
@@ -31,44 +30,38 @@ Write extended and complete definitions (in both English and Spanish) for the fo
 
 HW_03.2		[Due: 4 Feb 2025]
 In a one-page paper (in both English and Spanish) compare and contrast Kuhn's concept of normal science, and the public's perception of linear science and engineering, with wicked problems. The standard format applies.
-#####################################
-
-
+######################################
 
 #######
 Today
 #######
-
 ---- Open
+“
+…most…problems in organizations [and elsewhere] are
+‘wicked problems,’…but most [problem solving] methods
+are suitable for simple, well-structured problems.
+The usual approaches do not, therefore, help organizations
+[or people] deal with their most important problems.”
 
-“The way to succeed is to double your failure rate.”
-	—Thomas J. Watson, pioneer in development computing equipment for IBM
-
----- Content 
-
-Hand back HW
-	Notes
-
-
-Share out / Review HW_02.2	(translation)
-St Mary's College of Maryland
-	An Overview Of Thomas Kuhn's, "The Structure Of Scientific Revolutions"
+Creative Problem Solving
+Robert Flood and M. Jackson (1991)
 
 
-Review
-	IV. Normal Science as Puzzle-solving
-	
-	(my notes)
-	
-	
-Engineering
-2.1: System, Property, State, and Process
-	(p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE)
+
+---- Content
+
+The Elements of Style in Professional Writing
+	Strunk and White’s. “Elements of Style”
 
 
-And now...
-	Wicked Problems vs Normal Science
-	(*Batie_Tame_and_Wicked_Problems.pdf)
 
 
----- Work time
+---- Work Time
+
+
+
+
+
+
+
+
