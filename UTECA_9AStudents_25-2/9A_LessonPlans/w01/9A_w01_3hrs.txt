@@ -9,14 +9,11 @@ Horario:		Miércoles 18:00 – 21:00
 Grupo:			9A
 
 
-####
-HW01	Due: 23 Jan 2025
-	HW01.1
-	HW01.2
-####
+
+#####################
 You must become a language designer. These first two assignments will introduce you to some foundational concepts in the history of marketing and in linguistics.
 
--- HW_01.1
+-- HW_01.1	Due: 23 Jan 2025
 Read the following excerpt from Ch.1, "Introducing the History of Marketing Theory and Practice from Marketing: A Critical Textbook (pp. 1-6):
 	* 1.1 Introduction
 	* 1.2 The Early Development of Marketing Thought
@@ -38,7 +35,7 @@ For this assignment and for all subsequent assignments in this class, the follow
 	* Unless told otherwise, you must include references in a standard format (eg, APA)
 	* The assignment must be printed for submission although students should save a copy in PDF format.
 
--- HW_01.2
+-- HW_01.2 [Due: 23 Jan 2025]
 Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 4-8):
 	*Introduction
 	Part I – Linguistics and Language Research

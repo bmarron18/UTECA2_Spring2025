@@ -9,11 +9,23 @@ Horario:		Jueves 16:00 – 19:00
 Grupo:			6A
 
 
-####
-HW_03.1 	
+##########
+HW_03.1		[Due: 6 Feb 2025]
+Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
+	System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+	Intensive property
+		(temperature, pressure, velocity, density)
+		
+	Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
 
-HW_03.2		[Due: ]
-####
+	Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)
+		
+ As a point of reference see p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE.pdf. The standard format applies.
+##################
 
 
 
@@ -30,27 +42,22 @@ Today
 
 ---- Content 
 
-Presentations (if needed)
-
-
-Review HW_01.2
-	[excerpts from Carli & Calaresu's "Language and Science" (pp. 2-7)]
+Hand back HW
+	HW_01.1	field of science
+	HW_01.2 summary Carli & Calaresu's "Language and Science" (missing!
+	HW_02.2	[Due: today 30Jan2025] mental process to solve a problem
 
 
 Read Out / Jargonized HW_02.1 
 
 
-[Richards_BASIC-ENGINEERING-SCIENCE]
-The six extensive properties (p 10)
+Engineering Terms
+2.1: System, Property, State, and Process
+	(p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE)
+
+
 9.3: Appendix C- Summary of Conservation and Accounting Equations, (p 399)
-The fundamental laws are related to six extensive properties—mass, charge, linear momentum, angular momentum, energy, and entropy. In each case, the physical law is introduced by answering four questions about the pertinent extensive property:
-	What is the property in question?
-	How can it be stored in a system?
-	How can it be transported across the system boundary?
-	How can it be generated or consumed inside the system?
-
-
-Introduce Wicked Problems
+The fundamental laws are related to six extensive properties—mass, charge, linear momentum, angular momentum, energy, and entropy. 
 
 
 

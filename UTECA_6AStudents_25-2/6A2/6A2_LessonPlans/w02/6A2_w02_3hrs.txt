@@ -30,10 +30,10 @@ Investigate the mental process that engineers and scientists use to solve a prob
 	iii) What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin 
 	modeling a problem?
 	
-	iv) When are models useful for reaching a soluton to a problem? If no solution presents 
+	iv) When are models useful for reaching a solution to a problem? If no solution presents 
 	itself what can the engineer or scientist do?
 	
-The results of your investigations will be delivered in a two-page paper. The original paper is to be written in English and you must provide a Spanish translation. Standard format applies and references must be included.
+The results of your investigations will be delivered in a one-page+ paper. The original paper is to be written in English and you must provide a Spanish translation. Standard format applies and references must be included.
 ###############################################
 
 

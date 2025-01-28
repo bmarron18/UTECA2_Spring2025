@@ -12,9 +12,8 @@ Grupo:			5C
 
 
 ################
--- HW_03.1  [Due:
-
---- HW03.2
+-- HW_03.1  [Due: 6 Feb 2025]
+Review CAPITULO III (De las Operaciones), ARTICULO 7o of Ley del Banco de México (BANXICO). In a one-page+ paper, translate the entirety of ARTICULO 7o into English. The standard format requirements apply.
 
 #########################
 
@@ -26,17 +25,88 @@ Grupo:			5C
 
 
 ---- Content
+	Return HW
+		Notes
 
-Presentations ( 1 field applied)
+HW_01.1  [Due: 23 Jan 2025] one applied econ; one applied investing
+HW_02.1  [Due: 30 Jan 2025] summary of excerpts from Nelson's, "Chapter 1: An Overview of Economics"
+HW_02.2  [Due: 30 Jan 2025]Review the axioms, theorems, and corollaries of standard economic theory; critique them.
 
 
 
+Share Out HW_02.2 / thoughts and critique
 
 
-Round Table
+
+Banking Systems
+The US Banking System (p 708-713;  Hall&Lieberman)
+The Mexican Banking System (p 3 MexicanBankingSystem)
+
+The Bank of Mexico (Banxico) ---  Central bank
+US Federal Reserve System --- 	12 Federal Reserve districts each one served by its own Federal 								Reserve Bank
+
+BoM and the Fed have similar functions
+	Issue currency 
+	Interest rate regulation
+	Money supply management
+	Payment system facilitation (check clearing)
 	
+Other BoM functions
+	Foreign exchange regulation
+	Monetary policy
+	International reserve (stability of peso thru int'l reserves)
+	Lender of last resort
+
+
+https://www.banxico.org.mx/marco-normativo/legislacion-interes-disposici.html
+https://mexico.justia.com/federales/leyes/
+https://mexico.justia.com/federales/leyes/ley-del-banco-de-mexico/
+	99. Ley del Banco de México (BANXICO) 
+
+
+
+Banks
+* financial intermediaries 
+	A business firm that specializes in brokering between savers and borrowers.
+
+* specialize in assembling loanable funds from households and firms whose revenues exceed their expenditures, and channeling those funds to households and firms (and sometimes the government)
+
+
+
+US banks
+	depository institutions (accept deposits from the general public and lend the deposits to 		borrowers)
 	
-	Is the financial system important for economic growth? One line of research stresses the importance of the financial system in mobilizing savings, allocating capital, exerting corporate control, and easing risk management. A second branch of the literature argues that the financial system is unimportant for econoimlicgrowth. Stiglitz (1985, 1993) says that stock market liquidity will not enhance incentives for acquiring information about firms or exerting corporate governance.
+Types of US banks
+* 	Savings and loan associations (S&Ls) obtain funds through their customers’ time, savings, 		and checkable deposits and use them primarily to make mortgage loans.
+
+* 	Mutual savings banks accept deposits (called shares) and use them primarily tomake mortgage 	loans. They differ from S&Ls because they are owned by their depositors, rather than outside 	investors.
+
+* 	Credit unions specialize in working with particular groups of people, such as members of a 		labor union or employees in a specific field of business. They acquire funds through their 		members’ deposits and make consumer and mortgage loans to other members.
+
+* 	Commercial banks are the largest group of depository institutions. They obtain
+	funds mainly by issuing checkable deposits, savings deposits, and time deposits
+	and use the funds to make business, mortgage, and consumer loans.
+
+
+Types of Mexican banks 
+    Commercial banks: Accept deposits from savers and lend to borrowers (depository)
+    Development banks: Provide financial services
+    Savings institutions: Provide financial services (depository)
+    Cooperative credit societies: Provide financial services (depository)
+
+Non-banking intermediaries 
+    Insurers: Provide financial services
+    Stock exchanges: Provide financial services
+    Investment- and pension-fund managers: Provide financial services 
+
+Regulatory agencies
+    Banco de México
+	Comisión Nacional Bancaria y de Valores (CNBV)
+		regulates and oversees the banking and brokerage sectors 
+	Instituto para la Protección al Ahorro Bancario (IPAB)
+	Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros 	
+	(Condusef)
+	National Banking and Securities Commission (CNBV) 
 	
 
 

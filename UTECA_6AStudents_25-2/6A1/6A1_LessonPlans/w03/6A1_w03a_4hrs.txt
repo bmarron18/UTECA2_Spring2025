@@ -13,24 +13,9 @@ NB. HW_03 will be last HW on 1st partial
 
 #####################
 HW_03.1		[Due: 4 Feb 2025]
-Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
-	System
-		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
-		
-	Intensive property
-		(temperature, pressure, velocity, density)
-		
-	Extensive property
-		(mass, charge, linear momentum, angular momentum, energy, and entropy)
-
-	Conservation laws
-		(mass, charge, linear momentum, angular momentum, energy)
-		
- As a point of reference see p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE.pdf. The standard format applies.
+In a one-page+ paper (in both English and Spanish) compare and contrast Kuhn's concept of normal science, and the public's perception of linear science and engineering, with wicked problems. The standard format applies.
 
 
-HW_03.2		[Due: 4 Feb 2025]
-In a one-page paper (in both English and Spanish) compare and contrast Kuhn's concept of normal science, and the public's perception of linear science and engineering, with wicked problems. The standard format applies.
 #####################################
 
 
@@ -47,7 +32,13 @@ Today
 ---- Content 
 
 Hand back HW
-	Notes
+	 HW_01.1 two (2) fields of engineering
+	 HW_01.2 excerpts from Picon's paper
+	 HW_02.1 Read Chap. III Kuhn3-5 main points share out
+	 HW_02.2 [Due: today 28 Jan 2025] fr. St Mary's Overview of Kuhn, translate part B.
+	 HW_03.1 [Due: 4 Feb 2025] Normal science vs wicked problems
+	 
+	Notes on HW
 
 
 Share out / Review HW_02.2	(translation)
@@ -58,17 +49,48 @@ St Mary's College of Maryland
 Review
 	IV. Normal Science as Puzzle-solving
 	
-	(my notes)
+	To scientists, at least, the results gained in normal research are significant because they 
+	add to the scope and precision with which the paradigm can be applied.
+	
+	Bringing a normal research problem to a conclusion is achieving the anticipated in a new 
+	way, and it requires the solution of all sorts of complex instrumental, conceptual, and 
+	mathematical puzzles. The man who succeeds proves himself an expert puzzle-solver, and the 
+	challenge of the puzzle is an important part of what usually drives him on.
+	
+	Nevertheless, the individual engaged on a normal research problem is almost never doing any 
+	one of these things [open up new territory, display order, and test long-accepted belief.. 
+	Once engaged, his motivation is of a rather different sort. What then challenges him is the 
+	conviction that, if only he is skilful enough, he will succeed in solving a puzzle that no 
+	one before has solved or solved so well.
 	
 	
-Engineering
-2.1: System, Property, State, and Process
-	(p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE)
-
+	... one of the things a scientific community acquires with a paradigm is a criterion for 
+	choosing problems that, while the paradigm is taken for granted, can be assumed to have 
+	solutions. To a great extent these are the only problems that the community will admit as 
+	scientific or encourage its members to undertake.
+	
+	On the contrary, the really pressing problems, e.g., a cure for cancer or the design of a 
+	lasting peace, are often not puzzles at all, largely because they may not have any solution.
+	
 
 And now...
 	Wicked Problems vs Normal Science
 	(*Batie_Tame_and_Wicked_Problems.pdf)
+	
+	Read
+		Normal or Linear Science 
+		Figure 1
+		Wicked Problems
+		Table 1
 
+
+Introduce
+	Strunk and White’s. “Elements of Style”
+
+Look briefly at the grammar	
+	I. ELEMENTARY RULES OF USAGE
+	
+Read thru
+	II - Elementary Principles of Composition
 
 ---- Work time

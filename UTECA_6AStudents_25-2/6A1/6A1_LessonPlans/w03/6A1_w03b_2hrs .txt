@@ -10,26 +10,9 @@ Grupo:			6A
 
 NB. HW_03 will be last HW on 1st partial
 
-####
+######################
 HW_03.1		[Due: 4 Feb 2025]
-Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
-	System
-		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
-		
-	Intensive property
-		(temperature, pressure, velocity, density)
-		
-	Extensive property
-		(mass, charge, linear momentum, angular momentum, energy, and entropy)
-
-	Conservation laws
-		(mass, charge, linear momentum, angular momentum, energy)
-		
- As a point of reference see p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE.pdf. The standard format applies.
-
-
-HW_03.2		[Due: 4 Feb 2025]
-In a one-page paper (in both English and Spanish) compare and contrast Kuhn's concept of normal science, and the public's perception of linear science and engineering, with wicked problems. The standard format applies.
+In a one-page+ paper (in both English and Spanish) compare and contrast Kuhn's concept of normal science, and the public's perception of linear science and engineering, with wicked problems. The standard format applies.
 ######################################
 
 #######
@@ -50,11 +33,67 @@ Robert Flood and M. Jackson (1991)
 
 ---- Content
 
-The Elements of Style in Professional Writing
-	Strunk and White’s. “Elements of Style”
+
+R Murphy's, "English Grammar in Use"
+	Overview of text
+	Sample lessons to show structure
+	Study Guide p. 326	
+	Key to Exercises p 336
+	Key Study Guide p 372
+	
+
+
+Introduce
+	Yale Writing Resources for Graduate Students
+	https://poorvucenter.yale.edu/Writing-Resources-Tutorials
+
+The Graduate Writing Lab has collected a number of useful resources to guide you through the various forms of academic writing that you will encounter during your graduate career – from prospectus to dissertation. Follow the links below to find these handy downloadable tutorials!
+
+    Dissertation Writing
+    Grant and Fellowship Writing
+    Publishing
+    Prospectus Writing
+    Research Paper Writing
+    Working with Sources
+
+
+https://poorvucenter.yale.edu/graduate-students/writing-resources-tutorials/downloadable-english-grammar-tutorials
+
+Writing in formal English can be difficult for native and non-native English speakers alike. With the help of our downloadable tutorials, you can work on specific grammatical points and create a targeted approach to improving your English writing skills. Practice exercises and additional resources are included within each tutorial to help you master each lesson.
+
+Nouns
+    Noun Clauses
+    Nominalizations
+    Capitalizations of Nouns
+    Quantifiers
+    Articles and Common Nouns
+    Possessive Nouns
+    Plural Noun Forms
+
+Verbs
+    Subject-Verb Agreement
+    Simple v. Continuous Tense
+    Future Tense
+    Perfect Tense
+    Modal Verbs
+    Regular and Irregular Verbs 
+    Passive Voice
+
+Clauses
+    Clauses Overview
+    Linking Words
+    Sentence Structure
+    Adjective Clauses
+    Noun Clauses
+    Adverb Clauses
+    Conditional Clauses
 
 
 
+Do Study Guide and keep track of sections (Pass out slips to jot down sections)
+	R Murphy's, "English Grammar in Use"
+		Study Guide p. 326	
+		Key Study Guide p 372
 
 ---- Work Time
 
