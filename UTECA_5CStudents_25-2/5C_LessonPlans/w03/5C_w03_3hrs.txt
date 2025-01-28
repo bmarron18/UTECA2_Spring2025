@@ -9,7 +9,7 @@ Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
 Grupo:			5C
 
 
-
+NB. HW_03 will be last HW on 1st partial. Next week study guide.
 
 ################
 -- HW_03.1  [Due: 6 Feb 2025]
@@ -18,21 +18,20 @@ Review CAPITULO III (De las Operaciones), ARTICULO 7o of Ley del Banco de Méxic
 #########################
 
 
-
-
 ---- Open
 
 
 
 ---- Content
-	Return HW
+	
+	HW_01.1  [Due: 23 Jan 2025] fields of econ and investing
+	HW_02.1  [Due: 30 Jan 2025] summary Nelson's, "Chapter 1: An Overview of Economics"
+	HW_02.2  [Due: 30 Jan 2025] critique the axioms/theorems/corollaries of standard econ
+	HW_03.1  [Due: 6 Feb 2025] Ley del Banco de México
+
+
+Return HW
 		Notes
-
-HW_01.1  [Due: 23 Jan 2025] one applied econ; one applied investing
-HW_02.1  [Due: 30 Jan 2025] summary of excerpts from Nelson's, "Chapter 1: An Overview of Economics"
-HW_02.2  [Due: 30 Jan 2025]Review the axioms, theorems, and corollaries of standard economic theory; critique them.
-
-
 
 Share Out HW_02.2 / thoughts and critique
 

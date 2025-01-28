@@ -13,7 +13,7 @@ Grupo:			6A
 HW_01
 Due: 22 Jan 2025
 ####
--- HW_01.1
+-- HW_01.1	[Due: 23 Jan 2025]
 Select one (1) field of science. You will become an expert in this field and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a two-page paper on the history of your selected field of science. The first page of the paper will be dedicated to the general history the field. The second page of each paper will be dedicated to the history of the field in Mexico. 
 
 For this assignment and for all subsequent assignments in this class, the following format requirements apply:
@@ -31,7 +31,7 @@ For this assignment and for all subsequent assignments in this class, the follow
 
 For this assignment you should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. Remember, your deliverable will be the original paper, written in either English or Spanish, and the translated paper, written in either Spanish or English. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 10 min overview of your findings with a focus on Mexico. 
 
--- HW_01.2
+-- HW_01.2 [Due: 23 Jan 2025]
 Read the following excerpts from Carli & Calaresu's "Language and Science" (pp. 2-7):
 	* 1. Introduction
 	* 2. Outline and history of the field

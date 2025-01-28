@@ -9,12 +9,11 @@ Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
 Grupo:			6A
 
 
-NB. HW_03 will be last HW on 1st partial
+NB. HW_03 will be last HW on 1st partial. Next week study guide.
 
 #####################
 HW_03.1		[Due: 4 Feb 2025]
 In a one-page+ paper (in both English and Spanish) compare and contrast Kuhn's concept of normal science, and the public's perception of linear science and engineering, with wicked problems. The standard format applies.
-
 
 #####################################
 
@@ -29,16 +28,27 @@ Today
 “The way to succeed is to double your failure rate.”
 	—Thomas J. Watson, pioneer in development computing equipment for IBM
 
+
 ---- Content 
 
-Hand back HW
 	 HW_01.1 two (2) fields of engineering
 	 HW_01.2 excerpts from Picon's paper
 	 HW_02.1 Read Chap. III Kuhn3-5 main points share out
 	 HW_02.2 [Due: today 28 Jan 2025] fr. St Mary's Overview of Kuhn, translate part B.
 	 HW_03.1 [Due: 4 Feb 2025] Normal science vs wicked problems
 	 
-	Notes on HW
+Hand back HW
+	Margins
+	Text; double space
+	Header; single space
+	Organization titles
+		centred; bold; caps first words
+			L; underlined; caps first words
+	Paragraph options
+		Indent
+		Space
+	Widows/Orphans
+
 
 
 Share out / Review HW_02.2	(translation)
@@ -82,6 +92,7 @@ And now...
 		Figure 1
 		Wicked Problems
 		Table 1
+
 
 
 Introduce

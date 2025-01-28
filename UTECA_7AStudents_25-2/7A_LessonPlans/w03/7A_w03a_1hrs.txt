@@ -8,6 +8,8 @@ Licenciatura: 	Interpretación y Traducción
 Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
 Grupo:			7A
 
+NB. HW_03 will be last HW on 1st partial. Next week study guide.
+
 ################
 HW_03.1		[Due: 4 Feb 2025]
 Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed (use Justia for this.) For example:
@@ -49,12 +51,25 @@ If you must break the law, do it to seize power: in all other cases observe it.
 
 ---- Content 
 
-Hand back HW
-	Notes
 	HW01.1	[Due: 22 Jan 2025] two field of law
 	HW01.2	[changed to 2.1]
 	HW_02.1	[Due today] summary Grossfield's, "Language and the Law.
 	HW_02.2	[Due tomorrow] civil vs. common law report
+	HW_03.1	[Due: 4 Feb 2025] civil law topic; trace the changes through the D.O.F
+	HW_03.2	[Due: 5 Feb 2025] civil law topic; outline structure and translate Articles
+
+
+Hand back HW
+	Margins
+	Text; double space
+	Header; single space
+	Organization titles
+		centred; bold; caps first words
+			L; underlined; caps first words
+	Paragraph options
+		Indent
+		Space
+	Widows/Orphans
 
 
 
