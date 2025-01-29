@@ -8,7 +8,7 @@ Licenciatura: 	Interpretación y Traducción
 Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
 Grupo:			7A
 
-NB. HW_03 will be last HW on 1st partial. Next week study guide.
+
 
 ################
 HW_03.1		[Due: 4 Feb 2025]
@@ -49,6 +49,8 @@ If you must break the law, do it to seize power: in all other cases observe it.
 		-- Julius Caesar
 
 
+
+
 ---- Content 
 
 	HW01.1	[Due: 22 Jan 2025] two field of law
@@ -57,6 +59,9 @@ If you must break the law, do it to seize power: in all other cases observe it.
 	HW_02.2	[Due tomorrow] civil vs. common law report
 	HW_03.1	[Due: 4 Feb 2025] civil law topic; trace the changes through the D.O.F
 	HW_03.2	[Due: 5 Feb 2025] civil law topic; outline structure and translate Articles
+
+NB. HW_03 will be last HW on 1st partial. Next week study guide.
+
 
 
 Hand back HW
@@ -84,18 +89,14 @@ https://dof.gob.mx/index.php#gsc.tab=0
 
 The  Diario Oficial de la Federación is the official gazette of Mexico and publishes all new federal legislation. It also contains important announcements, notices, decrees, resolutions, tenders, proposed rules and regulations, and draft and final standards issued by the Mexican government and its agencies. Its website includes the text of the Diario since 1917 (with PDF facsimiles of the print edition available from 1920–present) as well as a history of the Diario.
 
-¿Qué tipo de documentos se publican en el Diario Oficial de la Federación? 	
-	Los actos expedidos por los Poderes de la Federación y los Órganos Constitucionales 
-	Autónomos, en sus respectivos ámbitos de competencia (Artículos 2o. y 3o. de la Ley del 
-	Diario Oficial de la Federación y Gacetas Gubernamentales).
 
 Go thru actual codigo for Diario Oficial de la Federación (pdf)
+*Ley-de-Diario-Official.pdf
 
 
 
 
-
-Look at Civil Law
+Look at Mexican Civil Law
 
 Option 	==>	Código Civil Federal from Congress
 https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm

@@ -9,7 +9,7 @@ Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
 Grupo:			6A
 
 
-NB. HW_03 will be last HW on 1st partial. Next week study guide.
+
 
 #####################
 HW_03.1		[Due: 4 Feb 2025]
@@ -29,6 +29,9 @@ Today
 	—Thomas J. Watson, pioneer in development computing equipment for IBM
 
 
+
+
+
 ---- Content 
 
 	 HW_01.1 two (2) fields of engineering
@@ -36,7 +39,12 @@ Today
 	 HW_02.1 Read Chap. III Kuhn3-5 main points share out
 	 HW_02.2 [Due: today 28 Jan 2025] fr. St Mary's Overview of Kuhn, translate part B.
 	 HW_03.1 [Due: 4 Feb 2025] Normal science vs wicked problems
-	 
+
+NB. HW_03 will be last HW on 1st partial. Next week new material + study guide.
+
+
+
+
 Hand back HW
 	Margins
 	Text; double space
@@ -103,5 +111,20 @@ Look briefly at the grammar
 	
 Read thru
 	II - Elementary Principles of Composition
+	
+	
+R Murphy's, "English Grammar in Use"
+	Overview of text
+	Sample lessons to show structure
+	Study Guide p. 326	
+	Key to Exercises p 336
+	Key Study Guide p 372
+	
+Do Study Guide and keep track of sections 
+	R Murphy's, "English Grammar in Use"
+		Study Guide p. 326	
+		Key Study Guide p 372
+
+
 
 ---- Work time

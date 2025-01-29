@@ -26,21 +26,11 @@ are suitable for simple, well-structured problems.
 The usual approaches do not, therefore, help organizations
 [or people] deal with their most important problems.”
 
-Creative Problem Solving
-Robert Flood and M. Jackson (1991)
+in "Creative Problem Solving" by Robert Flood and M. Jackson (1991)
 
 
 
 ---- Content
-
-
-R Murphy's, "English Grammar in Use"
-	Overview of text
-	Sample lessons to show structure
-	Study Guide p. 326	
-	Key to Exercises p 336
-	Key Study Guide p 372
-	
 
 
 Introduce
@@ -89,11 +79,19 @@ Clauses
     Conditional Clauses
 
 
+Introduce Marron's tense-aspect chart
 
-Do Study Guide and keep track of sections (Pass out slips to jot down sections)
-	R Murphy's, "English Grammar in Use"
-		Study Guide p. 326	
-		Key Study Guide p 372
+Tense (time)			Aspect
+------------			-------
+Past					Simple
+
+Present					Continuous ( to be + -ing)
+
+Future					Perfect (have + -ed)
+
+						Imperfect (have been + -ing)
+
+Infographic
 
 ---- Work Time
 
