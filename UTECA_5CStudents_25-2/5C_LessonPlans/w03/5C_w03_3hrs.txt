@@ -51,6 +51,37 @@ Share Out HW_02.2 / thoughts and critique
 
 
 Banking Systems
+
+	Balance sheet		A financial statement showing assets, liabilities, and net worth at a 
+						point in time.
+	
+	Assets
+	
+	Liabilities
+	
+	Bonds				An IOU issued by a corporation or government agency when it borrows 
+						funds.
+	
+	Loans				An IOU issued by a household or noncorporate business when it borrows 
+						funds.
+	
+	IOUs				I Owe You (money)
+	
+	Reserves 			Vault cash plus balances held at the Fed.
+	
+	Required reserves 	The minimum amount of reserves a bank must hold, depending on the amount 
+						of its deposit liabilities.
+	Required reserve 
+	ratio 				The minimum fraction of checking account balances that banks must hold 
+						as reserves.
+
+	Net worth 			= Total assets - Total liabilities.
+	
+	Central bank 		A nation’s principal monetary authority.
+
+
+
+
 The US Banking System (p 708-713;  Hall&Lieberman)
 The Mexican Banking System (p 3 MexicanBankingSystem)
 
@@ -122,7 +153,8 @@ Regulatory agencies
 	
 
 
-
+next week?
+THE STOCK MARKET AND THE MACROECONOMY (p 872 Hall&Lieberman)
 
 --- Work time
 
