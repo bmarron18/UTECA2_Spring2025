@@ -40,7 +40,12 @@ Today
 "All models are wrong; some are useful"
 		 -- George Box, a British statistician
 			
-			
+	
+	
+	
+	
+	
+	
 			
 ---- Content 
 
@@ -64,8 +69,8 @@ Share Out / Problem solving process HW_02.2
 
 
 Engineering Terms
-2.1: System, Property, State, and Process
-	(p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE)
+2.1: System, Property, State, Process, Accounting
+	(p 29-34, *Richards_BASIC-ENGINEERING-SCIENCE)
 
 
 9.3: Appendix C- Summary of Conservation and Accounting Equations, (p 399)
