@@ -30,10 +30,10 @@ Today
 ---- Content 
 
 Notes on HW
-	Watch formatting! [Easy "A" ]
-	Watch references! [Easy "A" ]
+	Watch formatting [Easy "A" ]
+	Watch references [Easy "A" ]
 	
-	Watch voice!
+	Watch voice
 		In general, use 3rd person Point of View (POV) AND active voice in academic writing
 		A brief 1st person intro statement is ok but "I"  not "we" 
 		
@@ -47,9 +47,13 @@ Notes on HW
 		1. Place yourself in the background. (Strunk and White p. 64)
 		17. Do not inject opinion.(Strunk and White p. 71)
 		
-	Watch foreign phrases!
+	Watch foreign phrases
 		foreign phrases are italicized to indicate that they are not in English. (APA)
+	
 	Watch the difference between an outline and a paper
+	Watch translations
+		the nature of ..
+		naturaleza? indole? esencia?
 
 Hand back HW
 	Margins
