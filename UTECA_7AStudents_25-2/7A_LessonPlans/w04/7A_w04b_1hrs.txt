@@ -22,13 +22,41 @@ Today
 
 ---- Open 
 
-
-
+"Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has superior opportunity of being a good man. There will still be business enough."
+			--- Abraham Lincoln
 
 
 
 
 ---- Content 
+
+IF NEEDED	==>
+Landlord-Tenant Law: México and US
+
+WEX LII
+Business Sectors
+	Landlord-Tenant Law
+	https://www.law.cornell.edu/wex/landlord-tenant_law
+
+
+Justia
+https://mexico.justia.com/derecho-civil/contratos-civiles/contrato-de-arrendamiento/preguntas-y-respuestas-sobre-contrato-de-arrendamiento/
+
+
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/
+Libro Cuarto - De las Obligaciones
+	Parte Segunda - De las Diversas Especies de Contratos
+		Título Sexto - Del Arrendamiento
+			
+
+Eviction 		-- Artículo 2489
+Termination		-- Artículo 2490
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/capitulo-ix/
+
+
+
+
+
 
 Introduction to Git and GitHub VCS
 
