@@ -9,9 +9,10 @@ Horario:		Miércoles 18:00 – 21:00
 Grupo:			9A
 
 
-####
-HW_04.1	[Due: ]
-Critique advertisements
+#####################
+HW
+Study Guide
+#####################
 
 #######
 Today
@@ -46,16 +47,22 @@ Notes on HW
 	Watch foreign phrases
 		foreign phrases are italicized to indicate that they are not in English. (APA)
 	
-	Watch the difference between an outline and a paper
+	Watch outline vs. paper
 	Watch translations
 		the nature of ..
 		naturaleza? indole? esencia?
 
-Use a colon after a complete statement that introduces a numbered, unnumbered, or bulleted vertical list.
+	Watch punctuation
+	Use a colon after a complete statement that introduces a numbered, unnumbered, or bulleted 
+	vertical list.
+	    You should know these rules:
+        	* The deadline for applications is July 1.
+       		* Handwritten applications will not be accepted.
 
-    You should know these rules:
-        * The deadline for applications is July 1.
-        * Handwritten applications will not be accepted.
+
+
+
+
 
 
 Share out / Review HW 2.1

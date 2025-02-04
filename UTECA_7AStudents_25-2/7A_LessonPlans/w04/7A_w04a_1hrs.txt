@@ -11,7 +11,6 @@ Grupo:			7A
 
 
 ################
-HW
 Study Guide
 ################
 
@@ -28,7 +27,6 @@ Today
 
 
 ---- Content 
-
 Notes on HW
 	Watch formatting [Easy "A" ]
 	Watch references [Easy "A" ]
@@ -50,76 +48,60 @@ Notes on HW
 	Watch foreign phrases
 		foreign phrases are italicized to indicate that they are not in English. (APA)
 	
-	Watch the difference between an outline and a paper
+	Watch outline vs. paper
 	Watch translations
 		the nature of ..
 		naturaleza? indole? esencia?
 
-Hand back HW
-	Margins
-	Text; double space
-	Header; single space
-	Organization titles
-		centred; bold; caps first words
-			L; underlined; caps first words
-	Paragraph options
-		Indent
-		Space
-	Widows/Orphans
+	Watch punctuation
+	Use a colon after a complete statement that introduces a numbered, unnumbered, or bulleted 
+	vertical list.
+	    You should know these rules:
+        	* The deadline for applications is July 1.
+       		* Handwritten applications will not be accepted.
 
 
-
-Discuss
-	Civil law vs. Common law
-		As a civil law system, Mexican statutes are organized into codes.
-		US common law system based on case law but also codified
-
-
-Diario Oficial de la Federación
-https://dof.gob.mx/index.php#gsc.tab=0
-
-The  Diario Oficial de la Federación is the official gazette of Mexico and publishes all new federal legislation. It also contains important announcements, notices, decrees, resolutions, tenders, proposed rules and regulations, and draft and final standards issued by the Mexican government and its agencies. Its website includes the text of the Diario since 1917 (with PDF facsimiles of the print edition available from 1920–present) as well as a history of the Diario.
-
-
-Go thru actual codigo for Diario Oficial de la Federación (pdf)
-*Ley-de-Diario-Official.pdf
+Share Out / 
+HW_03.2		[Due: 5 Feb 2025]
+Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage).
+In a one-page+ paper provide:
+	* The Title where the civil law appears (e.g. marriage is covered by Title V)
+	* The Chapters that cover the civil law (e.g. marriage proper is covered by 
+	Chapters I - IV)
+	* The Articles that cover the civil law (e.g. marriage proper is covered by 
+	Articles 146 - 182)
+	* A brief summary of a small handful of interesting (to you) Articles
+	* A direct English translation of a couple of the Articles
+	
+The standard format requirements apply. Be ready to share your findings with the class (informally).
 
 
 
 
-Look at Mexican Civil Law
+Landlord-Tenant Law	==> Eviction
 
-Option 	==>	Código Civil Federal from Congress
-https://www.diputados.gob.mx/LeyesBiblio/ref/ccf.htm
-Ultima reforma publicada en el Diario Oficial de la Federación el 17 de enero de 2024
-
-
-
-Option	==>	Código Civil Federal from Justia
-https://mexico.justia.com/federales/codigos/codigo-civil-federal/
-
-El Código Civil Federal es un ordenamiento jurídico que rige en toda la República Mexicana en asuntos de naturaleza civil del orden federal. Este Código contiene disposiciones relativas a las personas físicas y a las personas morales, al matrimonio, al divorcio, a los alimentos, a la patria potestad y a la adopción. Así mismo, establece normas sobre los bienes, la propiedad, la posesión, las sucesiones, las obligaciones y los contratos, como el contrato de arrendamiento, el contrato de compraventa, el contrato de hipoteca, entre otros. Además, contempla disposiciones generales sobre el Registro Civil y las actas del registro civil, como el acta de nacimiento, el acta de matrimonio, el acta de divorcio, el acta de defunción, entre otras.
+WEX LII
+Business Sectors
+	Landlord-Tenant Law
+	https://www.law.cornell.edu/wex/landlord-tenant_law
 
 
-Important Civil Law Topics
-	personas físicas
-	personas morales
-	acta de nacimiento
-	acta de matrimonio
-	acta de divorcio
-	acta de defunción
-	la patria potestad
-		[el conjunto de derechos que la Ley les reconoce a ambos padres sobre sus hijos menores 
-		de edad, estos derechos se reducen a administrar sus bienes y representarlo legalmente] 
-	adopción
-	los bienes
-	la propiedad
-	la posesión
-	las sucesiones
-	las obligaciones y los contratos
-		contrato de arrendamiento
-		contrato de compraventa
-		contrato de hipoteca
+Justia
+https://mexico.justia.com/derecho-civil/contratos-civiles/contrato-de-arrendamiento/preguntas-y-respuestas-sobre-contrato-de-arrendamiento/
+
+
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/
+Libro Cuarto - De las Obligaciones
+	Parte Segunda - De las Diversas Especies de Contratos
+		Título Sexto - Del Arrendamiento
+			
+
+Eviction 		-- Artículo 2489
+Termination		-- Artículo 2490
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/capitulo-ix/
+
+in Study Guide
+
 
 
 
