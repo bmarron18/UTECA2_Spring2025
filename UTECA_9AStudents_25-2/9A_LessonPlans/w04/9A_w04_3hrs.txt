@@ -38,12 +38,6 @@ Notes on HW
 		In general, use 3rd person Point of View (POV) AND active voice in academic writing
 		A brief 1st person intro statement is ok but "I"  not "we" 
 		
-		Third-Person POV in Academic Writing (p 1)
-		Avoid-First-Person-POV_AcademicWriting (p 1, 2)
-		PurdueUniversity_POV&Voice_APAStyle (p 1)
-		UnivAZ_First-vs.-Third Person (p1,2)
-		SanJoseState_First Person Usage in Academic Writing (p 1-3)
-		
 		14. Use the active voice. (Strunk and White p 23)
 		1. Place yourself in the background. (Strunk and White p. 64)
 		17. Do not inject opinion.(Strunk and White p. 71)
@@ -63,7 +57,21 @@ Notes on HW
         	* The deadline for applications is July 1.
        		* Handwritten applications will not be accepted.
 
+Review Point of View (POV)	
+	Third-Person POV in Academic Writing (p 1)
+	Avoid-First-Person-POV_AcademicWriting (p 1, 2)
+	PurdueUniversity_POV&Voice_APAStyle (p 1)
+	UnivAZ_First-vs.-Third Person (p1,2)
+	SanJoseState_First Person Usage in Academic Writing (p 1-3)
 
+
+APA as a Style
+	https://writingcenter.uagc.edu/introduction-apa
+	Introduction to APA Style.pdf
+
+
+Sample papers
+	https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers
 
 
 Share Out

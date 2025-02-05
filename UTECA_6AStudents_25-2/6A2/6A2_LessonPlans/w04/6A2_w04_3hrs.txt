@@ -61,13 +61,41 @@ Notes on HW
 
 
 
+Share Out
+HW_03.1		[Due: 6 Feb 2025]
+Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
+	System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+	Intensive property
+		(temperature, pressure, velocity, density)
+		
+	Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+	Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)
+		
+
+
+
 Translation -- Academic Papers
 	General Structure and Format
 		Introduction to APA Style.pdf
 		Whitesides_ScientificPapers.pdf
-		
+
+Read thru Abstracts / Personal Glossary Building (simple text file recommended)
 	LIMAYMANTA_Suelos-de-Transición-Línea12.pdf
 	Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+
+
+Missing HW!!
+	HW_01.1	[Due: 23 Jan 2025] field of science
+	HW_01.2 [Due: 23 Jan 2025] summary Carli & Calaresu's "Language and Science" (missing!)
+	HW_02.1 [Due: today 30 Jan 2025] jargonize
+	HW_02.2	[Due: today 30 Jan 2025] mental process to solve a problem
+	HW_03.1	[Due: 6 Feb 2025] engineering systems definitions 
+
 
 
 The Study Guide

@@ -11,7 +11,8 @@ Grupo:			6A
 
 
 ######################
-
+HW_03.1		[Due: 4 Feb 2025]
+In a one-page+ paper (in both English and Spanish) compare and contrast Kuhn's concept of normal science, and the public's perception of linear science and engineering, with wicked problems. The standard format applies.
 ######################################
 
 #######

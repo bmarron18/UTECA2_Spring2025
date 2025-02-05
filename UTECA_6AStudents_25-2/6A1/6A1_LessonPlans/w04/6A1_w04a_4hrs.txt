@@ -31,7 +31,11 @@ Today
 
 
 ---- Content 
+
 Notes on HW
+	Key to Common Errors
+
+
 	Watch formatting [Easy "A" ]
 	Watch references [Easy "A" ]
 	
@@ -47,6 +51,7 @@ Notes on HW
 		foreign phrases are italicized to indicate that they are not in English. (APA)
 	
 	Watch outline vs. paper
+	
 	Watch translations
 		the nature of ..
 			naturaleza? indole? esencia?
@@ -87,18 +92,34 @@ Reporter's Toolkit for understanding and critique:
 	4) Where are the events happening? 
 	5) Why was the article written? 
 	
-"Properties and Applications of PDMS for Biomedical Engineering:
+Abstract 
+Intro
+conclusions
+
+-- "Properties and Applications of PDMS for Biomedical Engineering:
 A Review"
 Inês Miranda, Andrews Souza, Paulo Sousa, João Ribeiro, Elisabete M. S. Castanheira, Rui Lima ,
 and Graça Minas
 
 
+
+
 The Study Guide
+
+Whenever possible, provide answers in bullet list format with complete content. Tasks will be evaluated by sub-tasks. Three (3) points are available for each sub-task: Accuracy (1 pt), Completeness (1 pt), and Sufficiency (1 pt). Points will be awarded in 0.1 increments.
+
+
 
 
 Missing Assignments!!
 	Check with me during work time
 
+
+	 HW_01.1 two (2) fields of engineering
+	 HW_01.2 excerpts from Picon's paper
+	 HW_02.1 Read Chap. III Kuhn3-5 main points share out
+	 HW_02.2 [Due: today 28 Jan 2025] fr. St Mary's Overview of Kuhn, translate part B.
+	 HW_03.1 [Due: 4 Feb 2025] Normal science vs wicked problems
 
 
 
