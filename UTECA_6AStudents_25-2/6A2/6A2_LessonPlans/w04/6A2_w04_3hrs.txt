@@ -27,8 +27,6 @@ Today
 “To have another language is to possess a second soul.”
 			– Charlemagne
 			
-
-
 			
 ---- Content
 
@@ -38,26 +36,21 @@ Notes on HW
 	
 	Watch voice
 		In general, use 3rd person Point of View (POV) AND active voice in academic writing
-		A brief 1st person intro statement is ok but "I"  not "we" 
-		
+				
 		14. Use the active voice. (Strunk and White p 23)
 		1. Place yourself in the background. (Strunk and White p. 64)
 		17. Do not inject opinion.(Strunk and White p. 71)
 		
 	Watch foreign phrases
-		foreign phrases are italicized to indicate that they are not in English. (APA)
+		italicized to indicate that they are not in English. (APA)
 	
 	Watch outline vs. paper
-	Watch translations
-		the nature of ..
-		naturaleza? indole? esencia?
-
+	
 	Watch punctuation
-	Use a colon after a complete statement that introduces a numbered, unnumbered, or bulleted 
-	vertical list.
-	    You should know these rules:
-        	* The deadline for applications is July 1.
-       		* Handwritten applications will not be accepted.
+	
+
+
+The Study Guide
 
 
 
@@ -78,15 +71,22 @@ Write extended and complete definitions (in both English and Spanish) for the fo
 		
 
 
+Itś time to build your Personal Glossary/Dictionary
+	Use a simple text file (ASCII/Unicode character set)
+	Here's why....
+	
+	
+	
 
-Translation -- Academic Papers
-	General Structure and Format
+And now Translation -- Academic Papers
+	General Structure and Format of Science/Engineering papers
 		Introduction to APA Style.pdf
 		Whitesides_ScientificPapers.pdf
 
-Read thru Abstracts / Personal Glossary Building (simple text file recommended)
+Read thru Abstracts for vocab
 	LIMAYMANTA_Suelos-de-Transición-Línea12.pdf
 	Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+
 
 
 Missing HW!!

@@ -18,7 +18,7 @@ Study Guide
 
 ---- Open
 
-“Neoclassical economics is precisely the theory one would expect a vastly complex system of international corporations, world markets, and interconnected currencies to create to sustain, justify, explain, and predict "itself." And classical economics, correspondingly, was a predictable expression of an earlier European capitalism.”
+“Neoclassical economics is precisely the theory one would expect a vastly complex system of international corporations, world markets, and interconnected currencies to create in order to sustain, justify, explain, and predict "itself." And classical economics, correspondingly, was a predictable expression of an earlier European capitalism.”
 		-- Roger M. Keesing, in "Cultural Anthropology: A Contemporary Perspective"
 		
 
@@ -41,10 +41,7 @@ Notes on HW
 	
 	Watch outline vs. paper
 	
-	Watch translations
-		the nature of ..
-		naturaleza? indole? esencia?
-
+	
 	Watch punctuation
 	Use a colon after a complete statement that introduces a numbered, unnumbered, or bulleted 
 	vertical list.
@@ -69,12 +66,18 @@ Sample papers
 	https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers
 
 
-Missing assignments!!!
+
+Next
+	Stock Market 
+	Corporations
+Plus
+	Building your Personal Glossary/Dictionary
+	VCS
+	Google Cloud Translations
 	
-	HW_01.1  [Due: 23 Jan 2025] fields of econ and investing
-	HW_02.1  [Due: 30 Jan 2025] summary Nelson's, "Chapter 1: An Overview of Economics"
-	HW_02.2  [Due: 30 Jan 2025] critique the axioms/theorems/corollaries of standard econ
-	HW_03.1  [Due: 6 Feb 2025] Ley del Banco de México
+	
+	
+The Study Guide
 
 
 
@@ -101,7 +104,18 @@ Do Study Guide and keep track of sections
 		Key Study Guide p 372
 
 
-next week?
+
+
+Missing assignments!!!
+	
+	HW_01.1  [Due: 23 Jan 2025] fields of econ and investing
+	HW_02.1  [Due: 30 Jan 2025] summary Nelson's, "Chapter 1: An Overview of Economics"
+	HW_02.2  [Due: 30 Jan 2025] critique the axioms/theorems/corollaries of standard econ
+	HW_03.1  [Due: 6 Feb 2025] Ley del Banco de México
+
+
+
+next--
 THE STOCK MARKET AND THE MACROECONOMY (p 872 Hall&Lieberman)
 
 
