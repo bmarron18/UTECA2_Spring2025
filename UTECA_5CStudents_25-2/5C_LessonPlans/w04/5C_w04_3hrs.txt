@@ -18,9 +18,13 @@ Study Guide
 
 ---- Open
 
-“Neoclassical economics is precisely the theory one would expect a vastly complex system of international corporations, world markets, and interconnected currencies to create in order to sustain, justify, explain, and predict "itself." And classical economics, correspondingly, was a predictable expression of an earlier European capitalism.”
+“Neoclassical economics is precisely the theory one would expect a vastly complex system of international corporations, world markets, and interconnected currencies to create [in order] to sustain, justify, explain, and predict "itself." And classical economics, correspondingly, was a predictable expression of an earlier European capitalism.”
 		-- Roger M. Keesing, in "Cultural Anthropology: A Contemporary Perspective"
 		
+
+
+
+
 
 
 ---- Content
@@ -64,6 +68,7 @@ APA as a Style
 
 Sample papers
 	https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers
+
 
 
 
