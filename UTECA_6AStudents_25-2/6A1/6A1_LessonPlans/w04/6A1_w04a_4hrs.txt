@@ -45,7 +45,10 @@ Notes on HW
 		
 		14. Use the active voice. (Strunk and White p 23)
 		1. Place yourself in the background. (Strunk and White p. 64)
-		17. Do not inject opinion.(Strunk and White p. 71)
+		17. Do not inject opinHW_02.1	[Due today] summary Grossfield's, "Language and the Law.
+	HW_02.2	[Due tomorrow] civil vs. common law report
+	HW_03.1	[Due: 4 Feb 2025] civil law topic; trace the changes through the D.O.F
+	HW_03.2	[Due: 5 Feb 2025] civil law topic; outline structure and translate Articlesion.(Strunk and White p. 71)
 		
 	Watch foreign phrases
 		foreign phrases are italicized to indicate that they are not in English. (APA)
@@ -70,7 +73,10 @@ Review Point of View (POV)
 	Avoid-First-Person-POV_AcademicWriting (p 1, 2)
 	PurdueUniversity_POV&Voice_APAStyle (p 1)
 	UnivAZ_First-vs.-Third Person (p1,2)
-	SanJoseState_First Person Usage in Academic Writing (p 1-3)
+	SanJoseState_First Person HW_02.1	[Due today] summary Grossfield's, "Language and the Law.
+	HW_02.2	[Due tomorrow] civil vs. common law report
+	HW_03.1	[Due: 4 Feb 2025] civil law topic; trace the changes through the D.O.F
+	HW_03.2	[Due: 5 Feb 2025] civil law topic; outline structure and translate ArticlesUsage in Academic Writing (p 1-3)
 
 
 APA as a Style
@@ -94,7 +100,10 @@ Reporter's Toolkit for understanding and critique:
 	
 Abstract 
 Intro
-conclusions
+conclusionsHW_02.1	[Due today] summary Grossfield's, "Language and the Law.
+	HW_02.2	[Due tomorrow] civil vs. common law report
+	HW_03.1	[Due: 4 Feb 2025] civil law topic; trace the changes through the D.O.F
+	HW_03.2	[Due: 5 Feb 2025] civil law topic; outline structure and translate Articles
 
 -- "Properties and Applications of PDMS for Biomedical Engineering:
 A Review"
