@@ -1,32 +1,55 @@
-							LESSON PLAN  (100 min)
+							LESSON PLAN  (150 min)
 
 Docente:		Bruce D. Marron
 Ciclo: 			25-2
-Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
-Curso:			IT0629 
-Licenciatura: 	Interpretación y  Traducción
-Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
-Grupo:			6A
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
 
 
 
-######################
-No HW
-######################
 
-#######
-Today
-#######
+#####################
+HW_04.1 [Due: 27 Feb 2025]
+Begin your personal translation dictionary. Go back through the economic terms we have discussed thus far and enter any unfamiliar terms in your dictionary. Be sure to provide Spanish and English translations and definitions.
+
+HW_04.2 [Due: 27 Feb 2025]
+Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728). Provide a very brief summary of this section (English and Spanish) and answer the following questions:
+	1. Do you think that an FDIC-like system is a good idea? Explain.
+	2. The analogous entity to the FDIC in Mexico is the Instituto Para La Proteccion al Ahorro
+Bancario (IPAB). Read the first few pages of S&P's Global Ratings Report for the IPAB. Is the IPAB a fiscally sound institution? Explain. 
+#####################
+
+
 ---- Open
 
+
+Go thru exam
 
 
 
 ---- Content
 
+Finish
+	Banks
+Next
+	Stock Market 
+	Corporations
+Plus
+	Building your Personal Glossary/Dictionary
+	VCS
+	Google Cloud Translations
+
+
+
+Setting up Your Personal Dictionary (It's time!)
+	A simple.txt file is highly recommended
+	Here's why.......
+
+	
 Git and GitHub
-
-
 
 1.1 Getting Started - About Version Control
 	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
@@ -203,12 +226,11 @@ $ gitk
 
 
 
----- Work time
 
 
 
 
 
-
-
-
+--- Work time
+Next
+THE STOCK MARKET AND THE MACROECONOMY (p 872 Hall&Lieberman)

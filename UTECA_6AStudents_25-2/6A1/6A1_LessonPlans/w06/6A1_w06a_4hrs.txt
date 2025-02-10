@@ -1,4 +1,4 @@
-							LESSON PLAN  (100 min)
+							LESSON PLAN  (200 min)
 
 Docente:		Bruce D. Marron
 Ciclo: 			25-2
@@ -10,34 +10,68 @@ Grupo:			6A
 
 
 
+
 ######################
-No HW
-######################
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+		https://notepad-plus-plus.org/downloads/
+		
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+		https://github.com/
+		https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
+		https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-
+		personal-access-tokens
+		
+	3) Installation of Linux Tools for Windows
+		https://www.cygwin.com/
+		https://www.cygwin.com/install.html
+		
+	4) Installation of Git on Windows (Mac)
+		https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+	
+How-To Guides (aka a set of instructions) must be clear, simple, and direct. The 'step-by-step' method of organizing instructions is usually best. This assignment will use the following modified document format:
+	* Name, Class ID, Assignment ID, and Date in upper RH corner
+	
+	* The four (4) How-To Guides will each have their own main section. Thus,
+	The first main heading will be, 
+		"How-To Guide for Installation of Notepad++ on Windows (en Español)"
+	The second main heading will be, 
+		"How-To Guide for Getting Started with GitHub (en Español)"
+	The third heading will be, 
+		"How-To Guide for Installation of Linux Tools for Windows (en Español)"
+	The fourth main heading will be,
+		"How-To Guide for Installation of Git for Windows (en Español)"
+		
+	* Under each main heading you may organize the instructions and hints as you wish; numerical list 
+	format and single-space text is fine.
+########################
+
+
 
 #######
 Today
 #######
+
 ---- Open
 
+Cloud services cut both ways in terms of security: you get off-site backup and disaster recovery, but you entrust your secrets to somebody else's hands. Doing the latter increases your exposure to government surveillance and the potential for deliberate or inadvertent breaches of your confidential files.
+		-- Barton Gellman
+			building safeguards against threats to democracy
 
 
 
----- Content
-
-Git and GitHub
 
 
-
-1.1 Getting Started - About Version Control
-	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
-
-1.3 Getting Started - What is Git?
-	https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
-
-1.4 Getting Started - The Command Line
-https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+Go through Exams
 
 
+
+
+
+---- Content 
+
+Continue Git and GitHub installations
 
 
 ##################
@@ -204,11 +238,3 @@ $ gitk
 
 
 ---- Work time
-
-
-
-
-
-
-
-
