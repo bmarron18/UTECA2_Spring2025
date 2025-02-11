@@ -98,19 +98,11 @@ Reporter's Toolkit for understanding and critique:
 	4) Where are the events happening? 
 	5) Why was the article written? 
 	
-Abstract 
-Intro
-conclusionsHW_02.1	[Due today] summary Grossfield's, "Language and the Law.
-	HW_02.2	[Due tomorrow] civil vs. common law report
-	HW_03.1	[Due: 4 Feb 2025] civil law topic; trace the changes through the D.O.F
-	HW_03.2	[Due: 5 Feb 2025] civil law topic; outline structure and translate Articles
 
--- "Properties and Applications of PDMS for Biomedical Engineering:
+"Properties and Applications of PDMS for Biomedical Engineering:
 A Review"
 Inês Miranda, Andrews Souza, Paulo Sousa, João Ribeiro, Elisabete M. S. Castanheira, Rui Lima ,
 and Graça Minas
-
-
 
 
 The Study Guide
