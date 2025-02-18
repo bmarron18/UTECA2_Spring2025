@@ -202,6 +202,38 @@ $ git help <command>
 See "git_usage_Windows.txt" 	(start line 22)
 See "Windows_Install_Git_LinuxUtilities.pdf" 
 
+#########
+Windows
+#########
+
+Git-2.48.1-64-bit.exe 
+
+let Git Decide
+
+Use bundled OpenSSH
+
+Use Native Windows Secure Channel Library
+
+Checkout as-is, Commit as-is
+
+Use MinTTY
+
+Fast forward or Merge
+
+Git Credential Manager
+
+Enable file system caching
+
+Launch Git BASH
+	[a Linux-style BASH screen]		<== pin to toolbar
+
+#######
+Mac-OS
+#####
+https://git-scm.com/downloads/mac
+
+Install MacPorts if you don't already have it, then:
+$ sudo port install git
 
 
 ##############
