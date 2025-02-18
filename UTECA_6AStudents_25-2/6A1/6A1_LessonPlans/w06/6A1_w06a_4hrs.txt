@@ -148,16 +148,19 @@ no description required
 
 all repositories
 
-Repo Permissions
-	"read and write" for all (or "read")
+Fine-Grained Only
+	Repo Permissions
+		"read and write" for all (or "read")
 	 
-Overview
-	"read and write" for all (or "read")
+	Overview
+		"read and write" for all (or "read")
 
-"This token will expire NEVER"
+	"This token will expire NEVER"
 
 Generate Token
 	Classic
+	
+	Clic all boxes
 
 
 ####################
