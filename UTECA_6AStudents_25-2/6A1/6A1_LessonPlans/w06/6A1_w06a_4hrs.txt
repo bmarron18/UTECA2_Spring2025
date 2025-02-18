@@ -133,7 +133,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/m
 			
 		Settings
 			==> <> Developer Settings
-				==> Personal Access Tokens (Fine-Grained)
+				==> Personal Access Tokens (Classic NOT Fine-Grained)
 					==> Token_#######
 					 	Access on @<your username>
 						Repository access	This token has access to all repositories owned by you.
@@ -157,6 +157,7 @@ Overview
 "This token will expire NEVER"
 
 Generate Token
+	Classic
 
 
 ####################
