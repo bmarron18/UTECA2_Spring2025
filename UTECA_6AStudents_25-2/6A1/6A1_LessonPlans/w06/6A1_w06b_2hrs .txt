@@ -22,17 +22,13 @@ Write How-To Guides in Spanish for
 		https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-
 		personal-access-tokens
 		
-	3) Installation of Linux Tools for Windows
-		https://www.cygwin.com/
-		https://www.cygwin.com/install.html
-		
-	4) Installation of Git on Windows (Mac)
+	3) Installation of Git on Windows (Mac)
 		https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 	
 How-To Guides (aka a set of instructions) must be clear, simple, and direct. The 'step-by-step' method of organizing instructions is usually best. This assignment will use the following modified document format:
 	* Name, Class ID, Assignment ID, and Date in upper RH corner
 	
-	* The four (4) How-To Guides will each have their own main section. Thus,
+	* The three (3) How-To Guides will each have their own main section. Thus,
 	The first main heading will be, 
 		"How-To Guide for Installation of Notepad++ on Windows (en Español)"
 	The second main heading will be, 
@@ -52,6 +48,8 @@ Today
 ---- Open
 
 
+"Quality means doing it right when no one is looking." 
+	-- Henry Ford 
 
 
 ---- Content
