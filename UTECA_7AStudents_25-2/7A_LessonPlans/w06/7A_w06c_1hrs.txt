@@ -46,8 +46,9 @@ Today
 #########
 
 ---- Open 
-
-
+https://www.iso-9001-checklist.co.uk/7.5.3-control-of-documented-information-explained.htm
+https://www.iso.org/standard/76865.html
+https://www.iso.org/standard/80233.html
 
 
 ---- Content 
@@ -74,8 +75,8 @@ Sublime Text (Mac)
 https://notepad-plus-plus.org/downloads/
 https://www.sublimetext.com/
 
-Do trial run and save as a 'normal text file' (Windows)
-The file should have a .txt extension
+*Do trial run and save as a 'normal text file' (Windows)
+*The file should have a .txt extension
 Will need to store GitHub token
 
 [Right-clic to select the text editor]
@@ -168,7 +169,7 @@ Token Qs
 ####################
 Open Reference Docs
 #####################
-
+ProGit Manual 2nd Ed.
 git_usage_Windows.txt
 Windows_Install_Git_LinuxUtilities.pdf
 
@@ -214,26 +215,26 @@ Install Homebrew if you don't already have it, then:
 $ brew install git
 
 
+Git installation window opens
+	GNU General Public License
+	Git Install Qs
+		let Git Decide
 
-Git Install Qs
-	let Git Decide
+		Use bundled OpenSSH
 
-	Use bundled OpenSSH
+		Use Native Windows Secure Channel Library
 
-	Use Native Windows Secure Channel Library
+		Checkout as-is, Commit as-is
 
-	Checkout as-is, Commit as-is
+		Use MinTTY
 
-	Use MinTTY
+		Fast forward or Merge
 
-	Fast forward or Merge
+		Git Credential Manager
 
-	Git Credential Manager
+		Enable file system caching
 
-	Enable file system caching
-
-	Launch Git BASH
-	[a Linux-style BASH screen]		<== pin to toolbar
+		Launch Git BASH [a Linux-style BASH screen]		<== pin to toolbar
 	
 
 
@@ -257,24 +258,67 @@ Must have:
 #########################################
 Onsite Git repository set up AND 
 synch to Offsite Github repo
+(p 44 ProGit Manual)
 ##########################################
 See " git_usage_Windows.txt" (start line 84)
 
 	# open yout GitHub acct and copy the URL of your newly-created repository
 	# create a new folder on your desktop to house your GitHub (cloned) repo
 	
-	# Right-clic to open Git BASH terminal in the new folder (Windows)
-	# Go to the new folder and open a Terminal (Mac)
+	# Right-clic to open Git BASH terminal in the new folder you just created (Windows)
+	# Go to the new folder you just created and open a Terminal (Mac)
+	# type the following git command in the terminal
 
 $ git clone <your Github URL>
 
-	# close Bash terminal (Windows) or Terminal (Mac)
-	# open the newly-cloned folder and open a new BASH terminal (Windows) or Terminal (Mac)
-	# check the repo (p.69 ProGit2)
+	# after cloning complete close the Bash terminal (Windows) or Terminal (Mac)
+	# open the newly-cloned folder, which has the name of your repo and contains a README.md file, and open a new BASH terminal (Windows) or Terminal (Mac) HERE (ie inside the git-tracked repo folder)
+	# check the repo by typing the following git commands in the terminal(p.69 ProGit2)
 
 $ git remote -v
 $ git remote show origin
 
+
+
+###########################
+General Git (local) set-up
+(p 39 ProGit Manual)
+###########################
+
+$ git config --list		#if on a new compu, this returns nothing
+
+==== configure global settings =========================================
+	a. '--global' stores in .gitconfig (a hidden file)
+	a1. set these globals (username MUST match GitHub username)
+
+$ git config --global user.name "<your user name>" &&
+git config --global user.email "<your email>" &&
+git config --global core.editor "notepad++"&&
+git config --global http.sslVerify false &&
+git config --global alias.visual '!gitk'&&
+git config --global alias.last 'log -1 HEAD'
+
+$ git config --list
+
+NOTES
+	git config --global user.name "<your user name>"	<==Github user name
+	git config --global user.email "<your email>" 		<== Github email
+	git config --global core.editor "notepad++"
+	git config --global alias.visual '!gitk'			<== gitk is a GUI
+	git config --global alias.last 'log -1 HEAD'		<== see last commit
+
+
+
+#########################################
+Learn the git workflow
+track || stage || commit || push
+##########################################
+
+
+	a. the git file processing sequence:
+
+new file			track	==>stage	==>commit	==>push
+modified file				==>stage	==>commit	==>push
 
 
 
@@ -283,31 +327,32 @@ $ git remote show origin
 Manually dump in additional subdirectories and files
 Make changes to existing files
 track || stage || commit || push
+(p. 43 ProGit Manual)
 ##########################################
 
-	# copy in additional subdirectories and files
-Copy/paste your dictionary into git-tracked repo
+	# copy in additional subdirectories and files to your git-tracked repo (folder)
+	# e.g, store your dictionary in the git-tracked repo
  
 	
-	# show files and their status 
+	# to show files and their status 
 $ git status
 
-	# TRACK and STAGE all files!!!
+	# to TRACK and STAGE all files!!!
 $ git add --all
 $ git status
 
-	#COMMIT all files
-$ git commit -a -m "<date>"
+	# to COMMIT all files
+$ git commit -a -m "<date>"		<== add any message you would like; date is recommended
  
- 	# PUSH all files to offsite repo (aka 'origin')
-$ git remote -v
-$ git push origin --all
+ 	# to PUSH all changed files to your offsite repo in GitHub (aka 'origin' bc you cloned the repo)) 
+$ git push origin --all		<== enter your GitHub login name
+							<== enter your GitHub token
 $ git status
 On branch master
 Your branch is up to date with 'origin/master'.
 nothing to commit, working tree clean
 
-	# See file changes and commit history
+	# to SEE all the file changes and their history
 $ gitk
 
 
