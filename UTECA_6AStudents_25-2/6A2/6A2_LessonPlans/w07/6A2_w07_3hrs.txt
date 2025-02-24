@@ -1,0 +1,64 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A
+
+
+
+
+#####################
+HW_05.1	[Due: 27 Feb 2025]
+i) Translate the Introduction (3 paragraphs) from, "H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-waste.pdf" into Spanish.
+ii) Translate the INTRODUCCIÓN (1 paragraph) from,"Paniagua_Deslizamiento_de_Talud.pdf" into English. 
+
+Both translations should be in the same paper separated by main headings. Standard format applies.
+
+
+HW_05.2	[Due: 27 Feb 2025]
+Read Conservation of Mass, Section 3.2 Mass Flow Rate in Richards_BASIC-ENGINEERING-SCIENCE.pdf 
+(pp 44-48)
+#####################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+
+---- Content
+
+
+go thru--
+HW_04.2	[Due: 27 Feb 2025]
+Conservation of Mass, Section 3.1 Four Questions in Richards_BASIC-ENGINEERING-SCIENCE.pdf 
+
+Go thru both docs for vocab (Abstract/Intro/Conclusions)
+	"H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-waste.pdf" 
+	"Paniagua_Deslizamiento_de_Talud.pdf"
+
+
+
+
+
+---- Work Time
+
+HW_04.1	[Due: 27 Feb 2025] 
+	Translate Intro. "LIMAYMANTA_Suelos-de-Transición-Línea12.pdf" (English)
+	Translate Abstract "Steffen et al. 2018_Trajectories ...Anthropocene.pdf" (Spanish)
+HW_04.2 [Due: 27 Feb 2025] 
+	Read Sec 3.1 Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 39-43)
+	
+HW_05.1	[Due: 27 Feb 2025]
+	Translate the Intro  (3 paragraphs) from, "H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-waste.pdf" into Spanish.
+	Translate the INTRODUCCIÓN (1 paragraph) from,"Paniagua_Deslizamiento_de_Talud.pdf" into English. 
+HW_05.2	[Due: 27 Feb 2025]
+Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)

@@ -65,7 +65,8 @@
 % TITLE PAGE AND BEAMER OPTIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\title{Is AI a Threat to Human Language Translators?}
+\title{Translation in the 21st C.: \\
+Human Language Translators + AI}
 %\subtitle{(or why common sense makes sense) }
 \date{\today}
 \author{Bruce D. Marron}
@@ -150,16 +151,63 @@
 \end{comment}
 
 %----------------------------------
-\section{The Answer}
+\section{Is AI a threat to human language translators?}
 %-----------------------------------
 
 %-------------------------------------------------------------------
 \begin{frame}
 
 \begin{center}
-\large \textit{Perhaps, but.....}
+\large \textit{The answer is perhaps...but let's investigate!}
 \end{center}
 
+\end{frame}
+
+%----------------------------------
+\section{What is AI afterall?}
+%-----------------------------------
+
+%---------------------------------------------
+\begin{frame}{Artificial Intelligence (AI) and Machine Learning (ML)}
+
+\begin{textblock}{1}(.05,.21)
+  \normalsize {\textbf{Artificial intelligence:} the general ability of computers to emulate human thought and perform tasks in real-world environments.\\~\\
+  
+\textbf{Machine learning:} the technologies and algorithms that enable systems to identify and recognize patterns, make decisions, and improve themselves through experience and data. \\-\\
+
+\textbf{Machine learning is a pathway to artificial intelligence.}}
+  
+\end{textblock}
+
+\begin{textblock}{1}(.45,.80)
+  \tiny{https://ai.engineering.columbia.edu/ai-vs-machine-learning}
+\end{textblock}
+\end{frame}
+
+%---------------------------------------------
+\begin{frame}{Machine Learning (ML)}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4.5) {\includegraphics[scale=.4]{graphics/ML1}};  
+ \end{tikzpicture}
+
+
+\begin{textblock}{1}(.45,.85)
+  \tiny{Dr. Melanie Mitchell, PSU CS545 "Machine Learning", Spring 2014}
+\end{textblock}
+\end{frame}
+
+%---------------------------------------------
+\begin{frame}{Machine Learning (ML)}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4.5) {\includegraphics[scale=.4]{graphics/ML2}};  
+ \end{tikzpicture}
+
+
+\begin{textblock}{1}(.45,.85)
+  \tiny{Dr. Melanie Mitchell, PSU CS545 "Machine Learning", Spring 2014}
+\end{textblock}
 \end{frame}
 
 
@@ -171,13 +219,14 @@
 \begin{frame} {Acronyms in AI Translation}
  \begin{table}
 \begin{tabular}{lll}
-LLM  &   &    Large Language Model\\
-NMT  &   &  Neural Machine Translation [Google] \\
-GPT  &   &    Generative Pre-trained Transformer	[OpenAI]\\
+\textbf{LLM}  &   &    Large Language Model\\
+\textbf{NMT}  &   &    Neural Machine Translation [Google] \\
+\textbf{GPT } &   &    Generative Pre-trained Transformer	[OpenAI]\\
      &   & \\
-API  &   &    Application Programming Interface\\
-SDK &    &    Software Development Kit\\
-IDE  &   &    Integrated Development Environment\\
+\textbf{API}  &   &    Application Programming Interface\\
+\textbf{SDK} &    &    Software Development Kit\\
+\textbf{IDE } &   &    Integrated Development Environment\\
+\textbf{MIME} &  & Multipurpose Internet Mail Extension; type of file format \\
 \end{tabular}
 \end{table}
 
@@ -193,6 +242,8 @@ IDE  &   &    Integrated Development Environment\\
 
 \begin{textblock}{1}(.05,.21)
   \normalsize {I love going to school! It's such a challenging environment.}
+\end{textblock}\begin{textblock}{1}(.45,.85)
+  \tiny{Dr. Melanie Mitchell, PSU CS545 "Machine Learning", Spring 2014}
 \end{textblock}
 
 \begin{tikzpicture}[overlay]
@@ -249,7 +300,7 @@ efectuado el registro para los efectos legales a que d\'e lugar. [Art\'iculo 15.
  \end{tikzpicture}
  
  \begin{textblock}{1}(.05,.6)
-  \footnotesize {The Ministry of Labor and Social Welfare (MLSW) must approve or reject the registration request within twenty days after its receipt in the offices of the MLSW. If the MLSW fails to do so, the applicants may formally require that the MLSW resolve the issue within three business days. If, after this second period has elapsed without notification of the status of the registration request, the registration request will be deemed approved for all applicable legal purposes. [Marron translation]}
+  \footnotesize {The Ministry of Labor and Social Welfare (MLSW) must approve or reject the registration request within twenty days after its receipt in the offices of the MLSW. If the MLSW fails to do so, the applicants may formally require that the MLSW resolve the issue within three business days. If, after this second period has elapsed without notification of the status of the registration request, the registration request will be deemed approved for all applicable legal purposes. [\textit{Marron translation}]}
 \end{textblock}
  
 \end{frame}
@@ -277,10 +328,10 @@ efectuado el registro para los efectos legales a que d\'e lugar. [Art\'iculo 15.
 %-------------------------------------------------------------------
 
 %-------------------------------------------------------------------
-\begin{frame}{GPT-4o}
+\begin{frame}{OpenAI API: GPT-4o}
 
 \begin{textblock}{1}(.1,.2)
-  \small {A type of foundational LLM that can generate content in over 90 languages. Multiple types of rate limits apply!}
+  \small {\textbf{GPT-4o:} A type of foundational LLM that can generate content in over 90 languages. Multiple types of rate limits apply. }
 \end{textblock}
 
 
@@ -295,7 +346,7 @@ efectuado el registro para los efectos legales a que d\'e lugar. [Art\'iculo 15.
 
 
 %-------------------------------------------------------------------
-\begin{frame}{GPT-4o}
+\begin{frame}{Access to GPT-4o API}
 
 \begin{textblock}{1}(.1,.2)
   \footnotesize {Once you have applied for access, you must be reviewed and approved...
@@ -315,15 +366,34 @@ And now you will be ready to start using the model for language translation.}
 
 \end{frame}
 
+%-------------------------------------------------------------------
+\begin{frame}{Google Cloud Translation API}
 
+\begin{textblock}{1}(.1,.2)
+  \footnotesize {This API uses a pre-trained, custom model or a translation specialized large language model (LLMs). You can choose from different models based on your needs, such as: 
+\begin{itemize}
+  \item \textbf{Neural Machine Translation (NMT):} For general text, like website content or news articles. Available in 194 languages! 
+  \item \textbf{Translation Large Language Model (LLM):} For conversational text, like messages or social media posts 
+  \item \textbf{AutoML Translation:} For highly specialized or technical content
+\end{itemize}
+}
+\end{textblock}
+
+
+\begin{textblock}{1}(.1,.65)
+  \tiny{NB. Google Translate uses sequence-to-sequence models. These models also are used in voice-activated gadgets, and online chatbots.}
+\end{textblock}
+
+
+\end{frame}
 
 
 %----------------------------------------------------------------
-\section{The Science}
+\section{AI vs. Human Translators: The Science}
 %----------------------------------------------------------------
 
 %----------------------------------------------------------------
-\begin{frame}{GPT-4o}
+\begin{frame}{Peer-Reviewed Science}
 
 \begin{tikzpicture}[overlay]
   \node[anchor=south west] at (-0.6,0.5) {\includegraphics[scale=.50]{graphics/Yan_1.png}};
@@ -339,7 +409,7 @@ And now you will be ready to start using the model for language translation.}
 
 
 %----------------------------------------------------------------
-\begin{frame}{GPT-4o}
+\begin{frame}{Peer-Reviewed Science}
 
 \begin{tikzpicture}[overlay]
   \node[anchor=south west] at (-0.6,2.5) {\includegraphics[scale=.50]{graphics/Yan_2.png}};
@@ -352,9 +422,8 @@ And now you will be ready to start using the model for language translation.}
 \end{frame}
 
 
-
 %----------------------------------------------------------------
-\begin{frame}{GPT-4o}
+\begin{frame}{Peer-Reviewed Science}
 
 \begin{tikzpicture}[overlay]
   \node[anchor=south west] at (-0.6,2.5) {\includegraphics[scale=.50]{graphics/Yan_2.png}};
@@ -367,13 +436,164 @@ And now you will be ready to start using the model for language translation.}
 \end{frame}
 
 %----------------------------------
-\section{The Answer (revisited)}
+\section{Natural Language Translation \\
+in the 21\textsuperscript{st}  C.}
 %-----------------------------------
 
 %-------------------------------------------------------------------
 \begin{frame}{Is AI a Threat to Human Language Translators?}
 
-\large \textit{Perhaps, but unlikely. What is likely is that professional translators will increasingly be required to interface with LLMs. This means adding machine languages, IDEs, and SDKs to your tool kit.}
+\large \textit{Perhaps, but unlikekly unless folks are unprepared. \\-\\
+What is likely is that professional translators will increasingly be required to interface with LLMs through subscription-based APIs. This means adding machine language coding to your tool kit.}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{Using Google Cloud Translate API}
+
+\large {Not trivial!!}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (-1,-3.3) {\includegraphics[scale=.28]{graphics/Google_1.png}};
+ \end{tikzpicture}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (-1,-3.3) {\includegraphics[scale=.28]{graphics/Python_1.png}};
+ \end{tikzpicture}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.31]{graphics/Python_2.png}};
+ \end{tikzpicture}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.31]{graphics/Python_3.png}};
+ \end{tikzpicture}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.31]{graphics/Python_4.png}};
+ \end{tikzpicture}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.31]{graphics/Python_5.png}};
+ \end{tikzpicture}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.27]{graphics/Original_Latex.pdf}};
+\end{tikzpicture}
+
+\begin{textblock}{1}(.65,.4)
+  \footnotesize  {Course Description in .pdf format \\
+Original language: English}
+\end{textblock}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.27]{graphics/gcTranslate_output_fr_Latex.pdf}};
+\end{tikzpicture}
+
+\begin{textblock}{1}(.65,.4)
+  \footnotesize  {Course Description in .pdf format \\
+Translated language: French}
+\end{textblock}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.27]{graphics/gcTranslate_output_de_Latex.pdf}};
+\end{tikzpicture}
+
+\begin{textblock}{1}(.65,.4)
+  \footnotesize  {Course Description in .pdf format \\
+Translated language: German}
+\end{textblock}
+
+\end{frame}
+
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (0,-4) {\includegraphics[scale=.27]{graphics/gcTranslate_output_ja_Latex.pdf}};
+\end{tikzpicture}
+
+\begin{textblock}{1}(.65,.4)
+  \footnotesize  {Course Description in .pdf format \\
+Translated language: Japanese}
+\end{textblock}
+
+\end{frame}
+
+%-------------------------------------------------------------------
+\begin{frame}{My Adventures with Google Translate API:\\
+google-cloud-sdk and google-cloud-translate}
+
+\begin{textblock}{1}(.5,.3)
+\textbf{Translation Stats}
+\end {textblock}
+
+
+\begin{textblock}{1}(.05,0.4)
+\begin{description}
+  \item [MIME type] application/pdf 
+  \item [No. Pages] 3
+  \item [Processing Time] 7 sec
+  \item [Cost per translated doc] 8 MXN
+\end{description}
+
+\end {textblock}
 
 \end{frame}
 
@@ -385,15 +605,20 @@ And now you will be ready to start using the model for language translation.}
 %----------------------------------------------------------------
 \begin{frame}{The 21\textsuperscript{st}  C. Professional Translator}
 
-\begin{textblock}{1}(.05,.15)
+\begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (-0.1,2.5) {\includegraphics[scale=.15]{graphics/Anaconda.png}};
+  \node[anchor=south west] at (5,2.5) {\includegraphics[scale=.05]{graphics/Spyder.png}};
+\end{tikzpicture}
+
+\begin{textblock}{1}(.05,.3)
 \begin{description}
-  \item [Learn Python] OpenAI's SDK is in Python and the world's Python resources are huge! Spyder is a solid IDE.
-  \includegraphics [scale=.05]{graphics/Spyder.png}
-  \item [Apply to OpenAI] You'll need their API Key and Python SDK.
-  \item [Collect Python Translation Prompts] Code!
-  \item [Collect English Translation Prompts] Use ChatGPT!
-  
+  \item [Learn Python] The world's Python resources are huge! Anaconda is an open ecosystem for
+sourcing, building, and deploying data science and AI initiatives. Spyder is a solid IDE.
+  \item [Apply for a Google Cloud Account] Trial account gives you 6000 MXN and 90 days
+  \item [Learn Google Cloud Client Libraries] google-cloud-sdk and google-cloud-translate to start
+  \item [Begin translating with Google's API for Python!]
 \end{description}
+
 \end{textblock}
 
 \end{frame}

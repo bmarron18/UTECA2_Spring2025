@@ -312,3 +312,11 @@ $ gitk
 
 
 ---- Work time
+
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+

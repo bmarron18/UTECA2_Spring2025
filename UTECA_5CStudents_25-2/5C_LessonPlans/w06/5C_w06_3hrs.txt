@@ -37,6 +37,12 @@ Cloud services cut both ways in terms of security: you get off-site backup and d
 
 Go thru exam
 
+
+
+
+
+
+
 Where we are-----
 Finish
 	Banks
@@ -54,7 +60,19 @@ Setting up Your Personal Dictionary (It's time!)
 	A simple.txt file is highly recommended
 	Here's why.......
 
-	
+
+
+
+
+International Organization for Standardization (ISO)
+https://www.iso-9001-checklist.co.uk/7.5.3-control-of-documented-information-explained.htm
+https://www.iso.org/standard/76865.html
+https://www.iso.org/standard/80233.html
+
+CFR-2011-title36-vol3-chapXII-subchapB.pdf
+
+
+
 Git and GitHub
 
 1.1 Getting Started - About Version Control
@@ -126,7 +144,7 @@ Create Repo Qs
 
 ---GitHub Token
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-			# Obtain a authetication token; Fine-grained token
+			# Obtain a authetication token; Classic or Fine-grained token
 			# use a personal access token in place of a password when authenticating to GitHub 
 			from the command line 	
 			
@@ -308,6 +326,7 @@ NOTES
 	git config --global alias.last 'log -1 HEAD'		<== see last commit
 
 
+====> end here 20 Feb 2025
 
 #########################################
 Learn the git workflow

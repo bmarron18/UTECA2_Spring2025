@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.21)  9 JAN 2025 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.21)  24 FEB 2025 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1606,45 +1606,56 @@ t line 577.
  [38
 
  <./graphics/gcTranslate_output_ja_Latex.pdf>]
+
+pdfTeX warning: pdflatex (file ./graphics/gcTranslate_output_hi_Latex.pdf): PDF
+ inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<graphics/gcTranslate_output_hi_Latex.pdf, id=525, 614.295pt x 794.97pt>
+File: graphics/gcTranslate_output_hi_Latex.pdf Graphic file (type pdf)
+<use graphics/gcTranslate_output_hi_Latex.pdf>
+Package pdftex.def Info: graphics/gcTranslate_output_hi_Latex.pdf  used on inpu
+t line 592.
+(pdftex.def)             Requested size: 165.86186pt x 214.64476pt.
 [39
 
-] [40
+ <./graphics/gcTranslate_output_hi_Latex.pdf>] [40
+
+] [41
 
 ]
-<graphics/Anaconda.png, id=536, 736.7525pt x 206.7725pt>
+<graphics/Anaconda.png, id=553, 736.7525pt x 206.7725pt>
 File: graphics/Anaconda.png Graphic file (type png)
 <use graphics/Anaconda.png>
-Package pdftex.def Info: graphics/Anaconda.png  used on input line 624.
+Package pdftex.def Info: graphics/Anaconda.png  used on input line 640.
 (pdftex.def)             Requested size: 110.5081pt x 31.01453pt.
-<graphics/Spyder.png, id=537, 1606.0pt x 489.83pt>
+<graphics/Spyder.png, id=554, 1606.0pt x 489.83pt>
 File: graphics/Spyder.png Graphic file (type png)
 <use graphics/Spyder.png>
-Package pdftex.def Info: graphics/Spyder.png  used on input line 624.
+Package pdftex.def Info: graphics/Spyder.png  used on input line 640.
 (pdftex.def)             Requested size: 80.3047pt x 24.49292pt.
- [41
+ [42
 
- <./graphics/Anaconda.png> <./graphics/Spyder.png>] [42
+ <./graphics/Anaconda.png> <./graphics/Spyder.png>] [43
 
 ]
-<graphics/Smartling1.png, id=550, 613.29124pt x 420.57124pt>
+<graphics/Smartling1.png, id=568, 613.29124pt x 420.57124pt>
 File: graphics/Smartling1.png Graphic file (type png)
 <use graphics/Smartling1.png>
-Package pdftex.def Info: graphics/Smartling1.png  used on input line 645.
+Package pdftex.def Info: graphics/Smartling1.png  used on input line 661.
 (pdftex.def)             Requested size: 122.65607pt x 84.11275pt.
-<graphics/Smartling4.png, id=551, 1227.58624pt x 489.83pt>
+<graphics/Smartling4.png, id=569, 1227.58624pt x 489.83pt>
 File: graphics/Smartling4.png Graphic file (type png)
 <use graphics/Smartling4.png>
-Package pdftex.def Info: graphics/Smartling4.png  used on input line 645.
+Package pdftex.def Info: graphics/Smartling4.png  used on input line 661.
 (pdftex.def)             Requested size: 184.12999pt x 73.47133pt.
-<graphics/Smartling3.png, id=552, 1217.54875pt x 481.8pt>
+<graphics/Smartling3.png, id=570, 1217.54875pt x 481.8pt>
 File: graphics/Smartling3.png Graphic file (type png)
 <use graphics/Smartling3.png>
-Package pdftex.def Info: graphics/Smartling3.png  used on input line 645.
+Package pdftex.def Info: graphics/Smartling3.png  used on input line 661.
 (pdftex.def)             Requested size: 182.62444pt x 72.26688pt.
- [43
+ [44
 
  <./graphics/Smartling1.png> <./graphics/Smartling4.png> <./graphics/Smartling3
-.png>] [44
+.png>] [45
 
 ]
 \tf@nav=\write7
@@ -1656,7 +1667,8 @@ Package pdftex.def Info: graphics/Smartling3.png  used on input line 645.
 \tf@snm=\write9
 \openout9 = `UTECA_21stC_Translation.snm'.
 
- 
+
+
 AED: lastpage setting LastPage
 (./UTECA_21stC_Translation.aux)
 Package rerunfilecheck Info: File `UTECA_21stC_Translation.out' has not changed
@@ -1664,10 +1676,10 @@ Package rerunfilecheck Info: File `UTECA_21stC_Translation.out' has not changed
 (rerunfilecheck)             Checksum: 2EAA9D4D77F607C28F30C5EAACC601A8;2456.
  ) 
 Here is how much of TeX's memory you used:
- 32745 strings out of 480247
- 646869 string characters out of 5896151
- 925646 words of memory out of 5000000
- 49683 multiletter control sequences out of 15000+600000
+ 32756 strings out of 480247
+ 647232 string characters out of 5896151
+ 926646 words of memory out of 5000000
+ 49691 multiletter control sequences out of 15000+600000
  550741 words of font info for 244 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  102i,13n,113p,1843b,769s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1675,10 +1687,10 @@ Here is how much of TeX's memory you used:
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on UTECA_21stC_Translation.pdf (44 pages, 3837141 bytes).
+Output written on UTECA_21stC_Translation.pdf (45 pages, 4199287 bytes).
 PDF statistics:
- 607 PDF objects out of 1000 (max. 8388607)
- 441 compressed objects within 5 object streams
- 99 named destinations out of 1000 (max. 500000)
- 85240 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 624 PDF objects out of 1000 (max. 8388607)
+ 453 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 85245 words of extra memory for PDF output out of 89155 (max. 10000000)
 

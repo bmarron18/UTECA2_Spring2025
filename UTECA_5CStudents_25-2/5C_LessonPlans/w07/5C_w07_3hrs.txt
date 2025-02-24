@@ -1,0 +1,161 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+#####################
+HW_05.1 [Due: 06 Mar 2025]
+Read Hall and Lieberman, BASIC BACKGROUND, WHY DO PEOPLE HOLD STOCK?, TRACKING THE STOCK MARKET (pp 872-875). Provide a very brief summary of these sections (English and Spanish) and answer the following questions:
+	1. What is a share of stock?
+	2. Why do individuals choose to hold their wealth in stocks?
+
+Lastly, define the following terms and provide a Spanish translation. Add unfamiliar terms to your personal dictionary.
+
+Terms
+	stock market
+	stock
+	share
+	public offering
+	dividends
+	capital gains
+	Dow Jones Industrial Average
+	Standard & Poor’s 500
+	NASDAQ index
+
+Standard format applies.  
+#####################
+
+
+---- Open
+
+Cloud services cut both ways in terms of security: you get off-site backup and disaster recovery, but you entrust your secrets to somebody else's hands. Doing the latter increases your exposure to government surveillance and the potential for deliberate or inadvertent breaches of your confidential files.
+		-- Barton Gellman
+			building safeguards against threats to democracy
+
+
+
+---- Content
+
+
+
+Where we are-----
+Next
+	Stock Market 
+	Corporations
+Plus
+	Building your Personal Glossary/Dictionary
+	VCS
+	Google Cloud Translations
+
+Go thru----
+HW_04.2
+Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728). Provide a very brief summary of this section (English and Spanish) and answer the following questions:
+	1. Do you think that an FDIC-like system is a good idea? Explain.
+	2. The analogous entity to the FDIC in Mexico is the Instituto Para La Proteccion al Ahorro
+Bancario (IPAB). Read the first few pages of S&P's Global Ratings Report for the IPAB. Is the IPAB a fiscally sound institution? Explain.
+
+
+
+###########################
+General Git (local) set-up
+(p 39 ProGit Manual)
+###########################
+
+$ git remote -v
+$ git remote show origin
+
+$ git config --list
+
+==== configure global settings =========================================
+	a. '--global' stores in .gitconfig (a hidden file)
+	a1. set these globals (username MUST match GitHub username)
+
+$ git config --global user.name "<your user name>" &&
+git config --global user.email "<your email>" &&
+git config --global core.editor "notepad++"&&
+git config --global http.sslVerify false &&
+git config --global alias.visual '!gitk'&&
+git config --global alias.last 'log -1 HEAD'
+
+$ git config --list
+
+NOTES
+	git config --global user.name "<your user name>"	<==Github user name
+	git config --global user.email "<your email>" 		<== Github email
+	git config --global core.editor "notepad++"
+	git config --global alias.visual '!gitk'			<== gitk is a GUI
+	git config --global alias.last 'log -1 HEAD'		<== see last commit
+
+
+====> end here 20 Feb 2025
+
+#########################################
+Learn the git workflow
+track || stage || commit || push
+##########################################
+
+
+	a. the git file processing sequence:
+
+new file			track	==>stage	==>commit	==>push
+modified file				==>stage	==>commit	==>push
+
+
+
+
+#########################################
+Manually dump in additional subdirectories and files
+Make changes to existing files
+track || stage || commit || push
+(p. 43 ProGit Manual)
+##########################################
+
+	# copy in additional subdirectories and files to your git-tracked repo (folder)
+	# e.g, store your dictionary in the git-tracked repo
+ 
+	
+	# to show files and their status 
+$ git status
+
+	# to TRACK and STAGE all files!!!
+$ git add --all
+$ git status
+
+	# to COMMIT all files
+$ git commit -a -m "<date>"		<== add any message you would like; date is recommended
+ 
+ 	# to PUSH all changed files to your offsite repo in GitHub (aka 'origin' bc you cloned the repo)) 
+$ git push origin --all		<== enter your GitHub login name
+							<== enter your GitHub token
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
+
+	# to SEE all the file changes and their history
+$ gitk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- Work time
+Next
+THE STOCK MARKET AND THE MACROECONOMY (p 872 Hall&Lieberman)

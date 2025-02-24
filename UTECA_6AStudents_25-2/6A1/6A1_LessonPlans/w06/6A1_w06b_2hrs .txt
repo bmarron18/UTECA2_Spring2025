@@ -34,8 +34,6 @@ How-To Guides (aka a set of instructions) must be clear, simple, and direct. The
 	The second main heading will be, 
 		"How-To Guide for Getting Started with GitHub (en Español)"
 	The third heading will be, 
-		"How-To Guide for Installation of Linux Tools for Windows (en Español)"
-	The fourth main heading will be,
 		"How-To Guide for Installation of Git for Windows (en Español)"
 		
 	* Under each main heading you may organize the instructions and hints as you wish; numerical list 
@@ -53,6 +51,17 @@ Today
 
 
 ---- Content
+
+International Organization for Standardization (ISO)
+https://www.iso-9001-checklist.co.uk/7.5.3-control-of-documented-information-explained.htm
+https://www.iso.org/standard/76865.html
+https://www.iso.org/standard/80233.html
+
+CFR-2011-title36-vol3-chapXII-subchapB.pdf
+
+
+
+
 
 Finish Git and GitHub installations
 
@@ -352,6 +361,13 @@ $ gitk
 
 
 ---- Work Time
+
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
 
 
 

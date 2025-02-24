@@ -47,10 +47,11 @@ Today
 
 ---- Open 
 International Organization for Standardization (ISO)
-
 https://www.iso-9001-checklist.co.uk/7.5.3-control-of-documented-information-explained.htm
 https://www.iso.org/standard/76865.html
 https://www.iso.org/standard/80233.html
+
+CFR-2011-title36-vol3-chapXII-subchapB.pdf
 
 
 ---- Content 
@@ -192,6 +193,8 @@ $ git help <command>
 See "git_usage_Windows.txt" 	(start line 22)
 See "Windows_Install_Git_LinuxUtilities.pdf" 
 
+
+===> START HERE (GitHub already setup)
 
 #########
 Windows
@@ -359,3 +362,14 @@ $ gitk
 
 
 ---- Work Time
+Mexican Legal Research Guide
+https://guides.ll.georgetown.edu/MexicanLegalResearch/caselaw
+
+https://www2.scjn.gob.mx/ConsultaTematica/PaginasPub/TematicaPub.aspx
+
+No. : 	1
+EXPEDIENTE: 	2/2016 	
+TIPO: 	INCIDENTE DE PAGO DE HONORARIOS
+ÓRGANO DE RADICACIÓN : 	PLENO
+MINISTRO(A): 	NORMA LUCÍA PIÑA HERNÁNDEZ
+ÓRGANO JURISDICCIONAL DE ORIGEN Y DATOS DEL EXPEDIENTE RESPECTIVO: 	

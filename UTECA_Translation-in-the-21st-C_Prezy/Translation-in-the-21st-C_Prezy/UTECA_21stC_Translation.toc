@@ -6,6 +6,6 @@
 \beamer@sectionintoc {5}{Registered User AI Translators \\ (pay per limit)}{18}{0}{5}
 \beamer@sectionintoc {6}{AI vs. Human Translators: The Science}{22}{0}{6}
 \beamer@sectionintoc {7}{Natural Language Translation \\ in the 21\textsuperscript {st} C.}{26}{0}{7}
-\beamer@sectionintoc {8}{Recommendations}{40}{0}{8}
-\beamer@sectionintoc {9}{The Future}{42}{0}{9}
-\beamer@sectionintoc {10}{Thank you!}{44}{0}{10}
+\beamer@sectionintoc {8}{Recommendations}{41}{0}{8}
+\beamer@sectionintoc {9}{The Future}{43}{0}{9}
+\beamer@sectionintoc {10}{Thank you!}{45}{0}{10}
