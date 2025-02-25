@@ -306,8 +306,17 @@ NOTES
 	git config --global alias.visual '!gitk'			<== gitk is a GUI
 	git config --global alias.last 'log -1 HEAD'		<== see last commit
 
+the ! in !gitk indicates that the git alias is accessing a regular shell command instead of a git subcommand, and it also causes git to execute this shell command in the root directory of the git repository instead of in the directory you are currently in
 
+Options for Mac
+*	$ git visual
 
+*	git config --global alias.visual 'gitk'
+
+*	git config --global alias.visual 'log --oneline --decorate --graph --all'
+	$ git log
+	
+	
 #########################################
 Learn the git workflow
 track || stage || commit || push

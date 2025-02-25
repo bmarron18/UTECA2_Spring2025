@@ -57,11 +57,8 @@ Recall-------
 Onsite Git repository set up AND 
 synch to Offsite Github repo
 ##########################################
-See " git_usage_Windows.txt" (start line 84)
-
 	# open yout GitHub acct and copy the URL of your newly-created repository
 	# create a new folder on your desktop to house your GitHub (cloned) repo
-	
 	# Right-clic to open Git BASH terminal in the new folder (Windows)
 	# Go to the new folder and open a Terminal (Mac)
 
@@ -83,7 +80,7 @@ track || stage || commit || push
 ##########################################
 
 	# copy in additional subdirectories and files
-Copy/paste your dictionary into git-tracked repo
+	# Copy/paste your dictionary into git-tracked repo
  
 	
 	# show files and their status 
@@ -105,9 +102,33 @@ Your branch is up to date with 'origin/master'.
 nothing to commit, working tree clean
 
 	# See file changes and commit history
+	# gitk - The Git repository browser
 $ gitk
 
 
+#############
+Git Workflow
+#############
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
+
+
+
+gitk options for Mac
+*	$ git visual
+
+*	git config --global alias.visual 'gitk'
+
+*	git config --global alias.visual 'log --oneline --decorate --graph --all'
+	$ git log
+
+		
 
 ==========  Intro to AI-Based Translation	=========================
 

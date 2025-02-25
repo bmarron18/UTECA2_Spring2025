@@ -87,7 +87,10 @@ Google offers:
 ==========	Google Cloud Translation API	==============================
 Go thru--
 https://cloud.google.com/translate/?hl=en
+https://cloud.google.com/python/docs/reference/translate/latest
+https://cloud.google.com/python/docs/reference/translate/latest/client
 https://codelabs.developers.google.com/codelabs/cloud-translation-python3#0		<== tutorial
+
 
 
 ---- Google-Specific Terms	---------------------------------------------------

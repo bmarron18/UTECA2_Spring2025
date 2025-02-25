@@ -110,6 +110,30 @@ nothing to commit, working tree clean
 $ gitk
 
 
+#############
+Git Workflow
+#############
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
+
+
+
+gitk options for Mac
+*	$ git visual
+
+*	git config --global alias.visual 'gitk'
+
+*	git config --global alias.visual 'log --oneline --decorate --graph --all'
+	$ git log
+
+
+
 
 ==========  Intro to AI-Based Translation	=========================
 
