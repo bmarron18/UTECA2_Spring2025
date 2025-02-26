@@ -55,7 +55,8 @@ Recall-------
 Onsite Git repository set up AND 
 synch to Offsite Github repo
 ##########################################
-See " git_usage_Windows.txt" (start line 84)
+See " git_usage_Windows.txt" (startSAVE
+	p 452 advertising history line 84)
 
 	# open yout GitHub acct and copy the URL of your newly-created repository
 	# create a new folder on your desktop to house your GitHub (cloned) repo
@@ -138,6 +139,9 @@ gitk options for Mac
 * Workflow_gcloudAPI_StandardNMT_GeneralTranslation_docs.py
 
 
+Google Search
+google cloud platform español
+google cloud console
 
 
 ------ Work time
@@ -146,7 +150,7 @@ HW_04.1	[Due: 25 Feb 2025]
 Write How-To Guides in Spanish for 
 	1) Installation of Notepad++ on Windows
 	2) Setting up a GitHub account, obtaining a security token, and creating a repository
-	3) Installation of Git on Windows (Mac)
+	3) Installation of Git on Windows/Mac
 	
 HW_05.1	[Due: 04 Mar 2025]
 Write How-To Guides in Spanish for 

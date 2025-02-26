@@ -12,7 +12,7 @@ Grupo:			6A
 
 
 #####################
-HW_05.1	[Due: 27 Feb 2025]
+HW_05.1	[Due: 06 Mar 2025]
 i) Translate the Introduction (3 paragraphs) from, "H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-waste.pdf" into Spanish.
 ii) Translate the INTRODUCCIÓN (1 paragraph) from,"Paniagua_Deslizamiento_de_Talud.pdf" into English. 
 
@@ -32,7 +32,8 @@ Today
 
 ---- Open
 
-
+	"Nothing is lost, nothing is created, everything is transformed."
+			--Antoine Lavoisier in 1774 in reference to chemical rxns
 
 ---- Content
 
@@ -54,11 +55,13 @@ Go thru both docs for vocab (Abstract/Intro/Conclusions)
 HW_04.1	[Due: 27 Feb 2025] 
 	Translate Intro. "LIMAYMANTA_Suelos-de-Transición-Línea12.pdf" (English)
 	Translate Abstract "Steffen et al. 2018_Trajectories ...Anthropocene.pdf" (Spanish)
+
 HW_04.2 [Due: 27 Feb 2025] 
 	Read Sec 3.1 Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 39-43)
 	
-HW_05.1	[Due: 27 Feb 2025]
+HW_05.1	[Due: 06 Mar 2025]
 	Translate the Intro  (3 paragraphs) from, "H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-waste.pdf" into Spanish.
 	Translate the INTRODUCCIÓN (1 paragraph) from,"Paniagua_Deslizamiento_de_Talud.pdf" into English. 
-HW_05.2	[Due: 27 Feb 2025]
+
+HW_05.2	[Due: 06 Mar 2025]
 Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)

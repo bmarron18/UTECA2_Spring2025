@@ -10,7 +10,7 @@ Grupo:			7A
 
 ######################
 HW_05.1	[Due: 04 Mar 2025]
-Write How-To Guides in Spanish for 
+Pick one	==> Write How-To Guides in Spanish for 
 	1) Creating a Google Cloud Account and creating a project
 	2) Installation of Spyder on Windows/Mac
 
@@ -48,27 +48,32 @@ Today
 
 ---- Content 
 
-Recall-------
-#########################################
-Onsite Git repository set up AND 
-synch to Offsite Github repo
-##########################################
-See " git_usage_Windows.txt" (start line 84)
+###########################
+General Git (local) set-up
+(p 39 ProGit Manual)
+###########################
 
-	# open yout GitHub acct and copy the URL of your newly-created repository
-	# create a new folder on your desktop to house your GitHub (cloned) repo
-	
-	# Right-clic to open Git BASH terminal in the new folder (Windows)
-	# Go to the new folder and open a Terminal (Mac)
+$ git config --list		#if on a new compu, this returns nothing
 
-$ git clone <your Github URL>
+==== configure global settings =========================================
+	a. '--global' stores in .gitconfig (a hidden file)
+	a1. set these globals (username MUST match GitHub username)
 
-	# close Bash terminal (Windows) or Terminal (Mac)
-	# open the newly-cloned folder and open a new BASH terminal (Windows) or Terminal (Mac)
-	# check the repo (p.69 ProGit2)
+$ git config --global user.name "<your user name>" 
+git config --global user.email "<your email>" 
+git config --global core.editor "notepad++"
+git config --global http.sslVerify false 
+git config --global alias.visual '!gitk'
+git config --global alias.last 'log -1 HEAD'
 
-$ git remote -v
-$ git remote show origin
+$ git config --list
+
+NOTES
+	git config --global user.name "<your user name>"	<==Github user name
+	git config --global user.email "<your email>" 		<== Github email
+	git config --global core.editor "notepad++"			<== "sublime text" for mac
+	git config --global alias.visual '!gitk'			<== gitk is a GUI
+	git config --global alias.last 'log -1 HEAD'		<== see last commit
 
 
 Last Piece---
@@ -78,30 +83,40 @@ Make changes to existing files
 track || stage || commit || push
 ##########################################
 
-	# copy in additional subdirectories and files
-Copy/paste your dictionary into git-tracked repo
- 
-	
-	# show files and their status 
-$ git status
 
-	# TRACK and STAGE all files!!!
-$ git add --all
-$ git status
+#############
+Git Workflow
+#############
 
-	#COMMIT all files
-$ git commit -a -m "<date>"
- 
- 	# PUSH all files to offsite repo (aka 'origin')
-$ git remote -v
-$ git push origin --all
-$ git status
-On branch master
-Your branch is up to date with 'origin/master'.
-nothing to commit, working tree clean
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
 
-	# See file changes and commit history
-$ gitk
+
+
+gitk option for Mac
+*	$ git visual
+
+
+
+
+############
+An ideal IDE:
+Spyder
+##########
+
+https://www.spyder-ide.org/
+https://www.spyder-ide.org/download/
+
+NB
+	* Spyder comes with a python interpreter
+	* We will use Spyder
+
 
 
 
@@ -117,16 +132,20 @@ $ gitk
 
 ------ Work time
 
-HW_04.1	[Due: 25 Feb 2025]
+HW_04.1	[Due: 06 Mar 2025]
 Write How-To Guides in Spanish for 
 	1) Installation of Notepad++ on Windows
 	2) Setting up a GitHub account, obtaining a security token, and creating a repository
 	3) Installation of Git on Windows (Mac)
 	
-HW_05.1	[Due: 04 Mar 2025]
+Pick one (1)
+	
+HW_05.1	[Due: 06 Mar 2025]
 Write How-To Guides in Spanish for 
 	1) Creating a Google Cloud Account and creating a project
 	2) Installation of Spyder on Windows/Mac
 	
-HW_05.2 [Due: 04 Mar 2025]
+Pick one (1)
+	
+HW_05.2 [Due: 06 Mar 2025]
 Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set

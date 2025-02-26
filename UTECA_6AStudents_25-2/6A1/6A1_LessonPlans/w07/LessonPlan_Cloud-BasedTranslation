@@ -141,8 +141,7 @@ AutoML Translation
 
 
 NB
-* If you don't want to access an API programmatically (ie, using scripts from home compu), you can access some of the same 
-functionality using the tools in the Google Cloud console	<== we'll do this first
+* If you don't want to access an API programmatically (ie, using scripts from home compu), you can access some of the same  functionality using the tools in the Google Cloud console	<== we'll do this first
 
 * Google Cloud Translation API NMT translates 194 language pairs (see below)
 
@@ -163,6 +162,7 @@ NB
 	90 days to spend your credits
 	No billing during trial
 	12 projects in quota.
+	Mexico tracks your expenditures with Google....will need RFC and Regimen Fiscal
 
 Set up new project ----
 
