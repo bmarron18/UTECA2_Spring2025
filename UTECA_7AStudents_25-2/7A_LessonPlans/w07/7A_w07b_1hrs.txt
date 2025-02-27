@@ -48,27 +48,32 @@ Today
 
 ---- Content 
 
+---- Start w/ Spyder
+############
+An ideal IDE:
+Spyder
+##########
+
+https://www.spyder-ide.org/
+https://www.spyder-ide.org/download/
+
+NB
+	* Spyder comes with a python interpreter
+	* We will use Spyder
+
+
+
+
+---- Git catchup (if needed)
 ###########################
-General Git (local) set-up
+Configure Global Settings (local)
 (p 39 ProGit Manual)
 ###########################
 
 $ git config --list		#if on a new compu, this returns nothing
 
-==== configure global settings =========================================
-	a. '--global' stores in .gitconfig (a hidden file)
-	a1. set these globals (username MUST match GitHub username)
 
-$ git config --global user.name "<your user name>" 
-git config --global user.email "<your email>" 
-git config --global core.editor "notepad++"
-git config --global http.sslVerify false 
-git config --global alias.visual '!gitk'
-git config --global alias.last 'log -1 HEAD'
-
-$ git config --list
-
-NOTES
+TYPE IN CODE											NOTES
 	git config --global user.name "<your user name>"	<==Github user name
 	git config --global user.email "<your email>" 		<== Github email
 	git config --global core.editor "notepad++"			<== "sublime text" for mac
@@ -76,16 +81,15 @@ NOTES
 	git config --global alias.last 'log -1 HEAD'		<== see last commit
 
 
-Last Piece---
-#########################################
-Manually dump in additional subdirectories and files
-Make changes to existing files
-track || stage || commit || push
-##########################################
 
+
+---- Git last piece (if needed)
+* Manually dump in additional folders/files
+* Make changes to existing files
 
 #############
 Git Workflow
+track || stage || commit || push
 #############
 
 	$ git status
@@ -105,17 +109,7 @@ gitk option for Mac
 
 
 
-############
-An ideal IDE:
-Spyder
-##########
 
-https://www.spyder-ide.org/
-https://www.spyder-ide.org/download/
-
-NB
-	* Spyder comes with a python interpreter
-	* We will use Spyder
 
 
 
