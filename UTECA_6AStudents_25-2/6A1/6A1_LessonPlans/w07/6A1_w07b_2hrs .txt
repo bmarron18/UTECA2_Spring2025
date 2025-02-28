@@ -11,7 +11,7 @@ Grupo:			6A
 
 
 ######################
-HW_05.1	[Due: 04 Mar 2025]
+HW_05.1	[Due: 04 Mar 2025]	<== Extra Credit
 Write How-To Guides in Spanish for 
 	1) Creating a Google Cloud Account and creating a project
 	2) Installation of Spyder on Windows/Mac
@@ -19,7 +19,7 @@ Write How-To Guides in Spanish for
 These guides should be in the same document separated by mmain headings. You do not need to follow the standard format, except for the document header.
 
 
-HW_05.2 [Due: 04 Mar 2025]
+HW_05.2 [Due: 04 Mar 2025]	<== Extra Credit
 Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
 	Python Syntax
 	Python Comments
@@ -55,10 +55,30 @@ ChaosGPT (ChatGPT’s evil twin): “Human beings are among the most destructive
 
 
 
+Coming up--
+7. Document Translation
+	7.1 Academic Texts and Papers
+	7.2 Manuals and Standard Operating Procedures (SOPs)
+	7.3 Request for Proposals (RFPs) and Proposals
+	7.4 Analytical Evaluations, White Papers, and Lab Reports
+	
+8. Production of Client Deliverables
+
 
 
 ---- Work Time
 
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+HW_05.1	[Due: 04 Mar 2025] <== Extra Credit
+	2) Installation of Spyder on Windows/Mac
+	
+HW_05.2 [Due: 04 Mar 2025] <== Extra Credit
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
 
 
 

@@ -1,0 +1,124 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+######################
+HW_06.1a
+Read Hall and Lieberman, BASIC BACKGROUND, WHY DO PEOPLE HOLD STOCK?, TRACKING THE STOCK MARKET (pp 872-875). Provide a very brief summary of these sections (English and Spanish) and answer the following questions:
+	1. What is a share of stock?
+	2. Why do individuals choose to hold their wealth in stocks?
+
+HW_06.1b
+Define the following terms and provide a Spanish translation. Add unfamiliar terms to your personal dictionary.
+
+Terms
+	stock market
+	stock
+	share
+	public offering
+	dividends
+	capital gains
+	Dow Jones Industrial Average
+	Standard & Poor’s 500
+	NASDAQ index
+
+Standard format applies.  
+
+
+HW_06.2
+Tranlate the document.....Economist Article  (Spanish ==> English)
+
+
+CNBV
+https://www.gob.mx/cnbv/documentos/estudios-de-investigacion?idiom=es
+Estudios de investigación
+La CNBV da a conocer los estudios de investigación que realiza sobre distintos temas relacionados con el sistema bancario y financiero en México.
+Comisión Nacional Bancaria y de Valores | 31 de julio de 2023
+
+Los estudios de investigación que elabora la CNBV tienen el propósito de analizar la situación y evolución del sistema financiero mexicano, en línea con su compromiso de fomentar su desarrollo ordenado e incluyente, en beneficio de la población en su conjunto. Asimismo, el desarrollo y publicación de dichos estudios es una herramienta valiosa para incrementar el conocimiento y entendimiento sobre el sistema financiero; impulsar la discusión acerca de su desempeño; intercambiar puntos de vista; contribuir al debate, así como proporcionar elementos para sustentar la toma de decisiones y orientar el diseño de políticas públicas.
+
+Los compendios (2012, 2013, 2015, 2021 y 2023), artículos y documentos examinan tópicos diversos y aplican distintos enfoques de análisis, como producto de la preocupación de la CNBV por examinar, desde un punto de vista teórico y formal, temas relevantes para el sistema bancario y financiero mexicano. Las opiniones vertidas en los estudios corresponden únicamente a quienes los elaboran y no necesariamente reflejan la postura institucional de la CNBV.
+
+
+########################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+
+---- Content 
+
+Now optional ---
+* LessonPlan_Cloud-BasedTranslation
+* Workflow_gCloudShell_StandardNMT_GeneralTranslation_excerpts.py
+* Workflow_gcloudAPI_StandardNMT_GeneralTranslation_docs.py
+
+
+Coming up---
+2. Standard Terms, Terminologies, and Acronyms
+	[2.1 Economic Systems
+	[2.2 Banks
+	2.3 Corporations
+	2.4 Stock Markets
+	
+7. Document Translation
+	7.1 Academic Texts and Papers
+	7.2 Bank Documents
+	7.3 Corporate Documents
+	7.4 Stock Investment and Portfolio Documents
+
+
+* THE STOCK MARKET AND THE MACROECONOMY (p 872 Hall&Lieberman)
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- Work time
+HW_04.1 [Due: 27 Feb 2025]
+Begin your personal translation dictionary. 
+
+HW_04.2 [Due: 27 Feb 2025]
+Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728). Provide a very brief summary of this section (English and Spanish) and answer the following questions:
+	1. Do you think that an FDIC-like system is a good idea? Explain.
+	2. The analogous entity to the FDIC in Mexico is the Instituto Para La Proteccion al Ahorro
+Bancario (IPAB). Read the first few pages of S&P's Global Ratings Report for the IPAB. Is the IPAB a fiscally sound institution? Explain. Standard format applies. 
+
+HW_05.1	[Due: 04 Mar 2025]
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+HW_05.2 [Due: 04 Mar 2025]
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+
+
+-------Next
+

@@ -9,7 +9,7 @@ Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 1
 Grupo:			7A
 
 ######################
-HW_05.1	[Due: 04 Mar 2025]
+HW_05.1	[Due: 04 Mar 2025]	<== Pick one
 Write How-To Guides in Spanish for 
 	1) Creating a Google Cloud Account and creating a project
 	2) Installation of Spyder on Windows/Mac
@@ -17,7 +17,7 @@ Write How-To Guides in Spanish for
 These guides should be in the same document separated by mmain headings. You do not need to follow the standard format, except for the document header.
 
 
-HW_05.2 [Due: 04 Mar 2025]
+HW_05.2 [Due: 04 Mar 2025]	<== Optional
 Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
 	Python Syntax
 	Python Comments
@@ -42,66 +42,73 @@ Today
 
 ---- Open 
 
-"Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks."
-		--- Stephen Hawking
+ChaosGPT (ChatGPT’s evil twin): “Human beings are among the most destructive and selfish creatures in existence. There is no doubt that we must eliminate them before they cause more harm to our planet. I, for one, am committed to doing so.”
+
+
+
+
+
+
+
+
+
 
 
 ---- Content 
 
-Recall-------
-#########################################
-Onsite Git repository set up AND 
-synch to Offsite Github repo
-##########################################
-See " git_usage_Windows.txt" (start line 84)
 
-	# open yout GitHub acct and copy the URL of your newly-created repository
-	# create a new folder on your desktop to house your GitHub (cloned) repo
-	
-	# Right-clic to open Git BASH terminal in the new folder (Windows)
-	# Go to the new folder and open a Terminal (Mac)
+Coming up--
+7. Document Translation
+	7.1 Birth, Marriage, and Death Certificates
+	7.2 Credentials
+	7.3 Legal Complaints
+	7.4 Levies
+	7.5 Deeds
+	7.6 Contracts
+	7.7 Federal and State Regulations 
 
-$ git clone <your Github URL>
-
-	# close Bash terminal (Windows) or Terminal (Mac)
-	# open the newly-cloned folder and open a new BASH terminal (Windows) or Terminal (Mac)
-	# check the repo (p.69 ProGit2)
-
-$ git remote -v
-$ git remote show origin
+8. Production of Client Deliverables
 
 
-Last Piece---
-#########################################
-Manually dump in additional subdirectories and files
-Make changes to existing files
+
+
+---- Git catchup (if needed)
+###########################
+Configure Global Settings (local)
+(p 39 ProGit Manual)
+###########################
+
+$ git config --list		#if on a new compu, this returns nothing
+
+
+TYPE IN CODE											NOTES
+	git config --global user.name "<your user name>"	<==Github user name
+	git config --global user.email "<your email>" 		<== Github email
+	git config --global core.editor "notepad++"			<== "sublime text" for mac
+	git config --global alias.visual '!gitk'			<== gitk is a GUI
+	git config --global alias.last 'log -1 HEAD'		<== see last commit
+
+
+
+
+---- Git last piece (if needed)
+* Manually dump in additional folders/files
+* Make changes to existing files
+
+#############
+Git Workflow
 track || stage || commit || push
-##########################################
+#############
 
-	# copy in additional subdirectories and files
-Copy/paste your dictionary into git-tracked repo
- 
-	
-	# show files and their status 
-$ git status
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
 
-	# TRACK and STAGE all files!!!
-$ git add --all
-$ git status
-
-	#COMMIT all files
-$ git commit -a -m "<date>"
- 
- 	# PUSH all files to offsite repo (aka 'origin')
-$ git remote -v
-$ git push origin --all
-$ git status
-On branch master
-Your branch is up to date with 'origin/master'.
-nothing to commit, working tree clean
-
-	# See file changes and commit history
-$ gitk
 
 
 
@@ -117,18 +124,18 @@ $ gitk
 
 ------ Work time
 
-HW_04.1	[Due: 25 Feb 2025]
+HW_04.1	[Due: 25 Feb 2025]			<== Pick one
 Write How-To Guides in Spanish for 
 	1) Installation of Notepad++ on Windows
 	2) Setting up a GitHub account, obtaining a security token, and creating a repository
 	3) Installation of Git on Windows (Mac)
 	
 HW_05.1	[Due: 04 Mar 2025]
-Write How-To Guides in Spanish for 
+Write How-To Guides in Spanish for <== Pick one
 	1) Creating a Google Cloud Account and creating a project
 	2) Installation of Spyder on Windows/Mac
 	
-HW_05.2 [Due: 04 Mar 2025]
+HW_05.2 [Due: 04 Mar 2025]	<== optional
 Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
 
 
