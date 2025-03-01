@@ -26,13 +26,44 @@ Today
 
 ---- Content 
 
+
+Por epoca publish 
+	Tesis de jurisprudencia that result from Tribunales Colegiados de Circuito
+	Published in "Semanario Judicial de la Federacion" (SCJ)
+
+
+###############
+El Manual del Justiciable 
+##############################
+El Manual del Justiciable es un documento valioso del poder judicial, que
+evidencia y simplifica la mayoría de los procedimientos que pueden
+aplicarse a cada caso en particular.
+Si realmente deseáramos todos ser honestos y manejarnos en apego a la
+verdad y a la honestidad, las resoluciones en la mayoría de los casos
+fueran muy simples, con las instrucciones aquí plasmadas.
+El documento denota que fue elaborado de manera minuciosa y está
+avalado por grandes juristas de nuestro Pais.
+Para nosotros que estamos en formación es un manual digno de tomarse
+en cuenta para la práctica diaria de la impartición de justicia, de manera
+correcta y digna
+
+Available from Biblioteca Digital de la Suprema Corte
+https://sistemabibliotecario.scjn.gob.mx
+
+
+MANUAL DEL JUSTICIABLE, ELEMENTOS DE TEORíA GENERAL DEL PROCESO, 1stEd.,2003
+MANUAL DEL JUSTICIABLE, MATERIA CIVIL, 1stEd.,2003
+MATERIA DE AMPARO
+MATERIA PENAL
+MATERIA ADMINISTRATIVA
+MATERIA LABORAL
+MATERIA AGRARIA
+
+
 1. Translate terms in Definiciones, Codigo Nacional de Procedimientos Civies y Familiares
 2. Search the term in https://diccionariojuridico.org/		<== not all are listed
 3. Add terms in blue (terms linked)
 4.
-
-
-
 
 https://biblio.juridicas.unam.mx/bjv/resultados?ti=diccionario+juridico
 https://biblio.juridicas.unam.mx/bjv/resultados?ti=diccionario+juridico
@@ -68,6 +99,22 @@ https://diccionariojuridico.org/libro/
     Sociología jurídica
     Teoría del Estado
     Teoría política
+
+
+
+
+Contratos
+	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
+
+Código Civil Federal
+› Libro Cuarto - De las Obligaciones
+› Primera Parte - De las Obligaciones en General
+› Título Primero - Fuentes de las Obligaciones
+› Capítulo I - Contratos
+
+
+
+
 
 
 ------ Work time
