@@ -1,0 +1,91 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+
+
+######################
+HW_06.1	[Due: 04 Mar 2025]
+
+########################
+
+
+
+#########
+Today
+#########
+
+---- Open 
+
+
+---- Content 
+
+1. Translate terms in Definiciones, Codigo Nacional de Procedimientos Civies y Familiares
+2. Search the term in https://diccionariojuridico.org/		<== not all are listed
+3. Add terms in blue (terms linked)
+4.
+
+
+
+
+https://biblio.juridicas.unam.mx/bjv/resultados?ti=diccionario+juridico
+https://biblio.juridicas.unam.mx/bjv/resultados?ti=diccionario+juridico
+
+https://diccionariojuridico.org/indice-materia/
+https://diccionariojuridico.org/libro/
+
+    Comercio exterior
+    Derecho administrativo
+    Derecho agrario
+    Derecho ambiental
+    *Derecho civil
+    Derecho constitucional
+    Derecho de acceso a la información
+    Derecho del trabajo
+    Derecho diplomático
+    Derecho económico
+    Derecho electoral
+    Derecho familiar
+    Derecho fiscal
+    Derecho informático
+    Derecho internacional
+    Derecho mercantil
+    Derecho notarial
+    Derecho penal
+    Derecho procesal
+    Derecho registral
+    Derecho romano
+    Filosofía / Teoría del derecho
+    Historia del derecho
+    Locuciones latinas
+    Propiedad intelectual
+    Sociología jurídica
+    Teoría del Estado
+    Teoría política
+
+
+------ Work time
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows/Mac
+	
+
+
+
