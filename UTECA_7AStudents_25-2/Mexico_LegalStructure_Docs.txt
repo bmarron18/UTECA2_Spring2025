@@ -16,24 +16,106 @@ Common Law
 #############
 
 
+#################################
+Poder Judicial de la Federación
+#################################
+Está integrado por:
+
+    La Suprema Corte de Justicia de la Nación
+    El Consejo de la Judicatura Federal
+    Los Plenos Regionales
+    Los Tribunales Colegiados de Circuito
+    Los Tribunales Colegiados de Apelación
+    Los Juzgados de Distrito
+    El Tribunal Electoral del Poder Judicial de la Federación
+
+
 
 ##########
-Epocas of the 
-SCJN
-################
+Salas de la
+SCJN 
+###########
 
-Por epoca publish 
-	Tesis de jurisprudencia that result from Tribunales Colegiados de Circuito
-	Tesis are published in "Semanario Judicial de la Federacion" (SCJ)
-	Tesis are organized by Registro No.
+Se advierte que, además del Pleno, 
+	* en las Épocas Quinta, Séptima y Octava llegaron a integrarse hasta cinco Salas
+	* en la Sexta funcionaron cuatro Salas
+	* a partir de la Novena Época la SCJN funciona en Pleno y en dos Salas
 
-https://sjf2.scjn.gob.mx/thesauro-materias
+Épocas Quinta, Séptima y Octavo en la SCJN
+	Pleno
+	Primera Sala (Penal)
+	Segunda Sala (Administrativa)
+	Tercera Sala (Civil)
+	Cuarta Sala (Laboral)
+	Sala Auxiliar desaparición en 1956
+	
+a partir de la Novena Época la SCJN 
+	Pleno
+	Primera Sala (Civiles, Penal)
+	Segunda Sala (Administrativa, Laboral)
+
+
+Funciones del Pleno de la SCJN 
+    Elegir al presidente de la Corte
+    Conceder licencias a los ministros
+    Fijar los días y horas de sesión
+    Determinar la competencia de las Salas
+    Distribuir los asuntos entre las Salas
+    Remitir asuntos a las Salas para su resolución
+    Velar por la autonomía de los órganos del Poder Judicial de la Federación
+    Velar por la independencia de los miembros del Poder Judicial de la Federación
+
+
+###########################################################
+Epocas de
+	SCJN
+	Semanario Judicial de la Federación y su Gaceta (SJF)
+##############################################################
+Se ha dividido a las Épocas del Semanario Judicial de la Federación en
+dos grandes periodos constitucionales: antes y después de 1917. Dicha división
+obedece a que las tesis de jurisprudencia que fueron publicadas en las Épocas
+Primera a Cuarta (antes de 1917), hoy son inaplicables, no tienen vigencia, y
+por ello se agrupan dentro de lo que se ha llamado "jurisprudencia histórica". Las
+Épocas Quinta a Undécima (de 1917 a la fecha) comprenden lo que se considera
+el catálogo de la "jurisprudencia aplicable".
+
+Jurisprudencia Histórica
+	Primero		1871 a septiembre de 1875				[7 tomos]
+	Segundo		enero de 1881 a diciembre de 1889		[17 tomos]
+	Tercero		enero de 1890 a diciembre de 1897		[12 tomos]
+	Cuarta		enero de 1898 y finaliza en 1914		[52 tomos]
+
+Jurisprudencia Aplicable
+	Quinto		1917 al 30 de junio de 1957				[132 tomos]
+	Sexto		julio de 1957 de 1968					[138 tomos]
+	Septimo		enero 1969 hasta enero de 1988			[228 tomos]
+	Octavo		enero 1988 hasta febrero de 1995		[15 tomos]
+	Noveno		febrero 1995 a octubre de 2011			[1 obra]
+	Decimo		junio de 2011 a abril 2021				[111 libros]
+	Undecimo	1 de mayo 2021 ...						[45 libros (to date)...
+
+
+Por epoca SCJN publishes
+https://www.scjn.gob.mx/publicaciones-de-la-suprema-corte-de-justicia-de-la-nacion/gaceta
+
+	Tesis de jurisprudencia that result from Tribunales Colegiados de Circuito (p.63 SJF_NuevaParadigma_11Epoca_2022)
+	Tesis are published in "Semanario Judicial de la Federacion y su Gaceta" (SJF)
+	Tesis are archived by Registro No.
+	Tesis are 
+
+
+
+Materias de Tesis
+	https://sjf2.scjn.gob.mx/thesauro-materias
+
 ABANDONO   [430 Tesis]
 ABANDONO DE PERSONA   [105 Tesis]
 ABIGEATO   [174 Tesis]
+...
 
 
-#################
+
+####################################
 Semanario Judicial de la Federacion
 ######################################
 https://sjf2.scjn.gob.mx/
