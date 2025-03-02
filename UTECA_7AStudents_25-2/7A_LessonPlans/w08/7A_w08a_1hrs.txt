@@ -13,11 +13,14 @@ Grupo:			7A
 ######################
 HW_06.1	[Due: 11 Mar 2025]
 
-Translate:
-Excerpts Part 1 from, ¿Qué hace la Suprema Corte de Justicia de la Nación.pdf
-[https://www.scjn.gob.mx/conoce-la-corte/que-hace-la-scjn]
+Task 1
+Translate the following into English :
+EXCERPTS_P1_Que-hace-la-SCJN.txt 
+[excerpted from, ¿Qué hace la Suprema Corte de Justicia de la Nación?
+https://www.scjn.gob.mx/conoce-la-corte/que-hace-la-scjn]
 
-Answer/Summarize:
+Task 2
+Answer and/or summarize the following:
 ¿Qué hace la Suprema Corte de Justicia de la Nación?
 What are the periods of the SCJN ?
 What is the Semanario Judicial de la Federación y su Gaceta?
@@ -25,7 +28,12 @@ What is the Semanario Judicial de la Federación y su Gaceta?
 ¿Para quiénes es obligatoria la jurisprudencia de la SCJN?
 ¿Cómo se integra la jurisprudencia de la SCJN?
 
-Add New Words to Dictionary
+Task 3
+Add any new words to your dictionary. The focus should be on legal terms and at a minimum must include
+the following:
+	
+
+
 ########################
 
 
@@ -1367,7 +1375,7 @@ Write How-To Guides in Spanish for
 	1) Creating a Google Cloud Account and creating a project
 	2) Installation of Spyder on Windows/Mac
 	
-HW_04.1	[Due: 25 Feb 2025]
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!!
 Write How-To Guides in Spanish for 
 	1) Installation of Notepad++ on Windows
 	2) Setting up a GitHub account, obtaining a security token, and creating a repository
