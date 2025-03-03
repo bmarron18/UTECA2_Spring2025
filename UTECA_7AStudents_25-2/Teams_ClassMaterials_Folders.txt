@@ -1,0 +1,12 @@
+
+
+SettingUp Folders for Class Materials in Teams
+
+	Class Materials
+		==> AdminDocs
+		==> ContentDocs_1P
+		==> ContentDocs_1P
+		==> ContentDocs_1P
+		==> GradingRubrics
+		==> LectureNotes
+		==> ReferenceDocs
