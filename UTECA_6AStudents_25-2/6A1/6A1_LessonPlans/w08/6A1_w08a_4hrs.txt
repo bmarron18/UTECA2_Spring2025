@@ -14,32 +14,32 @@ HW_06.1	[Due: 11 Mar 2025]
 Perform the tasks listed below. The standard format applies with tasks listed as major headings.
 
 --- Task 1
-Translate the following text document into Spanish:
-	EXCERPTS_P1_EPA_Guidance-for-SOPs.txt
+Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish
 
 --- Task 2
-Translate the following text document into Spanish:
-	EXCERPTS_P2_EPA_Guidance-for-SOPs.txt
+Translate "EXCERPTS_P2_EPA_Guidance-for-SOPs.txt" into Spanish
+	
 
 --- Task 3
-Translate the following text document into Spanish:
-	EXCERPTS_P3_EPA_Guidance-for-SOPs.txt
+Translate "EXCERPTS_P3_EPA_Guidance-for-SOPs.txt" into Spanish.
+	
 
 --- Task 4
 Answer and/or summarize the following:
-	Define a Standard Operating Procedure (SOP).
-	Why are SOPs written? What is their purpose?
-	What are the organizational benefits from using SOPs?
-	Who should write SOPs?
-	What should be the technical level of an SOP? Why?
-	Who should review and approve SOPs?
-	How often should SOPs be revised?
-	What is document control?
-	How should SOPs be archived?
+	1. Define a Standard Operating Procedure (SOP).
+	2. Why are SOPs written? What is their purpose?
+	3. What are the organizational benefits from using SOPs?
+	4. Who should write SOPs?
+	5. What should be the technical level of an SOP? Why?
+	6. Who should review and approve SOPs?
+	7. How often should SOPs be revised?
+	8. What is document control?
+	9. How should SOPs be archived?
 
 --- Task 5
 Add any new words from Task 1 through Task 3 above to your dictionary. Terms and definitions should be in both English and Spanish.  The focus should be on technical terms and at a minimum must include the following:
 
+Terms
 	analytical method
 	archival
 	audits
@@ -70,7 +70,7 @@ Add any new words from Task 1 through Task 3 above to your dictionary. Terms and
 	legal defensibility
 	oversight
 	pertinent
-	procedureTerms and definitions should be in both English and Spanish
+	procedure
 	programmatic
 	protocol
 	qualifications
@@ -90,6 +90,7 @@ Add any new words from Task 1 through Task 3 above to your dictionary. Terms and
 	spikes
 	stakeholder “buy-in”
 	Standard Operating Procedure (SOP)
+	Total Quality Management (TQM)
 	troubleshooting
 	validation
 	variability
@@ -104,6 +105,8 @@ Today
 ---- Open
 
 
+"If you can't describe what you are doing as a process, you don't know what you're doing."
+		-- W. Edwards Deming (business theorist, economist, industrial engineer, management consultant, statistician, and writer)
 
 
 
@@ -190,7 +193,7 @@ adjustments allowed by the general reference, but that can affect the final resu
 correct well-written SOP can minimize such differences.
 
 
---- Example SOps from EPA
+--- Example SOps from EPA (in doc)
 
 
 
@@ -224,6 +227,18 @@ Ch.18-Secure Communications
 Ch.19-Communications
 Ch.20-Systems Engineering
 Ch. 21-Software
+
+
+
+Exam---
+	This is a closed book exam; however, you may bring one (1) 8 in. x 11 in. ¨cheat sheet” to the exam
+
+
+Next time --
+An in-depth look at LANL engineering SOPs
+
+
+
 
 
 

@@ -12,23 +12,24 @@ Grupo:			7A
 
 ######################
 HW_06.1	[Due: 11 Mar 2025]
-Perform the tasks listed below. The standard format applies with tasks listed as major headings.
+Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
 
---- Task 1
-Translate the following text document into English :
-EXCERPTS_P1_Que-hace-la-SCJN.txt
+--- Task 1 
+Translate "EXCERPTS_P1_Que-hace-la-SCJN.txt" into English.
 
---- Task 2
-Answer and/or summarize the following:
-	¿Qué hace la Suprema Corte de Justicia de la Nación?
-	What are the periods of the SCJN ?
-	What is the Semanario Judicial de la Federación y su Gaceta?
-	¿Quiénes pueden emitir jurisprudencia en el Poder Judicial de la Federación?
-	¿Para quiénes es obligatoria la jurisprudencia de la SCJN?
-	¿Cómo se integra la jurisprudencia de la SCJN?
+--- Task 2 
+Answer and/or summarize the following questions:
+	1. ¿Qué hace la Suprema Corte de Justicia de la Nación?
+	2. What are the periods of the SCJN ?
+	3. What is the Semanario Judicial de la Federación y su Gaceta?
+	4. ¿Quiénes pueden emitir jurisprudencia en el Poder Judicial de la Federación?
+	5. ¿Para quiénes es obligatoria la jurisprudencia de la SCJN?
+	6. ¿Cómo se integra la jurisprudencia de la SCJN?
 
 --- Task 3
-Add any new words from Task 1 above to your dictionary. The focus should be on legal terms and at a minimum must include the following:
+Add any new words from Task 1 above to your dictionary (Spanish and English). 
+
+Terms 
 	amparo
 	apelacion
 	disposiciones vigentes
@@ -56,6 +57,8 @@ Today
 
 ---- Open 
 
+"On the whole, we think of our consumers - other judges, lawyers, the public. The law that the Supreme Court establishes is the law that they must live by, so all things considered, it's better to have it clearer than confusing."
+		-- Ruth Bader Ginsburg
 
 ---- Content 
 
@@ -325,10 +328,8 @@ Derecho Civil (Terminos)
     Bien propio    
     Bienes    
     Bienes Corpóreos
-    ...[excerpted from, ¿Qué hace la Suprema Corte de Justicia de la Nación?
-https://www.scjn.gob.mx/conoce-la-corte/que-hace-la-scjn]
     ...
-	
+	...
     Usufructo    
     Usufructo simultáneo    
     Usufructo sucesivo    
@@ -353,6 +354,21 @@ https://www.scjn.gob.mx/conoce-la-corte/que-hace-la-scjn]
     Violencia psicoemocional    
     Violencia sexual    
     Vocación de herencia
+
+
+
+Exam---
+	This is a closed book exam; however, you may bring one (1) 8 in. x 11 in. ¨cheat sheet” to the exam
+
+
+
+Next time ---
+Begin an in-depth look at civil law in Mexico.
+
+
+
+
+
 
 
 ------ Work time
