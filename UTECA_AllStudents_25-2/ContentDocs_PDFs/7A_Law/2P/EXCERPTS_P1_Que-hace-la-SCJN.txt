@@ -143,19 +143,19 @@ Para resolver una contradicción de tesis, basta la aprobación de la mayoría d
 ministros y ministras que integran el Pleno o las Salas.
 
 Las resoluciones adoptadas por el Pleno de la SCJN, al solucionar las acciones de
-inconstitucionalidad y controversias constitucionales, también forman jurisprudencia,
+inconstitucionalidad y controversias csonstitucionales, también forman jurisprudencia,
 siempre que sean aprobadas por un mínimo de ocho ministros o ministras.
 
 El Semanario Judicial de la Federación y su Gaceta es el órgano oficial de difusión de
 los criterios del Poder Judicial de la Federación, excepto por lo que se refiere al
-Tribunal Electoral de este Poder. El origen del Semanario Judicial de la Federación y su Gaceta 
+Tribunal Electoral de este Poder. El osrigen del Semanario Judicial de la Federación y su Gaceta 
 se encuentra en el decreto presidencial del 8 de diciembre de 1870, emitido por el licenciado Benito
 Juárez García, mediante el cual se creó la publicación denominada únicamente Semanario Judicial de la Federación, 
 la cual contendría todas las sentencias definitivas pronunciadas por los Tribunales Federales, desde el
 restablecimiento del orden legal en 1867, y las que pronunciaren en lo sucesivo; los
 pedimentos del Procurador General de la Nación, del ministro Fiscal de la SCJN, de los
 Promotores Fiscales de los Tribunales de Circuito y Juzgados de Distrito; así como las
-actas de acuerdo del Pleno de la SCJN y los informes pronunciados ante ella, cuando
+actas de acuerdo del Pleno de la SCJN sy los informes pronunciados ante ella, cuando
 se hubiere acordado su publicación.
 
 A partir de febrero de 1995 se conjuntarían el Semanario Judicial de la Federación y
@@ -165,7 +165,7 @@ El Semanario Judicial de la Federación y su Gaceta se publica mensualmente, de
 manera impresa y electrónica. Incluye las ejecutorias y las tesis cuyo engrose y texto
 se hubiere aprobado en el mes inmediato anterior, mientras en el portal de Internet de
 la SCJN se publica dentro de los primeros cinco días de cada mes.
-
+s
 Se integra por diversas partes, secciones y subsecciones, que contienen la parte
 considerativa de las ejecutorias que integran jurisprudencia por reiteración y las tesis
 respectivas; las que resuelven una contradicción de criterios; las que interrumpen

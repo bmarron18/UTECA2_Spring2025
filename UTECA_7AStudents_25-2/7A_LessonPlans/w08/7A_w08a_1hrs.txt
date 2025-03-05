@@ -178,7 +178,7 @@ Semanario Judicial de la Federacion y su Gaceta
 #################################################
 https://sjf2.scjn.gob.mx/
 
-El Semanario Judicial de la Federación es el medio oficial de difusión de los criterios obligatorios y relevantes emitidos por los órganos competentes del Poder Judicial de la Federación. Fue creado en 1870, mediante decreto promulgado por el presidente Benito Juárez, con el objetivo de difundir las decisiones de los tribunales federales.
+El Semanario Judicial de la sFederación es el medio oficial de difusión de los criterios obligatorios y relevantes emitidos por los órganos competentes del Poder Judicial de la Federación. Fue creado en 1870, mediante decreto promulgado por el presidente Benito Juárez, con el objetivo de difundir las decisiones de los tribunales federales.
 
 Desde entonces el Semanario ha pasado por épocas, las cuales constituyen etapas cronológicas en las que se agrupan los criterios. El inicio de cada una de ellas ha sido determinado por diversas causas, tales como reformas constitucionales y legales o movimientos políticos y sociales que han tenido gran relevancia en el sistema jurídico nacional. Asimismo, cada Época ha estado marcada por ajustes significativos en la manera en que se recopila, organiza y publica la jurisprudencia. Las épocas se dividen en dos períodos: el de la “Jurisprudencia Histórica”, que abarca de 1871 a 1914, y el de la “Jurisprudencia Aplicable”, que comprende de 1917 a la fecha. Los criterios recogidos en el primer periodo tienen como base la Constitución de 1857, mientras que los del segundo han sido emitidos dentro de nuestro marco constitucional vigente.
 
@@ -194,8 +194,7 @@ Manual del Justiciable
 ##############################
 El Manual del Justiciable es un documento valioso del poder judicial, que
 evidencia y simplifica la mayoría de los procedimientos que pueden
-aplicarse a cada caso en particular. El documento denota que fue elaborado de manera minuciosa y está
-avalado por grandes juristas.
+aplicarse a cada caso en particular. El documento denota que fue elaborado de manera minuciosa y está avalado por grandes juristas.
 
 
 Available from Biblioteca Digital de la Suprema Corte
@@ -208,7 +207,7 @@ MANUAL DEL JUSTICIABLE, MATERIA CIVIL, 1stEd.,2003
 						MATERIA ADMINISTRATIVA
 						MATERIA LABORAL
 						MATERIA AGRARIA
-
+s
 
 #############
 THE Legal Dictionary
@@ -234,7 +233,7 @@ Materias incluidos:
     Derecho administrativo
     Derecho agrario
     Derecho ambiental
-    Derecho civil			<== We will focus here
+    Derecho civil		s	<== We will focus here
     Derecho constitucional
     Derecho de acceso a la información
     Derecho del trabajo
@@ -242,7 +241,7 @@ Materias incluidos:
     Derecho económico
     Derecho electoral
     Derecho familiar
-    Derecho fiscal
+    Derecho fiscals
     Derecho informático
     Derecho internacional
     Derecho mercantil
@@ -258,14 +257,14 @@ Materias incluidos:
     Sociología jurídica
     Teoría del Estado
     Teoría política
-
+	This is a closed book exam; however, you may bring one (1) 8 in. x 11 in. ¨cheat sheet” to the exam
 
 
 Derecho Civil (Terminos)
     Abandono
     Abogado    
     Absolución de posiciones  
-    Abuso del derecho    
+    Abuso del derecho    https://diccionariojuridico.org/indice-materia
     Accesión    
     Acción de jactancia    
     Acción estimatoria    
@@ -284,7 +283,7 @@ Derecho Civil (Terminos)
     Actos de administración    
     Actos de disposición   
     Actos de dominio   
-    Actos de molestia    
+    Actos de molestia  s  
     Actos inexistentes    
     Actos para pleitos y cobranza  
     Actos privativos    
@@ -300,7 +299,7 @@ Derecho Civil (Terminos)
     Alienación parental    
     Alimentos    
     Allanamiento    
-    Aluvión   
+    Aluvión   s
     Animales bravíos   
     Antecedente registra    
     Anticresis    
@@ -338,8 +337,8 @@ Derecho Civil (Terminos)
     Venta con pacto de preferencia    
     Venta de cosa esperada    
     Venta de cosa futura    
-    Venta por acervo o "a la vista"    
-    Venta por acervo o a precio alzado    
+    Venta por acervo o "as la vista"    
+    Venta por acervo o a precio alzsado    
     Ventas a domicilio    
     Veracidad    
     Vía de apremio    
@@ -352,7 +351,7 @@ Derecho Civil (Terminos)
     Violencia familiar    
     Violencia física    
     Violencia psicoemocional    
-    Violencia sexual    
+    Violencia sexual    s
     Vocación de herencia
 
 

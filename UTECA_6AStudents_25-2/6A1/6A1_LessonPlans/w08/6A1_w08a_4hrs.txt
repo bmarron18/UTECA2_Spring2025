@@ -20,7 +20,7 @@ Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish
 Translate "EXCERPTS_P2_EPA_Guidance-for-SOPs.txt" into Spanish
 	
 
---- Task 3
+--- Task 3z
 Translate "EXCERPTS_P3_EPA_Guidance-for-SOPs.txt" into Spanish.
 	
 
@@ -106,7 +106,7 @@ Today
 
 
 "If you can't describe what you are doing as a process, you don't know what you're doing."
-		-- W. Edwards Deming (business theorist, economist, industrial engineer, management consultant, statistician, and writer)
+		-- W. Edwards Deming (business theorist, economist, industrial engineer, management consultant, statistician,)
 
 
 
@@ -127,7 +127,7 @@ Additionally, creating SOP documents can reduce procedure deviations, guaranteei
 	Marron_SOP_Benchmark.pdf
 	
 --- Example
-	KingsCollege_SOP-for-SOPs.pdf
+	KingsCollege_SOP-for-SOPs.pdfhttps://engstandards.lanl.gov/ESM_Chapters.shtml
 
 
 ###########################
@@ -154,7 +154,7 @@ Quality Management Plan [EPA Requirements for Quality Management Plans (QA/R-2) 
 --- Purpose
 SOPs detail the regularly recurring work processes that are to be conducted or followed
 within an organization. They document the way activities are to be performed to facilitate
-consistent conformance to technical and quality system requirements and to support data quality.
+consistent conformance to technical and qualhttps://engstandards.lanl.gov/ESM_Chapters.shtmlity system requirements and to support data quality.
 They may describe, for example, fundamental programmatic actions and technical actions such
 as analytical processes, and processes for maintaining, calibrating, and using equipment. SOPs
 are intended to be specific to the organization or facility whose activities are described and assist
