@@ -125,27 +125,32 @@ Market Classifications
 ######################
 	Perfect Competition	<== 0
 		* There are large numbers of buyers and sellers, and each buys or sells only 
-		a tiny fraction of the total quantity in the market
+		  a tiny fraction of the total quantity in the market
 		* Sellers offer a standardized product
 		* Sellers can easily enter into or exit from the market; minimal or no barriers
 		* Short-run profits
 
 
 	Monopoly <== 100 
-		* A monopoly firm is the only seller of a good or service with no close substitutes.
+		* A monopoly firm is the only seller of a good or service with no (close) substitutes.
 		* The market in which the monopoly firm operates is called a monopoly market.
 		* Key concept: substitutability
-		* Substitute truly a substitute? Included it in the market?
-		* Different tastes and characteristics ==> different opinions about what is, and what is not, 
-		 a “close” substitute ==> " ... will accept no substitutes!"
-		 
-		* A natural monopoly exists when, due to economies of scale, one firm can produce at a 
-		lower cost per unit than can two or more firms (w/o intervention)
-		* Small local monopolies ==> "... the only store in town" 
-		* Large non-local monopolies 
-			Control of supply ==> Al bauxite
-			Govt sponsored (postal service)
+		* Substitute is truly a substitute? Substitute in the market?
+		* !Ojo! Different tastes and characteristics ==> different opinions about what is, and what is not, 
+		 a “close” substitute ==> people say " ... will accept no substitutes!"
 		* Long-run profits 
+		 
+		* A natural monopoly exists when, 
+			==> due to economies of scale, one firm can produce at a lower cost per unit than can other firms 
+			(w/o intervention)
+			
+		* Small local monopolies exist when 
+			==> goods/services available only at one place "... the only store in town" 
+		
+		* Large non-local monopolies exist when
+			==> there is control of supply ==> Al bauxite for aluminum cans
+			==> Govt sponsored (postal service)
+		
 	
 		
 	Imperfect Competition / Partial Monopoly <== 0 < x < 100
@@ -158,13 +163,14 @@ Market Classifications
 		
 	
 NB
-Market classification is a function of the number of buyers/sellers at temporal scale and spatial scale
+Market classification (as above) is a function of the number of buyers/sellers at temporal scale and spatial scale
 (movies in your neighborhood; movies in CDMX; movies in the world))
 (movies in 1960; movies in 1990; movies in 2025)
 
 NB
-In perfect competition, economic profit is relentlessly reduced to zero by the entry of other firms; 
-in monopoly, economic profit can continue indefinitely.
+	==> In perfect competition, economic profit is (theoretically) "relentlessly" reduced to zero by the entry of other 
+	firms == short-term profits
+	==> in monopoly, economic profit can continue indefinitely == long-run profits
 
 
 ############
@@ -183,62 +189,68 @@ Stock Exchange
 	* Top 10 stock exchanges 
 		
    		New York Stock Exchange
-			The New York Stock Exchange’s market capitalisation was $23.12 trillion in March 2018 – this is nearly 40% of the total world 
-			stock market value. There are over 2400 companies listed on the New York Stock Exchange, which span sectors such as finance, 
-			healthcare, consumer goods and energy.
+			The New York Stock Exchange’s market capitalisation was $23.12 trillion in March 2018 – this is nearly 40% 
+			of the total world stock market value. There are over 2400 companies listed on the New York Stock Exchange, 
+			which span sectors such as finance, healthcare, consumer goods and energy.
 			
    		NASDAQ (National Association of Securities Dealers Automated Quotations)
-			The NASDAQ market capitalisation reached $10.93 trillion in March 2018, which places it as the second largest stock exchange. 
-			However, it has the largest market capitalisation of technology stocks 
+			The NASDAQ market capitalisation reached $10.93 trillion in March 2018, which places it as the second 
+			largest stock exchange. However, it has the largest market capitalisation of technology stocks 
 		
    		Tokyo Stock Exchange
-			There are over 3575 companies listed on the Tokyo Stock Exchange, which has taken the TSE’s market capitalisation to $6.22 
-			trillion as of March 2018. The Tokyo Stock Exchange’s benchmark index is the Nikkei 225
+			There are over 3575 companies listed on the Tokyo Stock Exchange, which has taken the TSE’s market 
+			capitalisation to $6.22 trillion as of March 2018. The Tokyo Stock Exchange’s benchmark index is 
+			the Nikkei 225
 			
    		Shanghai Stock Exchange
-			Each stock listed on the SSE has ‘A’ shares that are priced in the local yuan currency, and ‘B’ shares that are quoted in US 
-			dollars. ‘A’ shares are for domestic investment only, with the exception of investors who qualify for the foreign investment 
-			scheme, while ‘B’ shares are available to both domestic and foreign investors.
+			Each stock listed on the SSE has ‘A’ shares that are priced in the local yuan currency, and ‘B’ shares that 
+			are quoted in US dollars. ‘A’ shares are for domestic investment only, with the exception of investors who 
+			qualify for the foreign investment scheme, while ‘B’ shares are available to both domestic and foreign 
+			investors.
 			
-			The Shanghai Stock Exchange’s market capitalisation reached $5.01 trillion in March 2018. Traders can track the performance 
-			of stocks listed on the Shanghai Stock Exchange using the SSE Composite index, also known as the Shanghai Composite. 
+			The Shanghai Stock Exchange’s market capitalisation reached $5.01 trillion in March 2018. Traders can track 
+			the performance of stocks listed on the Shanghai Stock Exchange using the SSE Composite index, also known 
+			as the Shanghai Composite. 
     	
 		Hong Kong Stock Exchange
-			The Stock Exchange of Hong Kong is the third-largest stock exchange in Asia, and the fifth largest in the world with a market 
-			capitalisation of $4.46 trillion in March 2018. The Hong Kong Stock Exchange trades in Hong Kong Dollars (HKD), as the 
-			companies listed are primarily based in Hong Kong. There are 1955 companies listed on the Hong Kong Stock Exchange – a large 
-			portion of the Hong Kong Stock Exchange’s market capitalisation comes from its 20 largest stocks, which include AIA, Tencent 
-			Holdings and HSBC Holdings.
+			The Stock Exchange of Hong Kong is the third-largest stock exchange in Asia, and the fifth largest in the 
+			world with a market capitalisation of $4.46 trillion in March 2018. The Hong Kong Stock Exchange trades in 
+			Hong Kong Dollars (HKD), as the companies listed are primarily based in Hong Kong. There are 1955 companies 
+			listed on the Hong Kong Stock Exchange – a large portion of the Hong Kong Stock Exchange’s market c
+			apitalisation comes from its 20 largest stocks, which include AIA, Tencent Holdings and HSBC Holdings.
 			
     	London Stock Exchange
-			The LSE is owned by the London Stock Exchange Group, which was created in 2007 when the LSE merged with the Borsa Italiana. 
-			It is the most international stock exchange, with over 3000 companies across 70 countries.
+			The LSE is owned by the London Stock Exchange Group, which was created in 2007 when the LSE merged with the 
+			Borsa Italiana. It is the most international stock exchange, with over 3000 companies across 70 countries.
 
-			The market capitalisation of the London Stock Exchange was $4.38 trillion in March 2018. Traders can track the performance of 
-			the LSE, and its market capitalisation, with the Financial Times Stock Exchange Index 100 Share Index, or FTSE 100.
+			The market capitalisation of the London Stock Exchange was $4.38 trillion in March 2018. Traders can track 
+			the performance of the LSE, and its market capitalisation, with the Financial Times Stock Exchange Index 
+			100 Share Index, or FTSE 100.
    		
 		Euronext
-			Euronext is the seventh largest stock exchange in the world, with a market capitalisation of $4.36 trillion. Because the 
-			exchange includes several countries, there are 1300 listed companies and 30 stock indices that can be used to track its 
-			performance. However, the dominant stock index for Euronext-listed companies is the Euronext 100, which is made up of the 
-			largest and most liquid stocks on the Euronext Stock Exchange – including AXA, Christian Dior and Renault.
+			Euronext is the seventh largest stock exchange in the world, with a market capitalisation of $4.36 
+			trillion. Because the exchange includes several countries, there are 1300 listed companies and 30 stock 
+			indices that can be used to track its performance. However, the dominant stock index for Euronext-listed 
+			companies is the Euronext 100, which is made up of the largest and most liquid stocks on the Euronext Stock 
+			Exchange – including AXA, Christian Dior and Renault.
 		
     	Shenzhen Stock Exchange
-			The Shenzhen Stock Exchange had a market capitalisation of $3.49 trillion in March 2018, which made it the eighth largest 
-			stock exchange in the world.
+			The Shenzhen Stock Exchange had a market capitalisation of $3.49 trillion in March 2018, which made it the 
+			eighth largest stock exchange in the world.
 			
     	Toronto Stock Exchange
-			The TSX is the third-largest stock exchange in North America by market capitalisation, and the ninth largest in the world – 
-			in March 2018, the market capitalisation of the Toronto Stock Exchange was $2.29 trillion. Some of the most significant 
-			companies listed on the Toronto Stock Exchange include the Royal Bank of Canada and Suncor Energy Inc. The top 100 companies 
-			on the TSX can be tracked using the S&P/TSX Composite Index
+			The TSX is the third-largest stock exchange in North America by market capitalisation, and the ninth 
+			largest in the world – in March 2018, the market capitalisation of the Toronto Stock Exchange was $2.29 
+			trillion. Some of the most significant companies listed on the Toronto Stock Exchange include the Royal 
+			Bank of Canada and Suncor Energy Inc. The top 100 companies on the TSX can be tracked using the S&P/TSX 
+			Composite Index
 			
     	Deutsche Boerse
-			The market capitalisation of the Frankfurt Stock Exchange was $2.22 trillion in March 2018, which places it as the tenth 
-			largest stock exchange in the world. The companies listed on the Frankfurt Stock Exchange are primarily based in Germany and 
-			other countries that trade using the euro. The primary index used to track the performance of the Frankfurt Stock Exchange is 
-			the DAX – a blue-chip stock market index for the top 30 companies on the FWB, which includes companies such as Adidas, BMW 
-			and E.ON.
+			The market capitalisation of the Frankfurt Stock Exchange was $2.22 trillion in March 2018, which places it 
+			as the tenth largest stock exchange in the world. The companies listed on the Frankfurt Stock Exchange are 
+			primarily based in Germany and other countries that trade using the euro. The primary index used to track 
+			the performance of the Frankfurt Stock Exchange is the DAX – a blue-chip stock market index for the top 30 
+			companies on the FWB, which includes companies such as Adidas, BMW and E.ON.
 			
 			
 NB Market capitalization (market cap) represents the total value of a company's outstanding shares, calculated by multiplying the current market price per share by the total number of outstanding shares. It reflects the market's perception of a company's total equity value.		
@@ -248,15 +260,16 @@ NB Market capitalization (market cap) represents the total value of a company's 
 BMV (Bolsa Mexicano de Valores)
 ###############################
 
-	* The BMV is the second largest stock exchange in Latin America (after São Paulo) and the fifth largest stock exchange in the 
-	Americas
+	* The BMV is the second largest stock exchange in Latin America (after São Paulo) and the fifth largest stock 
+	exchange in the Americas
 	
 	* The BMV has 144 listed companies and a domestic market capitalization	459,708 million US
 						
-	* The IPC (Índice de Precios y Cotizaciones) is the main Mexican stock market performance index, a capitalization weighted index of 
-	the 35 leading companies traded on the BMV.
+	* The IPC (Índice de Precios y Cotizaciones) is the main Mexican stock market performance index, a capitalization 
+	weighted index of the 35 leading companies traded on the BMV.
 
-	* The BMV is now a publicly traded company following its IPO in June 2008, and its shares are traded on the BMV equities market.
+	* The BMV is now a publicly traded company following its IPO in June 2008, and its shares are traded on the BMV 
+	equities market.
 
 
 ##################
@@ -265,8 +278,9 @@ Economic Growth
 ##################
 According to IG, a world-leading online trading provider that gives you access to opportunities across thousands of financial markets,
 
-	* "Stock exchanges can serve as a measure for the health of the national economy, and can also be a key indicator of world economic 
-	strength. This is because the growth of the financial market equates to higher standards of living and employment rates."
+	* "Stock exchanges can serve as a measure for the health of the national economy, and can also be a key indicator 
+	of world economic strength. This is because the growth of the financial market equates to higher standards of 
+	living and employment rates."
 
 
 #################################
@@ -290,21 +304,24 @@ NB. Securities are stocks and options.
 NB. Long positions and short positions refer to the securities an investor owns or securities an investor needs to own. 
 
 Long Position 
-	If an investor has a long position, it means that the investor has bought and owns securities, such as shares of stocks. For 
-	instance, an investor who owns 100 shares of Tesla stock in their portfolio is said to be long 100 shares. This investor has paid for 
-	the shares in full. They will make money if the shares rise in value and they sell them for more than they paid.
+	If an investor has a long position, it means that the investor has bought and owns securities, such as shares of 
+	stocks. For instance, an investor who owns 100 shares of Tesla stock in their portfolio is said to be long 100 
+	shares. This investor has paid for the shares in full. They will make money if the shares rise in value and they 
+	sell them for more than they paid.
 	
-	For options, an investor has a long position when they buy or hold a call or put option. That is, they own the right to buy or sell 
-	the security at a specified price
+	For options, an investor has a long position when they buy or hold a call or put option. That is, they own the 
+	right to buy or sell the security at a specified price
 
 
 Short Position
-	If the investor has a short position, it means that the investor sold shares of a stock [that they don't own!!] (and thus, owes them 
-	to some other investor who buys them), but does not actually own them yet. For instance, an investor who has sold 100 shares of Tesla 
-	without owning them is said to be short 100 shares. When the trade settles, the investor with the short position must fulfill their 
-	transaction obligation by purchasing the shares in the market so that they may deliver them. 
+	If the investor has a short position, it means that the investor sold shares of a stock [that they don't own!!] 
+	(and thus, owes them to some other investor who buys them), but does not actually own them yet. For instance, an 
+	investor who has sold 100 shares of Tesla without owning them is said to be short 100 shares. When the trade 
+	settles, the investor with the short position must fulfill their transaction obligation by purchasing the shares in 
+	the market so that they may deliver them. 
 
-	An investor has a short position when they sell (or write) a call or put option. They are obligated to sell or buy the shares.
+	An investor has a short position when they sell (or write) a call or put option. They are obligated to sell or buy 
+	the shares.
 
 
 
