@@ -54,8 +54,9 @@ Terms
 	microtemores
 	microtremores
 	neuronal
-	octogonales
 	perceptron
+	pilas desplantadas
+	pilas empotradas
 	pilotes
 	planteamiento
 	pluvial
@@ -70,6 +71,8 @@ Terms
 	topográfico
 	topología
 	vectores
+	zapatas convencionales
+	zapatas octogonales
 #####################
 
 
@@ -80,39 +83,32 @@ Today
 
 ---- Open
 
-	"Nothing is lost, nothing is created, everything is transformed."
-			--Antoine Lavoisier in 1774 in reference to chemical rxns
+
 
 ---- Content
 
 
 go thru--
-HW_04.2	[Due: 27 Feb 2025]
-Conservation of Mass, Section 3.1 Four Questions in Richards_BASIC-ENGINEERING-SCIENCE.pdf 
-
-Go thru --
-both docs for vocab (Abstract/Intro/Conclusions)
-	"H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-waste.pdf" 
-	"Paniagua_Deslizamiento_de_Talud.pdf"
+HW_05.2	[Due: 06 Mar 2025]
+Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)
 
 
 
-Coming up----
 
+Semiconductores-Tecnológico-Nacional-México.pdf
+
+
+
+
+
+
+---- Save
 7. Document Translation
 	7.1 Academic Texts and Papers
 	7.2 Manuals and Standard Operating Procedures (SOPs)
 	7.3 Request for Proposals (RFPs) and Proposals
 	7.4 Analytical Evaluations, White Papers, and Lab Reports
 	7.5 Science Reporting Articles
-
-
-
-
-
-
-
-
 
 
 ---- Work Time
