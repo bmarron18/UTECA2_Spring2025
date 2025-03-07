@@ -20,7 +20,6 @@ Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish
 --- Task 2
 Translate "EXCERPTS_P2_EPA_Guidance-for-SOPs.txt" into Spanish
 	
-
 --- Task 3z
 Translate "EXCERPTS_P3_EPA_Guidance-for-SOPs.txt" into Spanish.
 	
@@ -107,12 +106,13 @@ Today
 
 ---- Content
 
+Coming up---
+
 ################################
 Los Alamos National Laboratory
 (LANL) SOPs
 ##################################
 https://engstandards.lanl.gov/ESM_Chapters.shtml
-
 
 
 LANL ENGINEERING STANDARDS MANUAL (ESM), STD-342-100

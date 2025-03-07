@@ -121,6 +121,10 @@ Today
 
 ---- Open
 
+	"Mathematics is the most beautiful and most powerful creation of the human spirit. "
+ 			--- Stefan Banach 
+			(Polish mathematician considered one of the 20th century's most important and influential 
+			mathematicians)
 
 
 ---- Content
@@ -133,7 +137,7 @@ Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)
 
 
 Quickly review 
-Semiconductores-Tecnológico-Nacional-México.pdf
+	Semiconductores-Tecnológico-Nacional-México.pdf
 
 Look at
 	Figura 1
