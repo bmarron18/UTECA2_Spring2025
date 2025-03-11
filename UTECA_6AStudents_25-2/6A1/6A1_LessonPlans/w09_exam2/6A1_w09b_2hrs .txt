@@ -12,11 +12,12 @@ Grupo:			6A
 
 #########################################
 HW_07.1	[Due: 18 Mar 2025]
-Scan the following four Standard Operating Procedure (SOP) documents (1a-1c):
-	i) 1a_Ch3-G10-30GEN-R3.pdf			
-	ii) 1b_Ch3-G20-R3.pdf
-	iii) 1c_Ch4-C-Interiors-R4.pdf
-	iv) 1d_Architectural_Guidelines.pdf
+Scan the following five (5) Standard Operating Procedure (SOP) documents:
+	i) 		1a_Ch3-G10-30GEN-R3.pdf			
+	ii) 	1b_Ch3-G20-R3.pdf
+	iii) 	1e_Ch5-Section-II-R13.pdf
+	iv) 	1f_Ch6-D10-30GEN-R5.pdf
+	v)		1g_Ch7-D5010-R5.pdf
 
 For each SOP, do the following:
 	1. Extract the title and the basic outline headings from the first two tiers of the outline
@@ -26,17 +27,7 @@ The standard format DOES NOT apply.
 For example, the outline headings for first document (1a_Ch3-G10-30GEN-R3.pdf) are,
 ----------------------------------------------------------------------------------------------
 G10-30GEN GENERAL CIVIL REQUIREMENTS	<== Title
-1.0 APPLICATION OF CIVIL CHAPTER			<== Tier 1HW_07.1	[Due: 11 Mar 2025]
-Scan the following four Standard Operating Procedure (SOP) documents (1a-1c):
-	i) 1a_Ch3-G10-30GEN-R3.pdf			
-	ii) 1b_Ch3-G20-R3.pdf
-	iii) 1c_Ch4-C-Interiors-R4.pdf
-	iv) 1d_Architectural_Guidelines.pdf
-
-For each SOP, do the following:
-	1. Extract the title and the basic outline headings from the first two tiers of the outline
-	2. Translate the outline headings into Spanish.
-The standard format DOES NOT apply.
+1.0 APPLICATION OF CIVIL CHAPTER			<== Tier 1
 2.0 ACRONYMS AND DEFINITIONS				<== Tier 1
 3.0 CODES, STANDARDS, AND REGULATIONS		<== Tier 1
 	3.1 General								<== Tier 2
@@ -49,22 +40,14 @@ The standard format DOES NOT apply.
 	4.2 Calculations						<== Tier 2
 ...
 ...
-	5.5 Surveys for Location of HW_07.2  [Due: 11 Mar 2025]
-Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
-
+	5.5 Surveys for Location of 
 		Existing Underground Utilities		<== Tier2
 	5.6 Survey Information Submittal		<== Tier 2
-----------------------------------------HW_07.2  [Due: 11 Mar 2025]
-Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
---------------------------------------
-The standard format DOES NOT apply.
+----------------------------------------
 
 
-HW_07.2  [Due: 18 Mar 2025]
-Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
 
-TERMS
-	HW_07.2  [Due: 11 Mar 2025]
+HW_07.2  [Due: 11 Mar 2025]
 Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
 
 POC				Point of Contact
@@ -72,13 +55,9 @@ Clarify			To make a document understandable and free from confusion.
 Interpret		To formally provide an acceptable method of compliance
 Variance		A deviation from the explicit expectations; an exception.
 
-Equivalency		An alternate method; alteHW_07.2  [Due: 11 Mar 2025]
-Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
-rnatives to how a requirement in a directive is
+Equivalency		An alternate method; alternatives to how a requirement in a directive is
 				fulfilled in cases where the ”how” is specified. These represent an acceptable alternative 
 				approach to achieving the goal of the directive.
-HW_07.2  [Due: 11 Mar 2025]
-Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
 
 BMP				Best management practice
 GIS				Geographic Information System
@@ -93,7 +72,8 @@ Conference Room: 				A room typically equipped with tables and chairs normally u
 								an organization or office area primarily for staff meetings and group activities.
 
 Office Support Space: 			Includes rooms that support the functions of one or more primary
-								offices. Rooms such as shared workstations, waiting areas, file areas, office 										equipment areas, staff break rooms, reading rooms, and conference rooms are included.
+								offices. Rooms such as shared workstations, waiting areas, file areas, office 		
+								equipment areas, staff break rooms, reading rooms, and conference rooms are included.
 
 Open Office Cubicle: 			Open plan office or workstation with either partial height panels or
 								no panels, but with a defined area. An open office may include a door.
@@ -103,25 +83,34 @@ Primary Office Space: 			Includes rooms intended for primary workstation area of
 								between staff whose primary office is in another location.
 								
 Shared Workstation: 			A room in which many employees share a single workspace and
-								work tools, either simultaneously or on a different shift/schedule. Includes 										ternative office strategies such as telework or telecommuting, free address, 								 		hotelling, virtual officing, etc. Also applies to shared or neighborhood areas in team 									environments. This does not include primary office space shared by two or more Lab 									employees.
+								work tools, either simultaneously or on a different shift/schedule. Includes 			
+								ternative office strategies such as telework or telecommuting, free address, 			
+								hotelling, virtual officing, etc. Also applies to shared or neighborhood areas in team 									environments. This does not include primary office space shared by two or more Lab 	
+								employees.
 
+3-wire, 60 Hertz (Hz)
+amps
 benchmark
 bollards
 cast-in-place
 centerline
-cisterns
+circuit breaker
 cisterns
 coagulation chemicals
 cohesiveness
 culverts
 downspouts
 drainpipe
+duct
+ductwork
 dust-free
+electrical circuit
 erosion
 evapotranspiration
 facade
 fenestration
 floodplains
+HVAC system
 geodynamics
 glazing
 gradient
@@ -137,27 +126,34 @@ impervious
 infiltrate
 infrastructure
 intrusions
+kilowatt (kW)
 nominal
+non-potable water
 outlets
 parapeted
+photoelectric detector
 porous
 radioactive
 reforestation
 revegetation
 right-of-way
 riparian buffers
+seismic control
 sewer
 site-specific
 submittals
+surge protection
 surveying
 swales
+transformer
 trellises
 utilities
+voltage
 walkways
 watershed
 
-
 #############################################
+
 
 
 
@@ -175,30 +171,6 @@ Exam
 
 ---- Review  ------------------------
 
-###########################
-Env. Protection Agency
-(EPA) Guidance  for SOPs
-############################
-
---- Overview
-A Standard Operating Procedure (SOP) is a set of written instructions that document a
-routine or repetitive activity followed by an organization. The development and use of SOPs are
-an integral part of a successful quality system as it provides individuals with the information to
-perform a job properly, and facilitates consistency in the quality and integrity of a product or
-end-result.
-
---- Purpose
-SOPs detail the regularly recurring work processes that are to be conducted or followed
-within an organization. They document the way activities are to be performed to facilitate
-consistent conformance to technical and quallity system requirements and to support data quality.
-
---- Benefits
-The development and use of SOPs minimizes variation and promotes quality through
-consistent implementation of a process or procedure within the organization, even if there are
-temporary or permanent personnel changes. SOPs can indicate compliance with organizational 
-and governmental requirements and can be used as a part of a personnel training program, since
-they should provide detailed work instructions. It minimizes opportunities for
-miscommunication and can address safety concerns. 
 
 ################################
 Los Alamos National Laboratory
@@ -207,20 +179,24 @@ Los Alamos National Laboratory
 https://engstandards.lanl.gov/ESM_Chapters.shtml
 
 LANL ENGINEERING STANDARDS MANUAL (ESM), STD-342-100
-
-Briefly review ---
-Ch.3-Civil 	 			1a_Ch3-G10-30GEN-R3.pdf			
-						1b_Ch3-G20-R3.pdf
-Ch.4-Architectural 		1c_Ch4-C-Interiors-R4.pdf
-						1d_Architectural_Guidelines.pdf
-Ch.5-Structural 		1e_Ch5-Section-II-R13.pdf 	
-Ch.6-Mechanical 	 	1f_Ch6-D10-30GEN-R5.pdf	
-Ch.7-Electrical 	 	1g_Ch7-D5010-R5.pdf
+	
+Ch.3-Civil 	 			*1a_Ch3-G10-30GEN-R3.pdf	
+						*1b_Ch3-G20-R3.pdf
+Ch.4-Architectural 		1c_Architectural_Guidelines.pdf
+						*1d_Ch4-C-Interiors-R4.pdf					
+Ch.5-Structural 		*1e_Ch5-Section-II-R13.pdf 	
+Ch.6-Mechanical 	 	*1f_Ch6-D10-30GEN-R5.pdf	
+Ch.7-Electrical 	 	*1g_Ch7-D5010-R5.pdf
 Ch.21-Software			1h_Ch21-SOFT-Testing.pdf
 QA Review				1i_Evaluation_QAReview_Engineering-at-LANL.pdf
 
+* == covereed in HW_07
 
-
+Briefly review---
+	1i_Evaluation_QAReview_Engineering-at-LANL.pdf
+	
+Check translation quality --
+	1c_Architectural_Guidelines.pdf
 
 	
 
@@ -231,7 +207,7 @@ HW_07.2  [Due: 18 Mar 2025]
 Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
 
 HW_07.1	[Due: 18 Mar 2025]
-Scan four Standard Operating Procedure (SOP) documents (1a-1c): For each SOP, do the following:
+Scan five Standard Operating Procedure (SOP) documents (1a-1c): For each SOP, do the following:
 	1. Extract the title and the basic outline headings from the first two tiers of the outline
 	2. Translate the outline headings into Spanish.
 The standard format DOES NOT apply.
