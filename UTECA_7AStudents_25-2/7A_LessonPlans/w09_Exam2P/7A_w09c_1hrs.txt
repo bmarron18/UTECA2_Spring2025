@@ -72,7 +72,7 @@ Today
 ---- Content 
 
 
-Exam
+Finish Exam
 
 
 
@@ -81,8 +81,30 @@ Concept of Amparo
 ################
 from, EXCERPTS_P2_Que-hace-la-SCJN.txt
 
+writ
+a legal document from a law court that tells you that you will be involved in a legal process and explains what you must do
+
 Highlights--
-*
+*	The "writ of support" can be used to challenge laws, regulations, or actions by government officials that are deemed 
+	unconstitutional or that violate individual rights.
+
+*	Mexico is one of many nations that support human rights in this manner
+
+*	Applies to any and all person that find themselves in Mexico including minors, private companies, officials, and 
+	foreigners
+
+*	 6 Jun 2011 Mexico updated and extended its support for human rights to align with international treaties
+		- writ of support available for both Constitutional violation and treaty violations
+		- writ of support available as a class action suit
+		- writ of support available not only in cases of legal interest but also for cases of legitimate interest
+		- writ of support available for plantiffs and defendents
+		- The SCJN has formed a lower court to handle human rights cases
+		- The SCJN has established new sanctions for non-compliance
+		- The SCJN has eliminated the statute of limitations for cases
+		- The SCJN will not close a case until all sentencing has been completed
+		- The SCJN has granted the Executive Branch rapid access to some (urgent) cases
+		- The SCJN has limited the abuse of a suspension clause that would permit the continued infringement or violation 
+		  of rights of the affected person
 
 
 #####################################
@@ -90,7 +112,7 @@ Intro to
 Código Nacional de 
 Procedimientos Civiles y Familiares
 #######################################
-Highlights--
+Some Highlights--
 *
 
 
