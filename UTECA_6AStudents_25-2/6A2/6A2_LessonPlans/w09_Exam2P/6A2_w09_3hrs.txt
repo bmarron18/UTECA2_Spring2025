@@ -126,7 +126,7 @@ Today
 ---- Content
 
 
-Exam
+Exam	<== selected from HW_06.1
 
 
 Finish HW_06.1

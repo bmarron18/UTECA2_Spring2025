@@ -165,7 +165,6 @@ Today
 
 ---- Content 
 
-Exam
 
 
 
@@ -194,7 +193,8 @@ QA Review				1i_Evaluation_QAReview_Engineering-at-LANL.pdf
 
 Briefly review---
 	1i_Evaluation_QAReview_Engineering-at-LANL.pdf
-	
+
+
 Check translation quality --
 	1c_Architectural_Guidelines.pdf
 

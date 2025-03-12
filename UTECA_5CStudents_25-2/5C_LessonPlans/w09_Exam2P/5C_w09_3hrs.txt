@@ -85,21 +85,12 @@ Today
 
 ---- Open
 
-	"Given a 10% chance of a 100 times payoff, you should take that bet every time." 
-			— Jeff Bezos
-
 
 ---- Content
 
 Exam
 
 
-
-
-
-
-
-Next time---
 
 
 ---- REVIEW	-------------------------------------------------
@@ -185,7 +176,7 @@ Economic Growth
 ##################
 According to IG, a world-leading online trading provider that gives you access to opportunities across thousands of financial markets,
 
-	* "Stock exchanges can serve as a measure for the health of the national economy, and can also be a key indicator 
+* 	"Stock exchanges can serve as a measure for the health of the national economy, and can also be a key indicator 
 	of world economic strength. This is because the growth of the financial market equates to higher standards of 
 	living and employment rates."
 
@@ -257,7 +248,7 @@ The SEC and the CNBV
 	market manipulation (SEC and CNBV)
 	
 *	Mission SEC: protecting investors, maintaining fair, orderly, and efficient markets, and facilitating 
-	capital formation. (Formed after 1937 stock market crash)
+	capital formation. (Formed after 1929 stock market crash)
 	
 *	Misión CNBV: supervisar y regular a las entidades integrantes del sistema financiero mexicano, a fin de procurar su
 	estabilidad y correcto funcionamiento, así como mantener y fomentar el sano y equilibrado desarrollo de dicho 	
@@ -360,7 +351,7 @@ por el SHCP and CNBV
 
 ###############
 Financial Evaluation
-(2023) of the CNBV
+of the CNBV (2023)
 ################
 (pp 18-19) 1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
 	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
@@ -409,10 +400,22 @@ A Public Offering
 
 
 
+--- Work time
+HW_07.2	[Due 20 Mar 2025]
+The Secretária de Hacienda y Crédito Público (SHCP) and the CNBV recognize only specific investnment intruments.Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English).
+
+HW_07.1	[Due 20 Mar 2025]
+The legal foundation and explicit functioning of the BMV is given in the federal law, "Ley del Mercado de Valores". Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms below.
 
 
 
-Next time --
+
+
+
+
+
+
+-------Save
 Enforcing laws against market manipulation:
 	The Securities Exchange Commision (SEC)
 	The Comisión Nacional Bancaria y de Valores (CNBV)
@@ -444,69 +447,4 @@ La estructura del fideicomiso público está formada por tres elementos:
 	el Fideicomitente, atribución que corresponde únicamente a la Secretaría de Hacienda y Crédito Público; y 
 	la Fiduciaria, que puede ser cualquier institución o sociedad nacional de crédito.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---- Work time
-
-
-HW_06.1	[Due 13 Mar 2025]
-Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
-
---- Task 1 Read Hall and Lieberman, pp. 854-857. Answer questions in English:
---- Task 2 Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
---- Task 3 Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-
-	Development.txt" and answer the following questions in English:
---- Task 4 Define terms in both English and Spanish. Add any unfamiliar terms to your personal dictionary.
-
-
-HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
-Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
-	Python Syntax
-	Python Comments
-	Python Variables
-	Python Data Types
-	
-HW_05.1	[Due: 04 Mar 2025]	EXTRA CTREDIT!!
-Write How-To Guides in Spanish for 
-	1) Creating a Google Cloud Account and creating a project
-	2) Installation of Spyder on Windows/Mac
-
-HW_04.2 [Due: 27 Feb 2025]
-Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728), very brief summary (English and Spanish) and answer questions:
-
-HW_04.1 [Due: 27 Feb 2025]
-Begin your personal translation dictionary. 
-
-
-
-
-
-
--------Next
 
