@@ -44,14 +44,14 @@ TERMS
 
 
 HW_07.2	[Due 20 Mar 2025]
-The Secretária de Hacienda y Crédito Público (SHCP) and the CNBV recognize only specific investnment intruments.Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English).
+The Secretária de Hacienda y Crédito Público (SHCP) and the CNBV recognize only specific investnment intruments.Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English.
 
 TERMS
 	Acciones
 	Títulos Opcionales (Warrants)
 	Obligaciones
-		Ordinarios (CPO’s)
-		Inmobiliarios (CPI’s)
+		Ordinarios (CPOs)
+		Inmobiliarios (CPIs)
 	Pagarés
 	Certificados de Participación
 		AMORTIZABLES
@@ -152,7 +152,7 @@ Stock Market
 Stock Exchange
 ###########
 	* a collection of individual, perfectly competitive markets for particular corporations’ shares
-	* A stock exchange is a marketplace for the buying and selling of shares, bonds and securities.
+	* A stock exchange is a marketplace for the buying and selling of shares, bonds and securities (stock + options).
 	* Top 10 stock exchanges 
 		
    		New York Stock Exchange		
@@ -174,7 +174,7 @@ NB Market capitalization (market cap) represents the total value of a company's 
 Stock Markets vs.
 Economic Growth
 ##################
-According to IG, a world-leading online trading provider that gives you access to opportunities across thousands of financial markets,
+According to IG, a (supposed) world-leading online trading provider that gives you access to opportunities across thousands of financial markets,
 
 * 	"Stock exchanges can serve as a measure for the health of the national economy, and can also be a key indicator 
 	of world economic strength. This is because the growth of the financial market equates to higher standards of 
@@ -207,15 +207,15 @@ Long Position
 	shares. This investor has paid for the shares in full. They will make money if the shares rise in value and they 
 	sell them for more than they paid.
 	
-	For options, an investor has a long position when they buy or hold a call or put option. That is, they own the 
+	For options, an investor has a long position when they buy or hold a "call" or "put" option. That is, they own the 
 	right to buy or sell the security at a specified price
 
 
 Short Position
 	If the investor has a short position, it means that the investor sold shares of a stock [that they don't own!!] 
-	(and thus, owes them to some other investor who buys them), but does not actually own them yet. For instance, an 
+	and thus, owes them to some other investor who buys them. For instance, an 
 	investor who has sold 100 shares of Tesla without owning them is said to be short 100 shares. When the trade 
-	settles, the investor with the short position must fulfill their transaction obligation by purchasing the shares in 
+	settles, the investor with the short position must fulfill the transaction obligation by purchasing the shares in 
 	the market so that they may deliver them. 
 
 	An investor has a short position when they sell (or write) a call or put option. They are obligated to sell or buy 
@@ -240,12 +240,15 @@ BMV (Bolsa Mexicano de Valores)
 
 ---- 	NEW -------------------
 ######################
-Market Manipulation:
-The SEC and the CNBV
+Controlling Market Manipulation:
+Securities Exchange Commission (SEC)
+Comisión Nacional Bancaria y de Valores (CNBV)
 ######################
 
-* 	Iindependent gov't agencies of the United States federal government to enforce laws against 
-	market manipulation (SEC and CNBV)
+* 	Independent gov't agencies of the federal government to enforce laws against 
+	market manipulation
+		- in US, the SEC
+		- in Mexico, the CNBV
 	
 *	Mission SEC: protecting investors, maintaining fair, orderly, and efficient markets, and facilitating 
 	capital formation. (Formed after 1929 stock market crash)
@@ -257,6 +260,7 @@ The SEC and the CNBV
 
 ###########################
 CNBV Legal Standing:
+in Federal Law
 Ley del Mercado de Valores (1a)
 ########################
 https://mexico.justia.com/federales/leyes/
@@ -266,7 +270,7 @@ Título I Disposiciones preliminares
 	Articulo 1
 	Articulo 2
 		Definitions					
-			Comisión
+			Comisión	<== CNBV
 			Consorcio
 			Control
 			Directivos relevantes
@@ -318,8 +322,8 @@ por el SHCP and CNBV
 	Títulos Opcionales (Warrants)
 	
 	Obligaciones
-		Ordinarios (CPO’s)
-		Inmobiliarios (CPI’s)
+		Ordinarios (Certificados de Participación Ordinarios [CPOs])
+		Inmobiliarios (Certificados de Participación Inmobiliaria[CPIs])
 	
 	Pagarés
 	
@@ -327,10 +331,9 @@ por el SHCP and CNBV
 		AMORTIZABLES
 		NO AMORTIZABLES
 	
-	Certificados Bursátiles
+	Certificados Bursátiles (Fiduciarios)
 		Certificados Bursátiles Fiduciarios de Capital de Desarrollo
 			Certificados Bursátiles Fiduciarios Preferentes
-			
 		Certificados Bursátiles Fiduciarios de Proyectos de Inversión
 		Certificados Bursátiles Fiduciarios Inmobiliarios (Fibras)
 		Certificados Bursátiles Fiduciarios de Inversión en Energía e Infraestructura (Fibra E)
@@ -351,21 +354,53 @@ por el SHCP and CNBV
 
 ###############
 Financial Evaluation
-of the CNBV (2023)
+by the CNBV (2024)
 ################
-(pp 18-19) 1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
-	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
+1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
 
-(p 24) 1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf		<== next HW
+(p.2)
+La Comisión Nacional Bancaria y de Valores (CNBV),
+a través de la Dirección General de Estudios
+Económicos (DGEE), presenta la actualización del
+reporte de Ahorro Financiero y Financiamiento en
+México. Este trabajo forma parte de las acciones
+que la CNBV realiza para incrementar el acervo de
+información sobre el sistema financiero de México,
+lo cual permite analizar y medir sus avances y
+desempeño.
+
+En este documento se presentan estadísticas de
+Ahorro Financiero y Financiamiento en México,
+con cifras a junio de 2024. Dichas estadísticas se
+concentran en una base de datos que cuenta con
+información histórica trimestral de los diferentes
+canales de intermediación del sistema financiero,
+desde septiembre de 2000.
+
+
+
+(pp 18-19) 
+	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
+	
+Certificados Bursátiles Fiduciarios (CBF) [Trust Asset Stock]
+Títulos de crédito emitidos por un fideicomiso (el Fideicomiso Emisor, or Trust), que representan la participación en un crédito colectivo y otorgan a sus tenedores derechos sobre los activos fideicomitidos, como bienes inmuebles o proyectos de inversión
+
+Los CBF están regulados por la Ley del Mercado de Valores, con el objetivo de garantizar la transparencia y la protección de los inversionistas
+
+Many types of CBFs..see * below
+
+
+(p 24) 
 CBF				Certificados bursátiles fiduciarios
-CERPIS			Certificados de proyectos de inversión
-CKD				Certificados de capital de desarrollo
+*CBFI 			Certificados Bursátiles Fiduciarios Inmobiliarios o Fibras
+*CERPIS			Certificados de proyectos de inversión
+*CKD			Certificados de capital de desarrollo
 CNBV			Comisión Nacional Bancaria y de Valores
 CONDUSEF		Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros
 
-FARAC			Fideicomiso de Apoyo al Rescate de Autopistas Concesionadas
-FIBRA E			Fideicomisos de inversión en energía e infraestructura
-FIBRA			Fideicomisos de infraestructura y bienes raíces
+*FARAC			Fideicomiso de Apoyo al Rescate de Autopistas Concesionadas
+*FIBRA E		Fideicomisos de inversión en energía e infraestructura
+*FIBRA			Fideicomisos de infraestructura y bienes raíces
 FND				Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero
 FOVISSSTE		Fondo de la Vivienda del ISSSTE
 

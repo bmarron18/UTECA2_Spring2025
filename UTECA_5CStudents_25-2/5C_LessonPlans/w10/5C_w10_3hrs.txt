@@ -11,8 +11,10 @@ Grupo:			5C
 
 
 
-##############################################
+######################################
 HW_08.1	[Due 27 Mar 2025]
+
+
 
 ######################################
 
@@ -31,15 +33,18 @@ Today
 
 ---- REVIEW	-------------------------------------------------
 ######################
-Market Manipulation:
-The SEC and the CNBV
+Controlling Market Manipulation:
+Securities Exchange Commission (SEC)
+Comisión Nacional Bancaria y de Valores (CNBV)
 ######################
 
-* 	Iindependent gov't agencies of the United States federal government to enforce laws against 
-	market manipulation (SEC and CNBV)
+* 	Independent gov't agencies of the federal government to enforce laws against 
+	market manipulation
+		- in US, the SEC
+		- in Mexico, the CNBV
 	
 *	Mission SEC: protecting investors, maintaining fair, orderly, and efficient markets, and facilitating 
-	capital formation. (Formed after 1937 stock market crash)
+	capital formation. (Formed after 1929 stock market crash)
 	
 *	Misión CNBV: supervisar y regular a las entidades integrantes del sistema financiero mexicano, a fin de procurar su
 	estabilidad y correcto funcionamiento, así como mantener y fomentar el sano y equilibrado desarrollo de dicho 	
@@ -48,6 +53,7 @@ The SEC and the CNBV
 
 ###########################
 CNBV Legal Standing:
+in Federal Law
 Ley del Mercado de Valores (1a)
 ########################
 https://mexico.justia.com/federales/leyes/
@@ -57,7 +63,7 @@ Título I Disposiciones preliminares
 	Articulo 1
 	Articulo 2
 		Definitions					
-			Comisión
+			Comisión	<== CNBV
 			Consorcio
 			Control
 			Directivos relevantes
@@ -109,8 +115,8 @@ por el SHCP and CNBV
 	Títulos Opcionales (Warrants)
 	
 	Obligaciones
-		Ordinarios (CPO’s)
-		Inmobiliarios (CPI’s)
+		Ordinarios (Certificados de Participación Ordinarios [CPOs])
+		Inmobiliarios (Certificados de Participación Inmobiliaria[CPIs])
 	
 	Pagarés
 	
@@ -118,10 +124,9 @@ por el SHCP and CNBV
 		AMORTIZABLES
 		NO AMORTIZABLES
 	
-	Certificados Bursátiles
+	Certificados Bursátiles (Fiduciarios)
 		Certificados Bursátiles Fiduciarios de Capital de Desarrollo
 			Certificados Bursátiles Fiduciarios Preferentes
-			
 		Certificados Bursátiles Fiduciarios de Proyectos de Inversión
 		Certificados Bursátiles Fiduciarios Inmobiliarios (Fibras)
 		Certificados Bursátiles Fiduciarios de Inversión en Energía e Infraestructura (Fibra E)
@@ -142,21 +147,53 @@ por el SHCP and CNBV
 
 ###############
 Financial Evaluation
-(2023) of the CNBV
+by the CNBV (2024)
 ################
-(pp 18-19) 1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
-	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
+1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
 
-(p 24) 1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf		<== next HW
+(p.2)
+La Comisión Nacional Bancaria y de Valores (CNBV),
+a través de la Dirección General de Estudios
+Económicos (DGEE), presenta la actualización del
+reporte de Ahorro Financiero y Financiamiento en
+México. Este trabajo forma parte de las acciones
+que la CNBV realiza para incrementar el acervo de
+información sobre el sistema financiero de México,
+lo cual permite analizar y medir sus avances y
+desempeño.
+
+En este documento se presentan estadísticas de
+Ahorro Financiero y Financiamiento en México,
+con cifras a junio de 2024. Dichas estadísticas se
+concentran en una base de datos que cuenta con
+información histórica trimestral de los diferentes
+canales de intermediación del sistema financiero,
+desde septiembre de 2000.
+
+
+
+(pp 18-19) 
+	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
+	
+Certificados Bursátiles Fiduciarios (CBF) [Trust Asset Stock]
+Títulos de crédito emitidos por un fideicomiso (el Fideicomiso Emisor, or Trust), que representan la participación en un crédito colectivo y otorgan a sus tenedores derechos sobre los activos fideicomitidos, como bienes inmuebles o proyectos de inversión
+
+Los CBF están regulados por la Ley del Mercado de Valores, con el objetivo de garantizar la transparencia y la protección de los inversionistas
+
+Many types of CBFs..see * below
+
+
+(p 24) 
 CBF				Certificados bursátiles fiduciarios
-CERPIS			Certificados de proyectos de inversión
-CKD				Certificados de capital de desarrollo
+*CBFI 			Certificados Bursátiles Fiduciarios Inmobiliarios o Fibras
+*CERPIS			Certificados de proyectos de inversión
+*CKD			Certificados de capital de desarrollo
 CNBV			Comisión Nacional Bancaria y de Valores
 CONDUSEF		Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros
 
-FARAC			Fideicomiso de Apoyo al Rescate de Autopistas Concesionadas
-FIBRA E			Fideicomisos de inversión en energía e infraestructura
-FIBRA			Fideicomisos de infraestructura y bienes raíces
+*FARAC			Fideicomiso de Apoyo al Rescate de Autopistas Concesionadas
+*FIBRA E		Fideicomisos de inversión en energía e infraestructura
+*FIBRA			Fideicomisos de infraestructura y bienes raíces
 FND				Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero
 FOVISSSTE		Fondo de la Vivienda del ISSSTE
 

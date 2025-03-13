@@ -191,12 +191,14 @@ QA Review				1i_Evaluation_QAReview_Engineering-at-LANL.pdf
 
 * == covereed in HW_07
 
+
+
 Briefly review---
 	1i_Evaluation_QAReview_Engineering-at-LANL.pdf
-
-
-Check translation quality --
 	1c_Architectural_Guidelines.pdf
+
+Review ---
+	1h_Ch21-SOFT-Testing.pdf
 
 	
 
