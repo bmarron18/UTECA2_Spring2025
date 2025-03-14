@@ -151,7 +151,7 @@ NB
 Stock Market
 Stock Exchange
 ###########
-	* a collection of individual, perfectly competitive markets for particular corporations’ shares
+	* a collection of individual, "perfectly competitive markets" for particular corporations’ shares
 	* A stock exchange is a marketplace for the buying and selling of shares, bonds and securities (stock + options).
 	* Top 10 stock exchanges 
 		

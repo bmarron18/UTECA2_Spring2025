@@ -57,8 +57,8 @@ Artusi [Artusi_Designing-New-Languages-for-Old-Products.pdf]
 		==> the construction of a system of signs at the product level that can be 
 			interpreted by people (Fig 1 p. 3)
 		==> the shape of product language such that people are likely to interpret a desired meaning
-		==> a system that defines how the product speaks and how it conveys utilitarian, aesthetic and 
-			symbolic meaning
+		==> a system that defines how the product speaks and how it conveys utilitarian, aesthetic 
+		and symbolic meaning
 		
 	Design tools
 		==> Forms, colors, shapes, words, images

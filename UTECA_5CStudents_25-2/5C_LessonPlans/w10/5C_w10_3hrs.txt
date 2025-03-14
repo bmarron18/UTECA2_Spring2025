@@ -38,72 +38,12 @@ Securities Exchange Commission (SEC)
 Comisión Nacional Bancaria y de Valores (CNBV)
 ######################
 
-* 	Independent gov't agencies of the federal government to enforce laws against 
-	market manipulation
-		- in US, the SEC
-		- in Mexico, the CNBV
-	
-*	Mission SEC: protecting investors, maintaining fair, orderly, and efficient markets, and facilitating 
-	capital formation. (Formed after 1929 stock market crash)
-	
-*	Misión CNBV: supervisar y regular a las entidades integrantes del sistema financiero mexicano, a fin de procurar su
-	estabilidad y correcto funcionamiento, así como mantener y fomentar el sano y equilibrado desarrollo de dicho 	
-	sistema en su conjunto, en protección de los intereses del público.
-	
 
 ###########################
 CNBV Legal Standing:
 in Federal Law
 Ley del Mercado de Valores (1a)
 ########################
-https://mexico.justia.com/federales/leyes/
-https://mexico.justia.com/federales/leyes/ley-del-mercado-de-valores/
-
-Título I Disposiciones preliminares
-	Articulo 1
-	Articulo 2
-		Definitions					
-			Comisión	<== CNBV
-			Consorcio
-			Control
-			Directivos relevantes
-			Emisora
-			Emisora simplificada
-			Entidades financieras
-			Eventos relevantes
-			Filial
-			Grupo de personas
-			Grupo empresarial
-			Influencia significativa
-			Información relevante
-			Inscripción simplificada
-			Institución financiera del exterior
-			Instrumentos financieros derivados
-			Intermediación con valores
-			Inversionista calificado
-			Inversionista institucional
-			Oferta pública
-			Personas relacionadas
-			Poder de mando
-			Registro
-			Sociedad controladora filial
-			Valores
-		Articulo 3
-	
-Título II De las sociedades anónimas del mercado de valores
-	Capítulo I De las sociedades anónimas promotoras de inversión
-		Sección I De la administración y vigilancia
-		Sección II De las asambleas de accionistas y convenios entre socios
-		Sección III De las sociedades anónimas promotoras de inversión bursátil
-
-Título III De los certificados bursátiles, títulos opcionales y otras disposiciones
-		Capítulo I De los certificados bursátiles
-			Artículo 61
-			Articulo 62 
-			Articulo 63
-			Articulo 63 Bis
-			Articulo 63 Bis 1
-			Artículo 64
 
 ########################
 Instrumentos Reconocidos 
@@ -111,19 +51,10 @@ por el SHCP and CNBV
 ####################
 (pp 1-3) 1b_Instrumentos-SHCP-BVM.pdf
 	Acciones
-
 	Títulos Opcionales (Warrants)
-	
 	Obligaciones
-		Ordinarios (Certificados de Participación Ordinarios [CPOs])
-		Inmobiliarios (Certificados de Participación Inmobiliaria[CPIs])
-	
 	Pagarés
-	
 	Certificados de Participación
-		AMORTIZABLES
-		NO AMORTIZABLES
-	
 	Certificados Bursátiles (Fiduciarios)
 		Certificados Bursátiles Fiduciarios de Capital de Desarrollo
 			Certificados Bursátiles Fiduciarios Preferentes
@@ -132,13 +63,7 @@ por el SHCP and CNBV
 		Certificados Bursátiles Fiduciarios de Inversión en Energía e Infraestructura (Fibra E)
 	
 	Valores Estructurados
-	
 	Principales Instrumentos Gubernamentales
-		Certificados de Tesorería (Cetes)
-		Bonos de Desarrollo del Gobierno Federal (Bonos M, Udibonos o Bondes)
-			Unidades de Inversión (UDI’s)
-		Bonos de Protección al Ahorro Bancario (BPS’s)
-	
 	Instrumentos Bancarios
 		Pagarés con Rendimiento Liquidable al Vencimiento
 		Certificados de Depósito Bancario
@@ -151,64 +76,32 @@ by the CNBV (2024)
 ################
 1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
 
-(p.2)
-La Comisión Nacional Bancaria y de Valores (CNBV),
-a través de la Dirección General de Estudios
-Económicos (DGEE), presenta la actualización del
-reporte de Ahorro Financiero y Financiamiento en
-México. Este trabajo forma parte de las acciones
-que la CNBV realiza para incrementar el acervo de
-información sobre el sistema financiero de México,
-lo cual permite analizar y medir sus avances y
-desempeño.
-
-En este documento se presentan estadísticas de
-Ahorro Financiero y Financiamiento en México,
-con cifras a junio de 2024. Dichas estadísticas se
-concentran en una base de datos que cuenta con
-información histórica trimestral de los diferentes
-canales de intermediación del sistema financiero,
-desde septiembre de 2000.
-
-
 
 (pp 18-19) 
 	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
-	
-Certificados Bursátiles Fiduciarios (CBF) [Trust Asset Stock]
+	Look at % PIB (Producto Interno Bruto!!
+
+
+---------	NEW	--------------------
+########################################
+Certificados Bursátiles Fiduciarios (CBF) 
+[Trust Asset Stock]
+#########################################
 Títulos de crédito emitidos por un fideicomiso (el Fideicomiso Emisor, or Trust), que representan la participación en un crédito colectivo y otorgan a sus tenedores derechos sobre los activos fideicomitidos, como bienes inmuebles o proyectos de inversión
+
+Private and Public CGFs
 
 Los CBF están regulados por la Ley del Mercado de Valores, con el objetivo de garantizar la transparencia y la protección de los inversionistas
 
-Many types of CBFs..see * below
 
-
-(p 24) 
+Many types of CBFs....
 CBF				Certificados bursátiles fiduciarios
 *CBFI 			Certificados Bursátiles Fiduciarios Inmobiliarios o Fibras
 *CERPIS			Certificados de proyectos de inversión
 *CKD			Certificados de capital de desarrollo
-CNBV			Comisión Nacional Bancaria y de Valores
-CONDUSEF		Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros
-
 *FARAC			Fideicomiso de Apoyo al Rescate de Autopistas Concesionadas
 *FIBRA E		Fideicomisos de inversión en energía e infraestructura
 *FIBRA			Fideicomisos de infraestructura y bienes raíces
-FND				Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero
-FOVISSSTE		Fondo de la Vivienda del ISSSTE
-
-INFONACOT		Instituto del Fondo Nacional para el Consumo de los Trabajadores
-INFONAVIT		Instituto del Fondo Nacional de la Vivienda para los Trabajadores
-IPAB			Instituto para la Protección al Ahorro Bancario
-
-PIB				Producto Interno Bruto
-
-SOCAP			Sociedades cooperativas de ahorro y préstamo
-SIEFORE			Sociedades de inversión especializadas en fondos para el retiro
-SOFIPO			Sociedades financieras populares
-SOFOL			Sociedades financieras de objeto limitado
-SOFOMES ENR		Sociedades financieras de objeto múltiple, entidades no reguladas
-SOFOMES ER		Sociedades financieras de objeto múltiple, entidades reguladas
 
 
 #################
@@ -225,7 +118,7 @@ A Public Offering
 
 1e_oferta.pdf
 
----------	NEW	--------------------
+
 
 
 

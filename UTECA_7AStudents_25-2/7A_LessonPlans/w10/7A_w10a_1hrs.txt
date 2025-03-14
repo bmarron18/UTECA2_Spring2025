@@ -8,55 +8,11 @@ Licenciatura: 	Interpretación y Traducción
 Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
 Grupo:			7A
 
+
+
 ######################
-HW_07.1	[Due: 18 Mar 2025]
-Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+HW_08.1	[Due: 25 Mar 2025]
 
-
-HW_07.2 [Due: 18 Mar 2025]
-Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
-both English and Spanish.
-
-TERMS
-	acto reclamado
-	abrogación
-	acusatorio
-	amparo adhesivo
-	desahogadas
-	“alegato de oidas” o “alegato de oreja”
-	apelación
-	aportaciones
-	aquilatar
-	atendibles
-	cabal
-	congruentes
-	contrafianza
-	declaratorias
-	decreto
-	disposiciones
-	doctrina
-	Entidades Federativas
-	"interés legítimo"
-	"interés jurídico"
-	intervenciones orales
-	juicio de amparo
-	laudos
-	litigación
-	mandato
-	normativas
-	“oralidad procesal”
-	preclusión
-	progresiva implantación
-	procesales civiles
-	queja
-	reposición
-	rezagadas
-	sentencias
-	supletoridad
-	supletorio
-	tratados internacionales 
-	tribunales
-	valoración
 
 ########################
 
@@ -70,11 +26,6 @@ Today
 
 
 ---- Content 
-
-
-Finish Exam
-
-
 
 ##############
 Concept of Amparo
@@ -117,18 +68,54 @@ Some Highlights--
 *
 
 
+###############
+Jurispreduncias
+################
+Prueba documental (folder)
+	TOL2141001.pdf
+	
+Jurisprudencia
+Título: PRUEBA DOCUMENTAL EN EL JUICIO DE AMPARO. EN TÉRMINOS DEL
+ARTÍCULO 121 DE LA LEY DE AMPARO, EL SERVIDOR PÚBLICO QUE POSEA ALGÚN
+DOCUMENTO OFRECIDO Y ADMITIDO COMO TAL NO PUEDE REHUSARSE A UN
+REQUERIMIENTO JUDICIAL, SOBRE LA BASE DE QUE DEBE ESTARSE A LO RESUELTO
+EN UN PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN.
+Marginal: P./J. 13/2018 (10a.)
+Tipo sentencia: Jurisprudencia
+Época: Décima Época
+Instancia: Pleno - Suprema Corte de Justicia de la Nación
+Boletín: Gaceta del Semanario Judicial de la Federación
+Localización: Libro 55, Junio de 2018, Tomo I, página 12
+IUS: 2017129
 
 
 
---- Save
+https://sjf2.scjn.gob.mx/detalle/ejecutoria/28158
+Registro digital: 28158
+Asunto: CONTRADICCIÓN DE TESIS 10/2017.
+Décima Época
+Fuente: Gaceta del Semanario Judicial de la Federación.
+Libro 59, Octubre de 2018, Tomo I, página 168
+Instancia: Pleno
+PRUEBA DOCUMENTAL EN EL JUICIO DE AMPARO. EN TÉRMINOS DEL ARTÍCULO 121 DE LA LEY DE AMPARO, EL SERVIDOR PÚBLICO QUE POSEA ALGÚN DOCUMENTO OFRECIDO Y ADMITIDO COMO TAL NO PUEDE REHUSARSE A UN REQUERIMIENTO JUDICIAL, SOBRE LA BASE DE QUE DEBE ESTARSE A LO RESUELTO EN UN PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN.
+
+
+##########
 Contratos
-	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
-
+############
 Código Civil Federal
 › Libro Cuarto - De las Obligaciones
 › Primera Parte - De las Obligaciones en General
 › Título Primero - Fuentes de las Obligaciones
 › Capítulo I - Contratos
+
+
+Text--
+	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
+
+
+Anaconda Terms of Service
+
 
 
 
@@ -161,3 +148,8 @@ Write How-To Guides in Spanish for
 	1) Installation of Notepad++ on Windows
 	2) Setting up a GitHub account, obtaining a security token, and creating a repository
 	3) Installation of Git on Windows/Mac
+	
+
+--- Save
+
+
