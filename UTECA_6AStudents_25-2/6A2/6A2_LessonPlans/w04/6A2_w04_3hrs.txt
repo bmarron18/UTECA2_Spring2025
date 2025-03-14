@@ -36,9 +36,7 @@ Notes on HW
 	
 	Watch voice
 		In general, use 3rd person Point of View (POV) AND active voice in academic writing
-				
-		14. UseROJAS VARGAS KASSANDRA 	Kassandra								Kassandra			Kassandra			10		Kassandra		9.1				Kassandra		10.5	7.0	9.0		Kassandra
- the active voice. (Strunk and White p 23)
+		the active voice. (Strunk and White p 23)
 		1. Place yourself in the background. (Strunk and White p. 64)
 		17. Do not inject opinion.(Strunk and White p. 71)
 		
@@ -51,12 +49,6 @@ Notes on HW
 	
 
 
-The Study Guide
-ROJAS VARGAS KASSANDRA 	Kassandra								Kassandra			Kassandra			10		Kassandra		9.1				Kassandra		10.5	7.0	9.0		Kassandra
-
-
-
-Share OutROJAS VARGAS KASSANDRA 	Kassandra								Kassandra			Kassandra			10		Kassandra		9.1				Kassandra		10.5	7.0	9.0		Kassandra
 
 HW_03.1		[Due: 6 Feb 2025]
 Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
@@ -66,8 +58,7 @@ Write extended and complete definitions (in both English and Spanish) for the fo
 	Intensive property
 		(temperature, pressure, velocity, density)
 		
-	Extensive pROJAS VARGAS KASSANDRA 	Kassandra								Kassandra			Kassandra			10		Kassandra		9.1				Kassandra		10.5	7.0	9.0		Kassandra
-roperty
+	Extensive property
 		(mass, charge, linear momentum, angular momentum, energy, and entropy)
 
 	Conservation laws

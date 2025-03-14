@@ -120,22 +120,81 @@ A Public Offering
 
 
 
+----Coming up
+
+SERIES  Asociación Española de Economía
+SERIEs - Journal of the Spanish Economic Association publishes high-quality scientific articles in all areas of economics. Both theoretical and empirical papers are welcome.
+https://link.springer.com/search?query=&search-within=Journal&package=openaccessarticles&facet-journal-id=13209
+
+
+Oxford Open Economics is a fully open access journal publishing research covering all areas of economics, including theoretical, empirical, applied and policy-oriented work, and extending from macroeconomics through microeconomics and all relevant fields
+https://academic.oup.com/ooec
+https://academic.oup.com/ooec/pages/general-instructions
+
+
 
 
 
 --- Work time
 
+####
+3P
+####
 
 HW_07.2	[Due 20 Mar 2025]
-The Secretária de Hacienda y Crédito Público (SHCP) and the CNBV recognize only specific investnment intruments.Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English).
+	Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English (25)
 
 HW_07.1	[Due 20 Mar 2025]
-The legal foundation and explicit functioning of the BMV is given in the federal law, "Ley del Mercado de Valores". Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms below.
+	Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms 
+	(25)
+
+
+####
+2P
+####
+HW_06.1	[Due 13 Mar 2025]
+	*Read Hall and Lieberman, pp. 854-857. Answer questions in English:
+	*Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
+	*Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-
+		Development.txt" and answer questions
+	*Define terms in both English and Spanish (56)
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+	Complete the Python script, "HW_05.2.py" 
+	
+HW_05.1	[Due: 04 Mar 2025]	EXTRA CTREDIT!!
+	Write How-To Guides in Spanish for 
+		1) Creating a Google Cloud Account and creating a project
+		2) Installation of Spyder on Windows/Mac
+	
+HW_04.2 [Due: 27 Feb 2025]
+	Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728), very brief summary (English and Spanish) and 
+	answer questions
+
+HW_04.1 [Due: 27 Feb 2025]
+	Begin your personal translation dictionary. 
+
+
+####
+1P
+####
+HW_03.1  [Due: 6 Feb 2025] 
+	Ley del Banco de México	
+
+HW_02.2  [Due: 30 Jan 2025] 
+	Critique the axioms/theorems/corollaries of standard econ
+
+HW_02.1  [Due: 30 Jan 2025] 
+	Summary Nelson's, "Chapter 1: An Overview of Economics"
+
+HW_01.1  [Due: 23 Jan 2025] 
+	Fields of econ and investing
+	
 
 
 
 
 
 
-------- Save
+
 
