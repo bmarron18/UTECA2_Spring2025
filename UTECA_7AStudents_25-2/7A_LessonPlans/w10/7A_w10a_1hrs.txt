@@ -27,36 +27,46 @@ Today
 
 ---- Content 
 
+
+---- Review
+
+
+
+----NEW
+
 ##############
 Concept of Amparo
 ################
 from, EXCERPTS_P2_Que-hace-la-SCJN.txt
 
 writ
-a legal document from a law court that tells you that you will be involved in a legal process and explains what you must do
+a legal document from a law court that tells you that you will be involved in 
+a legal process and explains what you must do
 
 Highlights--
-*	The "writ of support" can be used to challenge laws, regulations, or actions by government officials that are deemed unconstitutional or that violate individual rights.
+*	The "writ of support" can be used to challenge laws, regulations, or actions by government officials that are deemed 
+	unconstitutional or that violate individual rights.
 
 *	Mexico is one of many nations that support human rights in this manner
 
-*	Applies to any and all person that find themselves in Mexico including minors, private companies, officials, and foreigners
+*	Applies to any and all person that find themselves in Mexico including minors, private companies, officials, and 
+	foreigners
 
 *	 6 Jun 2011 Mexico updated and extended its support for human rights to align with international 
 	treaties
-		- writ of support available for both Constitutional violation and treaty violations
-		- writ of support available as a class action suit
-		- writ of support available not only in cases of legal interest but also for cases of 
-		legitimate interest
-		- writ of support available for plantiffs and defendents
-		- The SCJN has formed a lower court to handle human rights cases
-		- The SCJN has established new sanctions for non-compliance
-		- The SCJN has eliminated the statute of limitations for cases
-		- The SCJN will not close a case until all sentencing has been completed
-		- The SCJN has granted the Executive Branch rapid access to some (urgent) cases
-		- The SCJN has limited the abuse of a suspension clause that would permit the continued 
-		infringement or violation 
-		  of rights of the affected person
+		- support available for both Constitutional violation and treaty violations
+		- support available as a class action suit
+		- support available not only in cases of legal interest but also for cases of legitimate interest
+		- support available for plantiffs and defendents
+		
+		- The SCJN has 
+			+formed a lower court to handle human rights cases
+			+established new sanctions for non-compliance
+			+eliminated the statute of limitations for cases
+			+will not close a case until all sentencing has been completed
+			+granted the Executive Branch rapid access to some (urgent) cases
+			+limited the abuse of a suspension clause that would permit the continued infringement or violation 
+			of rights of the affected person
 
 
 #####################################
@@ -65,41 +75,124 @@ Código Nacional de
 Procedimientos Civiles y Familiares
 #######################################
 Some Highlights--
-*
+---- Constitutional Changes
+*	Article 16 Constitutional amendment... not everything has to be recorded in writing, but that the parties and the 
+	judge can make oral statements that are recorded through audio and video. 
+	
+*	Article 17 ..."Whenever equality between the parties, due process or other rights are not affected in trials or 
+	proceedings carried out in the form of a trial, the authorities must prioritize the resolution of the conflict over 
+	procedural formalities."
+	
+*	Article 73 ...added section "XXX. To issue unique legislation on civil and family procedural matters." This provision 
+	allows for the unification of procedural regulations in civil and family matters (i.e., Código Nacional de  
+	Procedimientos Civiles y Familiares)
 
+---- Advantages of Legislative Unification
+*	Procedural unification will help standardize legal practice throughout the country ans serve as a benchmark for 
+	lawyers. jurists, and legal scholars. This happened with the 2014 enactment of the National Code of Criminal 
+	Procedures ... bottom line: uniformity of interpretation throughout the country
+
+--- Historical Antecedents
+meh
+
+--- Quantitative Importance of Civil and Family Cases in Mexico
+*	Although the media highlights the impact of criminal law, the judiciary is mostly occupied with family and civil law 
+	cases....76.2% of the total sentences issued by the courts 
+
+*	1.5 million new cases enter civil and family courts per year
+	(about 3 million people pass through civil and family courts per year
+
+---- Important Elements in the National Code of Civil and Family Procedures
+*	Article 7 ... guiding principles
+	a) access to justice; 
+	b) concentration;
+	c) collaboration; 
+	d) continuity;
+	e) contradiction; 
+	f) procedural direction; 
+	g) procedural equality; 
+	h) immediacy;
+	i) best interests of the child; 
+	j) procedural impetus
+	1) open litigation; m) orality; n) gender perspective;
+	o) preclusion; 
+	p) privacy; and 
+	q) publicity
+	
+*	Article 11 ... classifification of actions in civil and family matters
+	a) real actions;
+	b) personal actions; and 
+	c) actions of the civil status of persons.
+
+*	Article 63 ... procedural exceptions
+
+*	Article 77 ... defines jurisdictional competence
+
+*	Article 104 ... lists 16 cases in which the jurisdictional authorities will be prevented from continuing to hear
+	a case (clarifies "subjective jurisdiction")
+	
+*	Article 343 ... validation of evidence
+
+*	Articles 432, 661 ... legal standing of notaries in some matters
+
+*	Article 445 ... support for individuals with disabilities
+
+*	Article 855 ... revamps class action suites (now 15 people)
+
+*	Article 861 ... extends the statute of limitations (no 5 yrs)
+
+*	Article 905 ... three appeal measures (appeal, reconsideration, and complaint)
+
+* 	Article 933 ... allows for "digital justice"
+
+---- Once only Federal, now National
+*	Many procedural elements in other laws must be supplemented because what was one federal now applies nationally
+
+*	Especially true when no clear codes exist in other laws, the procedures in Código Nacional de 
+	Procedimientos Civiles y Familiares will fill in
+
+*	Registro digital: 2003161
+	SUPLETORIEDAD DE LAS LEYES. REQUISITOS PARA QUE OPERE.
 
 ###############
+Teses Aislados
+vs
 Jurispreduncias
 ################
-Prueba documental (folder)
-	TOL2141001.pdf
-	
+https://diccionariojuridico.org/indice-materia/
+tesis aislada vs jurisprudencia
+
+PRUEBA PERICIAL (por Carbinell; teses aislados)
+	Registro 2004757
+	Registro 1931185
+	Registro 160371
+	Registro 2010576
+	Registro 2011752
+	Registro 215624
+
+
+
+
+La tesis aislada es un criterio de interpretación que orienta a los jueces, mientras que la jurisprudencia es la doctrina que establece la Suprema Corte de Justicia de la Nación (SCJN). La jurisprudencia es obligatoria, mientras que la tesis aislada no lo es. 
+
+Tesis aislada 
+    Es un criterio de interpretación que orienta el trabajo de los jueces.
+    No es obligatoria.
+    Puede ser utilizada para orientarse en un caso.
+    Puede ser modificada por una jurisprudencia si el Pleno sustenta una tesis contraria. 
+
 Jurisprudencia
-Título: PRUEBA DOCUMENTAL EN EL JUICIO DE AMPARO. EN TÉRMINOS DEL
-ARTÍCULO 121 DE LA LEY DE AMPARO, EL SERVIDOR PÚBLICO QUE POSEA ALGÚN
-DOCUMENTO OFRECIDO Y ADMITIDO COMO TAL NO PUEDE REHUSARSE A UN
-REQUERIMIENTO JUDICIAL, SOBRE LA BASE DE QUE DEBE ESTARSE A LO RESUELTO
-EN UN PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN.
-Marginal: P./J. 13/2018 (10a.)
-Tipo sentencia: Jurisprudencia
-Época: Décima Época
-Instancia: Pleno - Suprema Corte de Justicia de la Nación
-Boletín: Gaceta del Semanario Judicial de la Federación
-Localización: Libro 55, Junio de 2018, Tomo I, página 12
-IUS: 2017129
+    Es la interpretación de la ley, de observancia obligatoria. 
+	Puede ser confirmatoria de Ley, supletoria o interpretativa. 
+	Se establece cuando se sustenta un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. 
+	Se emite por la SCJN funcionando en Pleno o en Salas, y por los Tribunales Colegiados de Circuito. 
+
+Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes contenidos en las sentencias
 
 
 
-https://sjf2.scjn.gob.mx/detalle/ejecutoria/28158
-Registro digital: 28158
-Asunto: CONTRADICCIÓN DE TESIS 10/2017.
-Décima Época
-Fuente: Gaceta del Semanario Judicial de la Federación.
-Libro 59, Octubre de 2018, Tomo I, página 168
-Instancia: Pleno
-PRUEBA DOCUMENTAL EN EL JUICIO DE AMPARO. EN TÉRMINOS DEL ARTÍCULO 121 DE LA LEY DE AMPARO, EL SERVIDOR PÚBLICO QUE POSEA ALGÚN DOCUMENTO OFRECIDO Y ADMITIDO COMO TAL NO PUEDE REHUSARSE A UN REQUERIMIENTO JUDICIAL, SOBRE LA BASE DE QUE DEBE ESTARSE A LO RESUELTO EN UN PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN.
 
-
+---- Coming Up
 ##########
 Contratos
 ############
@@ -115,8 +208,9 @@ Text--
 
 Anaconda Terms of Service
 
-
----Intĺ Law
+#####################
+Intĺ Law Open Access
+#####################
 International Journal of Law in Context (Cambridge)
 https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
 
@@ -133,7 +227,7 @@ https://www.lawjournals.org/
 ####
 HW_07.2 [Due: 18 Mar 2025]
 Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
-both English and Spanish.
+both English and Spanish (39)
 
 HW_07.1	[Due: 18 Mar 2025]
 Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.

@@ -33,7 +33,9 @@ Today
 
 ---- NEW
 
-
+RFPs
+https://www.proyectosmexico.gob.mx/en/home/
+https://www.proyectosmexico.gob.mx/en/projects-hub/
 
 
 
@@ -42,11 +44,7 @@ Today
 	*7.1 Academic Texts and Papers
 	*7.2 Manuals and Standard Operating Procedures (SOPs)
 	7.3 Request for Proposals (RFPs) and Proposals
-	
-RFPs
-https://www.proyectosmexico.gob.mx/en/home/
-https://www.proyectosmexico.gob.mx/en/projects-hub/
-	
+		
 	7.4 Analytical Evaluations, White Papers, and Lab Reports
 
 8. Production of Client Deliverables
