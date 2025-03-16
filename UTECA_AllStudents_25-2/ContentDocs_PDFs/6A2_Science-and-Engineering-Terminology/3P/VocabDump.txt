@@ -1,0 +1,1184 @@
+
+Why have Sex? Information Acquisition
+and Evolution
+Evolution has been happening on earth for about the last 10 9 years. Un-
+deniably, information has been acquired during this process. Thanks to the
+tireless work of the Blind Watchmaker, some cells now carry within them all
+the information required to be outstanding spiders; other cells carry all the
+information required to make excellent octopuses. Where did this information
+come from?
+The entire blueprint of all organisms on the planet has emerged in a teach-
+ing process in which the teacher is natural selection: fitter individuals have
+more progeny, the fitness being defined by the local environment (including
+the other organisms). The teaching signal is only a few bits per individual: an
+individual simply has a smaller or larger number of grandchildren, depending
+on the individual’s fitness. ‘Fitness’ is a broad term that could cover
+• the ability of an antelope to run faster than other antelopes and hence
+avoid being eaten by a lion;
+• the ability of a lion to be well-enough camouflaged and run fast enough
+to catch one antelope per day;
+• the ability of a peacock to attract a peahen to mate with it;
+• the ability of a peahen to rear many young simultaneously.
+The fitness of an organism is largely determined by its DNA – both the coding
+regions, or genes, and the non-coding regions (which play an important role
+in regulating the transcription of genes). We’ll think of fitness as a function
+of the DNA sequence and the environment.
+How does the DNA determine fitness, and how does information get from
+natural selection into the genome? Well, if the gene that codes for one of an
+antelope’s proteins is defective, that antelope might get eaten by a lion early
+in life and have only two grandchildren rather than forty. The information
+content of natural selection is fully contained in a specification of which off-
+spring survived to have children – an information content of at most one bit
+per offspring. The teaching signal does not communicate to the ecosystem
+any description of the imperfections in the organism that caused it to have
+fewer children. The bits of the teaching signal are highly redundant, because,
+throughout a species, unfit individuals who are similar to each other will be
+failing to have offspring for similar reasons.
+So, how many bits per generation are acquired by the species as a whole
+by natural selection? How many bits has natural selection succeeded in con-
+veying to the human branch of the tree of life, since the divergence between
+Australopithecines and apes 4 000 000 years ago? Assuming a generation time
+of 10 years for reproduction, there have been about 400 000 generations of
+human precursors since the divergence from apes. Assuming a population of
+109 individuals, each receiving a couple of bits of information from natural
+selection, the total number of bits of information responsible for modifying
+the genomes of 4 million B.C. into today’s human genome is about 8 × 10 14
+bits. However, as we noted, natural selection is not smart at collating the
+information that it dishes out to the population, and there is a great deal of
+redundancy in that information. If the population size were twice as great,
+would it evolve twice as fast? No, because natural selection will simply be
+correcting the same defects twice as often.
+John Maynard Smith has suggested that the rate of information acquisition
+by a species is independent of the population size, and is of order 1 bit per
+generation. This figure would allow for only 400 000 bits of difference between
+apes and humans, a number that is much smaller than the total size of the
+human genome – 6 × 109 bits. [One human genome contains about 3 × 10 9
+nucleotides.] It is certainly the case that the genomic overlap between apes
+and humans is huge, but is the difference that small?
+In this chapter, we’ll develop a crude model of the process of information
+acquisition through evolution, based on the assumption that a gene with two
+defects is typically likely to be more defective than a gene with one defect, and
+an organism with two defective genes is likely to be less fit than an organism
+with one defective gene. Undeniably, this is a crude model, since real biological
+systems are baroque constructions with complex interactions. Nevertheless,
+we persist with a simple model because it readily yields striking results.
+What we find from this simple model is that
+1. John Maynard Smith’s figure of 1 bit per generation is correct for an
+asexually-reproducing population;
+2. in contrast, if the species reproduces
+sexually, the rate of information
+√
+acquisition can be as large as G bits per generation, where G is the
+size of the genome.
+We’ll also find interesting results concerning the maximum mutation rate
+that a species can withstand.
+19.1 The model
+We study a simple model of a reproducing population of N individuals with
+a genome of size G bits: variation is produced by mutation or by recombina-
+tion (i.e., sex) and truncation selection selects the N fittest children at each
+generation to be the parents of the next. We find striking differences between
+populations that have recombination and populations that do not.
+The genotype of each individual is a vector x of G bits, each having a good
+state xg = 1 and a bad state xg = 0. The fitness F (x) of an individual is simply
+the sum of her bits:
+G
+�
+F (x) =
+xg .
+(19.1)
+g=1
+The bits in the genome could be considered to correspond either to genes
+that have good alleles (x g = 1) and bad alleles (xg = 0), or to the nucleotides
+of a genome. We will concentrate on the latter interpretation. The essential
+property of fitness that we are assuming is that it is locally a roughly linear
+function of the genome, that is, that there are many possible changes one
+9.2: Rate of increase of fitness
+could make to the genome, each of which has a small effect on fitness, and
+that these effects combine approximately linearly.
+We define the normalized fitness f (x) ≡ F (x)/G.
+We consider evolution by natural selection under two models of variation.
+Variation by mutation. The model assumes discrete generations. At each
+generation, t, every individual produces two children. The children’s
+genotypes differ from the parent’s by random mutations. Natural selec-
+tion selects the fittest N progeny in the child population to reproduce,
+and a new generation starts.
+[The selection of the fittest N individuals at each generation is known
+as truncation selection.]
+The simplest model of mutations is that the child’s bits {x g } are in-
+dependent. Each bit has a small probability of being flipped, which,
+thinking of the bits as corresponding roughly to nucleotides, is taken to
+be a constant m, independent of x g . [If alternatively we thought of the
+bits as corresponding to genes, then we would model the probability of
+the discovery of a good gene, P (x g = 0 → xg = 1), as being a smaller
+number than the probability of a deleterious mutation in a good gene,
+P (xg = 1 → xg = 0).]
+Variation by recombination (or crossover, or sex). Our organisms are
+haploid, not diploid. They enjoy sex by recombination. The N individ-
+uals in the population are married into M = N/2 couples, at random,
+and each couple has C children – with C = 4 children being our stan-
+dard assumption, so as to have the population double and halve every
+generation, as before. The C children’s genotypes are independent given
+the parents’. Each child obtains its genotype z by random crossover of
+its parents’ genotypes, x and y. The simplest model of recombination
+has no linkage, so that:
+�
+xg with probability 1/2
+zg =
+(19.2)
+yg with probability 1/2.
+Once the M C progeny have been born, the parents pass away, the fittest
+N progeny are selected by natural selection, and a new generation starts.
+We now study these two models of variation in detail.
+19.2 Rate of increase of fitness
+Theory of mutations
+We assume that the genotype of an individual with normalized fitness f = F/G
+is subjected to mutations that flip bits with probability m. We first show that
+if the average normalized fitness f of the population is greater than 1/2, then
+the optimal mutation rate is small, and the rate of acquisition of information
+is at most of order one bit per generation.
+Since it is easy to achieve a normalized fitness of f = 1/2 by simple muta-
+tion, we’ll assume f > 1/2 and work in terms of the excess normalized fitness
+δf ≡ f − 1/2. If an individual with excess normalized fitness δf has a child
+and the mutation rate m is small, the probability distribution of the excess
+normalized fitness of the child has mean
+δf child = (1 − 2m)δf
+(19.3)
+and variance
+m(1 − m)
+m
+� .
+G
+G
+(19.4)
+If the population of parents has mean δf (t) and variance σ 2 (t) ≡ βm/G, then
+the child population, before selection, will have mean (1 − 2m)δf (t) and vari-
+ance (1+β)m/G. Natural selection chooses the upper half of this distribution,
+so the mean fitness and variance of fitness at the next generation are given by
+�
+�
+m
+δf (t+1) = (1 − 2m)δf (t) + α (1 + β)
+,
+(19.5)
+G
+m
+,
+(19.6)
+G
+where α is the mean deviation from the mean, measured in standard devia-
+tions, and γ is the factor by which the child distribution’s variance is reduced
+by selection. The numbers
+α and γ are of order 1. For the case of a Gaussian
+�
+distribution, α = 2/π � 0.8 and γ = (1 − 2/π) � 0.36. If we assume that
+the variance is in dynamic equilibrium, i.e., σ 2 (t+1) � σ 2 (t), then
+σ 2 (t+1) = γ(1 + β)
+γ(1 + β) = β, so (1 + β) =
+1
+,
+1−γ
+(19.7)
+�
+and the factor α (1 + β) in equation (19.5) is equal to 1, if we take the results
+for the Gaussian distribution, an approximation that becomes poorest when
+the discreteness of fitness becomes important, i.e., for small m. The rate of
+increase of normalized fitness is thus:
+�
+df
+m
+� −2m δf +
+,
+(19.8)
+dt
+G
+which, assuming G(δf )2 � 1, is maximized for
+mopt =
+at which point,
+�
+df
+dt
+1
+,
+16G(δf )2(19.9)
+1
+.
+8G(δf )(19.10)
+�
+=
+opt
+So the rate of increase of fitness F = f G is at most
+dF
+1
+=
+per generation.
+dt
+8(δf )
+(19.11)
+For a population with low fitness (δf < 0.125), the√rate of increase of fitness
+may exceed 1 unit per
+√ generation. Indeed, if δf 1/ G, the rate
+√ of increase, if
+m = 1/2, is of order G; this initial spurt can last only of order G generations.
+For δf > 0.125, the rate of increase of fitness is smaller than one per generation.
+As the fitness approaches G, the optimal mutation rate tends to m = 1/(4G), so
+that an average of 1/4 bits are flipped per genotype, and the rate of increase of
+fitness is also equal to 1/4; information is gained at a rate of about 0.5 bits per
+generation. It takes about 2G generations for the genotypes of all individuals
+in the population to attain perfection.
+For fixed m, the fitness is given by
+1
+(1 − c e−2mt ),
+δf (t) = √
+2 mG
+19.2: Rate of increase of fitness
+No sex
+Sex
+Histogram of parents’ fitness
+Histogram of children’s fitness
+Selected children’s fitness
+subject to the constraint δf (t) ≤ 1/2, where c is a constant of integration,
+equal to 1 if f (0) = 1/2. If the mean number of bits flipped per genotype,
+mG, exceeds
+√ 1, then the fitness F approaches an equilibrium value F eqm =
+(1/2 + 1/(2 mG))G.
+This theory is somewhat inaccurate in that the true probability distribu-
+tion of fitness is non-Gaussian, asymmetrical, and quantized to integer values.
+All the same, the predictions of the theory are not grossly at variance with
+the results of simulations described below.
+Theory of sex
+The analysis of the sexual population becomes tractable with two approxi-
+mations: first, we assume that the gene-pool mixes sufficiently rapidly that
+correlations between genes can be neglected; second, we assume homogeneity,
+i.e., that the fraction f g of bits g that are in the good state is the same, f (t),
+for all g.
+Given these assumptions, if two parents of fitness F = f G mate, the prob-
+ability distribution of their children’s fitness has mean equal to the parents’
+fitness, F ; the variation produced by sex does not reduce the average
+fitness.
+�
+The standard deviation of the fitness of the children scales as Gf (1 − f ).
+Since, after selection, the increase in fitness is proportional to this standard
+deviation, the fitness √
+increase per generation scales as the square root of the
+size of the genome, G. As shown in box 19.2, the mean fitness F̄ = f G
+evolves in accordance with the differential equation:
+�
+dF̄
+� η f (t)(1 − f (t))G,
+dt
+(19.13)
+�
+where η ≡ 2/(π + 2). The solution of this equation is
+�
+�
+��
+�
+� √
+√
+1
+η
+f (t) =
+1 + sin √ (t + c) , for t + c ∈ − π2 G/η, π2 G/η , (19.14)
+2
+G
+where c is a constant of integration, c = sin −1 (2f (0) − 1). So this idealized
+system
+√ reaches a state of eugenic perfection (f = 1) within a finite time:
+(π/η) G generations.
+Simulations
+Figure 19.3a shows the fitness of a sexual population of N = 1000 individ-
+uals with a genome size of G = 1000 starting from a random initial state
+with normalized fitness 0.5. It also shows the theoretical curve f (t)G from
+equation (19.14), which fits remarkably well.
+In contrast, figures 19.3(b) and (c) show the evolving fitness when variation
+is produced by mutation at rates m = 0.25/G and m = 6/G respectively. Note
+the difference in the horizontal scales from panel (a).
+Figure 19.3. Fitness as a function
+of time. The genome size is
+G = 1000. The dots show the
+fitness of six randomly selected
+individuals from the birth
+population at each generation.
+The initial population of
+N = 1000 had randomly
+generated genomes with
+f (0) = 0.5 (exactly). (a) Variation
+produced by sex alone. Line
+shows theoretical curve (19.14) for
+infinite homogeneous population.
+(b,c) Variation produced by
+mutation, with and without sex,
+when the mutation rate is
+mG = 0.25 (b) or 6 (c) bits per
+genome. The dashed line shows
+the curve (19.12).
+1000
+900
+800
+700
+600
+(a)
+500
+0
+10
+20
+30
+40
+1000
+50
+60
+70
+80
+1000
+sex
+900
+900
+sex
+800
+800
+700
+700
+no sex
+600
+500
+(b)
+no sex
+600
+0
+200
+400
+600
+800
+1000 1200 1400 1600
+500
+(c)
+0
+50
+100
+G = 1000
+150
+200
+250
+300
+350
+G = 100 000
+20
+50
+45
+40
+15
+with sex
+with sex
+35
+mG
+30
+25
+without sex
+10
+20
+15
+5
+10
+without sex
+5
+0
+0
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+0.65
+f
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+f
+Exercise 19.1.[3, p.280] Dependence on population size. How do the results for
+a sexual population depend on the population size? We anticipate that
+there is a minimum population size above which the theory of sex is
+accurate. How is that minimum population size related to G?
+Exercise 19.2.[3 ] Dependence on crossover mechanism. In the simple model of
+sex, each bit is taken at random from one of the two parents, that is, we
+allow crossovers to occur with probability 50% between any two adjacent
+nucleotides. How is the model affected (a) if the crossover probability is
+smaller? (b) if crossovers occur exclusively at hot-spots located every d
+bits along the genome?
+19.3 The maximal tolerable mutation rate
+What if we combine the two models of variation? What is the maximum
+mutation rate that can be tolerated by a species that has sex?
+The rate of increase of fitness is given by
+�
+√
+df
+m + f (1 − f )/2
+� −2m δf + η 2
+,
+(19.15)
+dt
+G
+Figure 19.4. Maximal tolerable
+mutation rate, shown as number
+of errors per genome (mG), versus
+normalized fitness f = F/G. Left
+panel: genome size G = 1000;
+right: G = 100 000.
+Independent of genome size, a
+parthenogenetic species (no sex)
+can tolerate only of order 1 error
+per genome per generation; a
+species that uses recombination
+(sex) can tolerate far greater
+mutation rates.
+hich is positive if the mutation rate satisfies
+�
+f (1 − f )
+m<η
+.
+(19.16)
+G
+Let us compare this rate with the result in the absence of sex, which, from
+equation (19.8), is that the maximum tolerable mutation rate is
+1
+1
+m<
+.
+(19.17)
+G (2 δf )2
+√
+The tolerable mutation rate with sex is of order G times greater than that
+without sex!
+A parthenogenetic (non-sexual) species could try to wriggle out of this
+bound on its mutation rate by increasing its litter sizes. But if mutation flips
+on average mG bits, the probability that no bits are flipped in one genome
+is roughly e−mG , so a mother needs to have roughly e mG offspring in order
+to have a good chance of having one child with the same fitness as her. The
+litter size of a non-sexual species thus has to be exponential in mG (if mG is
+bigger than 1), if the species is to persist.
+So the maximum tolerable mutation rate is pinned close
+√ to 1/G, for a non-
+sexual species, whereas it is a larger number of order 1/ G, for a species with
+recombination.
+Turning these results around, we can predict the largest possible genome
+size for a given fixed mutation rate, m. For a parthenogenetic species, the
+largest genome size is of order 1/m, and for a sexual species, 1/m 2 . Taking
+the figure m = 10−8 as the mutation rate per nucleotide per generation (Eyre-
+Walker and Keightley, 1999), and allowing for a maximum brood size of 20 000
+(that is, mG � 10), we predict that all species with more than G = 10 9 coding
+nucleotides make at least occasional use of recombination. If the brood size is
+12, then this number falls to G = 2.5 × 10 8 .
+19.4 Fitness increase and information acquisition
+For this simple model it is possible to relate increasing fitness to information
+acquisition.
+If the bits are set at random, the fitness is roughly F = G/2. If evolution
+leads to a population in which all individuals have the maximum fitness F = G,
+then G bits of information have been acquired by the species, namely for each
+bit xg , the species has figured out which of the two states is the better.
+We define the information acquired at an intermediate fitness to be the
+amount of selection (measured in bits) required to select the perfect state
+from the gene pool. Let a fraction f g of the population have x g = 1. Because
+log 2 (1/f ) is the information required to find a black ball in an urn containing
+black and white balls in the ratio f : 1−f , we define the information acquired
+to be
+�
+fg
+I=
+bits.
+(19.18)
+log2
+1/2
+g
+If all the fractions f g are equal to F/G, then
+2F
+,
+G(19.19)
+I ̃ ≡ 2(F − G/2).(19.20)
+I = G log 2
+which is well approximated by
+The rate of information acquisition is thus roughly two times the rate of in-
+crease of fitness in the population.
+19.5 Discussion
+These results quantify the well known argument for why species reproduce
+by sex with recombination, namely that recombination allows useful muta-
+tions to spread more rapidly through the species and allows deleterious muta-
+tions to be more rapidly cleared from the population (Maynard Smith, 1978;
+Felsenstein, 1985; Maynard Smith, 1988; Maynard Smith and Száthmary,
+1995). A population that reproduces by recombination
+can acquire informa-
+√
+tion from natural selection at a rate of order G times faster than a partheno-
+√
+genetic population, and it can tolerate a mutation rate that is of order G
+times greater. For genomes of size G � 10 8 coding nucleotides, this factor of
+√
+G is substantial.
+This enormous advantage conferred by sex has been noted before by Kon-
+drashov (1988), but this meme, which Kondrashov calls ‘the deterministic
+mutation hypothesis’, does not seem to have diffused throughout the evolu-
+tionary research community, as there are still numerous papers in which the
+prevalence of sex is viewed as a mystery to be explained by elaborate mecha-
+nisms.
+‘The cost of males’ – stability of a gene for sex or parthenogenesis
+Why do people declare sex to be a mystery? The main motivation for being
+mystified is an idea called the ‘cost of males’. Sexual reproduction is disad-
+vantageous compared with asexual reproduction, it’s argued, because of every
+two offspring produced by sex, one (on average) is a useless male, incapable
+of child-bearing, and only one is a productive female. In the same time, a
+parthenogenetic mother could give birth to two female clones. To put it an-
+other way, the big advantage of parthenogenesis, from the point of view of
+the individual, is that one is able to pass on 100% of one’s genome to one’s
+children, instead of only 50%. Thus if there were two versions of a species, one
+reproducing with and one without sex, the single mothers would be expected
+to outstrip their sexual cousins. The simple model presented thus far did not
+include either genders or the ability to convert from sexual reproduction to
+asexual, but we can easily modify the model.
+We modify the model so that one of the G bits in the genome determines
+whether an individual prefers to reproduce parthenogenetically (x = 1) or sex-
+ually (x = 0). The results depend on the number of children had by a single
+parthenogenetic mother, K p and the number of children born by a sexual
+couple, Ks . Both (Kp = 2, Ks = 4) and (Kp = 4, Ks = 4) are reasonable mod-
+els. The former (Kp = 2, Ks = 4) would seem most appropriate in the case
+of unicellular organisms, where the cytoplasm of both parents goes into the
+children. The latter (Kp = 4, Ks = 4) is appropriate if the children are solely
+nurtured by one of the parents, so single mothers have just as many offspring
+as a sexual pair. I concentrate on the latter model, since it gives the greatest
+advantage to the parthenogens, who are supposedly expected to outbreed the
+sexual community. Because parthenogens have four children per generation,
+the maximum tolerable mutation rate for them is twice the expression (19.17)
+derived before for Kp = 2. If the fitness is large, the maximum tolerable rate
+is mG � 2.
+Initially the genomes are set randomly with F = G/2, with half of the pop-
+ulation having the gene for parthenogenesis. Figure 19.5 shows the outcome.
+During the ‘learning’ phase of evolution, in which the fitness is increasing
+rapidly, pockets of parthenogens appear briefly, but then disappear within
+a couple of generations as their sexual cousins overtake them in fitness and
+See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+278
+19 — Why have Sex? Information Acquisition and Evolution
+Fitnesses
+(a) mG = 4
+(b) mG = 1
+10001000
+900900
+800800
+700
+sexual fitness
+parthen fitness
+700
+600
+Percentage
+500
+600
+0
+50
+100
+150
+200
+250
+500
+100100
+8080
+6060
+4040
+2020
+0
+0
+sexual fitness
+parthen fitness
+50
+100
+150
+200
+250
+0
+0
+0
+50100150200250
+50100150200250
+leave them behind. Once the population reaches its top fitness, however, the
+parthenogens can take over, if the mutation rate is sufficiently low (mG = 1).
+In the presence of a higher mutation rate (mG = 4), however, the
+parthenogens never
+√ take over. The breadth of the sexual population’s fit-
+ness is of order G, so a mutant parthenogenetic
+colony arising
+√
+√ with slightly
+above-average fitness will last for about G/(mG) = 1/(m G) generations
+before its fitness falls below that of its sexual cousins. As long as the popu-
+lation size is sufficiently large for some sexual individuals to survive for this
+time, sex will not die out.
+In a sufficiently unstable environment, where the fitness function is con-
+tinually changing, the parthenogens will always lag behind the sexual commu-
+nity. These results are consistent with the argument of Haldane and Hamilton
+(2002) that sex is helpful in an arms race with parasites. The parasites define
+an effective fitness function which changes with time, and a sexual population
+will always ascend the current fitness function more rapidly.
+Additive fitness function
+Of course, our results depend on the fitness function that we assume, and on
+our model of selection. Is it reasonable to model fitness, to first order, as a sum
+of independent terms? Maynard Smith (1968) argues that it is: the more good
+genes you have, the higher you come in the pecking order, for example. The
+directional selection model has been used extensively in theoretical popula-
+tion genetic studies (Bulmer, 1985). We might expect real fitness functions to
+involve interactions, in which case crossover might reduce the average fitness.
+However, since recombination gives the biggest advantage to species whose fit-
+ness functions are additive, we might predict that evolution will have favoured
+species that used a representation of the genome that corresponds to a fitness
+function that has only weak interactions. And even if there are interactions,
+it seems plausible that the fitness would still involve a sum of such interacting
+terms, with the number of terms being some fraction of the genome size
+Further exercises
+Exercise 19.3.[3C ] Investigate how fast sexual and asexual species evolve if
+they have a fitness function with interactions. For example, let the fitness
+be a sum of exclusive-ors of pairs of bits; compare the evolving fitnesses
+with those of the sexual and asexual species with a simple additive fitness
+function.
+Furthermore, if the fitness function were a highly nonlinear function of the
+genotype, it could be made more smooth and locally linear by the Baldwin
+effect. The Baldwin effect (Baldwin, 1896; Hinton and Nowlan, 1987) has been
+widely studied as a mechanism whereby learning guides evolution, and it could
+also act at the level of transcription and translation. Consider the evolution of
+a peptide sequence for a new purpose. Assume the effectiveness of the peptide
+is a highly nonlinear function of the sequence, perhaps having a small island
+of good sequences surrounded by an ocean of equally bad sequences. In an
+organism whose transcription and translation machinery is flawless, the fitness
+will be an equally nonlinear function of the DNA sequence, and evolution
+will wander around the ocean making progress towards the island only by a
+random walk. In contrast, an organism having the same DNA sequence, but
+whose DNA-to-RNA transcription or RNA-to-protein translation is ‘faulty’,
+will occasionally, by mistranslation or mistranscription, accidentally produce a
+working enzyme; and it will do so with greater probability if its DNA sequence
+is close to a good sequence. One cell might produce 1000 proteins from the
+one mRNA sequence, of which 999 have no enzymatic effect, and one does.
+The one working catalyst will be enough for that cell to have an increased
+fitness relative to rivals whose DNA sequence is further from the island of
+good sequences. For this reason I conjecture that, at least early in evolution,
+and perhaps still now, the genetic code was not implemented perfectly but was
+implemented noisily, with some codons coding for a distribution of possible
+amino acids. This noisy code could even be switched on and off from cell
+to cell in an organism by having multiple aminoacyl-tRNA synthetases, some
+more reliable than others.
+Whilst our model assumed that the bits of the genome do not interact,
+ignored the fact that the information is represented redundantly, assumed
+that there is a direct relationship between phenotypic fitness and the genotype,
+and assumed that the crossover probability in recombination is high, I believe
+these qualitative results would still hold if more complex models of
+√ fitness and
+crossover were used: the relative benefit of sex will still scale as G. Only in
+small, in-bred populations are the benefits of sex expected to be diminished.
+In summary: Why have sex? Because sex is good for your bits!
+Further reading
+How did a high-information-content self-replicating system ever emerge in the
+first place? In the general area of the origins of life and other tricky ques-
+tions about evolution, I highly recommend Maynard Smith and Száthmary
+(1995), Maynard Smith and Száthmary (1999), Kondrashov (1988), May-
+nard Smith (1988), Ridley (2000), Dyson (1985), Cairns-Smith (1985), an
+18.1: Crosswords
+We’ll find that the conclusions we come to depend on the value of H W and
+are not terribly sensitive to the value of L. Consider a large crossword of size
+S squares in area. Let the number of words be f w S and let the number of
+letter-occupied squares be f 1 S. For typical crosswords of types A and B made
+of words of length L, the two fractions f w and f1 have roughly the values in
+table 18.2.
+We now estimate how many crosswords there are of size S using our simple
+model of Wenglish. We assume that Wenglish is created at random by gener-
+ating W strings from a monogram (i.e., memoryless) source with entropy H 0 .
+If, for example, the source used all A = 26 characters with equal probability
+then H0 = log2 A = 4.7 bits. If instead we use Chapter 2’s distribution then
+the entropy is 4.2. The redundancy of Wenglish stems from two sources: it
+tends to use some letters more than others; and there are only W words in
+the dictionary.
+Let’s now count how many crosswords there are by imagining filling in
+the squares of a crossword at random using the same distribution that pro-
+duced the Wenglish dictionary and evaluating the probability that this random
+scribbling produces valid words in all rows and columns. The total number of
+typical fillings-in of the f 1 S squares in the crossword that can be made is
+fw
+f1
+AB
+2
+L+1
+L
+L+11
+L+1
+3 L
+4L+1
+Table 18.2. Factors fw and f1 by
+which the number of words and
+number of letter-squares
+respectively are smaller than the
+total number of squares.
+(18.2)
+|T | = 2f1 SH0 .
+The probability that one word of length L is validly filled-in is
+β=
+W
+2LH0
+(18.3)
+,
+and the probability that the whole crossword, made of f w S words, is validly
+filled-in by a single typical in-filling is approximately
+(18.4)
+β fw S .
+So the log of the number of valid crosswords of size S is estimated to be
+log β fw S |T | = S [(f1 − fw L)H0 + fw log W ]
+(18.5)
+= S [(f1 − fw L)H0 + fw (L + 1)HW ] ,
+(18.6)
+which is an increasing function of S only if
+(f1 − fw L)H0 + fw (L + 1)HW > 0.
+(18.7)
+So arbitrarily many crosswords can be made only if there’s enough words in
+the Wenglish dictionary that
+HW >
+(fw L − f1 )
+H0 .
+fw (L + 1)
+(18.8)
+Plugging in the values of f 1 and fw from table 18.2, we find the following.
+Crossword type
+Condition for crosswords
+AB
+L
+H W > 12 L+1
+H0L
+HW > 41 L+1
+H0
+If we set H0 = 4.2 bits and assume there are W = 4000 words in a normal
+English-speaker’s dictionary, all with length L = 5, then we find that the
+condition for crosswords of type B is satisfied, but the condition for crosswords
+of type A is only just satisfied. This fits with my experience that crosswords
+of type A usually contain more obscure words.
+This calculation underestimates
+the number of valid Wenglish
+crosswords by counting only
+crosswords filled with ‘typical’
+strings. If the monogram
+distribution is non-uniform then
+the true count is dominated by
+‘atypical’ fillings-in, in which
+crossword-friendly words appear
+more often.
+urther reading
+These observations about crosswords were first made by Shannon (1948); I
+learned about them from Wolf and Siegel (1998). The topic is closely related
+to the capacity of two-dimensional constrained channels. An example of a
+two-dimensional constrained channel is a two-dimensional bar-code, as seen
+on parcels.
+Exercise 18.2.[3 ] A two-dimensional channel is defined by the constraint that,
+of the eight neighbours of every interior pixel in an N × N rectangular
+grid, four must be black and four white. (The counts of black and white
+pixels around boundary pixels are not constrained.) A binary pattern
+satisfying this constraint is shown in figure 18.3. What is the capacity
+of this channel, in bits per pixel, for large N ?
+Figure 18.3. A binary pattern in
+which every pixel is adjacent to
+four black and four white pixels.
+18.2 Simple language models
+The Zipf–Mandelbrot distribution
+The crudest model for a language is the monogram model, which asserts that
+each successive word is drawn independently from a distribution over words.
+What is the nature of this distribution over words?
+Zipf’s law (Zipf, 1949) asserts that the probability of the rth most probable
+word in a language is approximately
+P (r) =
+κ
+,
+rα
+(18.9)
+where the exponent α has a value close to 1, and κ is a constant. According
+to Zipf, a log–log plot of frequency versus word-rank should show a straight
+line with slope −α.
+Mandelbrot’s (1982) modification of Zipf’s law introduces a third param-
+eter v, asserting that the probabilities are given by
+P (r) =
+κ
+.
+(r + v)α
+(18.10)
+For some documents, such as Jane Austen’s Emma, the Zipf–Mandelbrot dis-
+tribution fits well – figure 18.4.
+Other documents give distributions that are not so well fitted by a Zipf–
+Mandelbrot distribution. Figure 18.5 shows a plot of frequency versus rank for
+the LATEX source of this book. Qualitatively, the graph is similar to a straight
+line, but a curve is noticeable. To be fair, this source file is not written in
+pure English – it is a mix of English, maths symbols such as ‘x’, and LATEX
+commands.
+0.1
+0.01
+to theand
+of
+I
+is
+Harriet
+0.001
+information
+probability
+0.0001
+1e-05
+1
+10
+100
+1000
+10000
+Figure 18.4. Fit of the
+Zipf–Mandelbrot distribution
+(18.10) (curve) to the empirical
+frequencies of words in Jane
+Austen’s Emma (dots). The fitted
+parameters are κ = 0.
+Figure 18.5. Log–log plot of
+frequency versus rank for the
+words in the LATEX file of this
+book.
+x
+probability
+information
+0.001
+Shannon
+Bayes
+0.0001
+0.00001
+1
+10
+100
+1000
+Figure 18.6. Zipf plots for four
+‘languages’ randomly generated
+from Dirichlet processes with
+parameter α ranging from 1 to
+1000. Also shown is the Zipf plot
+for this book.
+alpha=1
+0.1
+alpha=10
+0.01
+alpha=100
+0.001
+alpha=1000
+0.0001
+book
+0.00001
+1
+10
+100
+1000
+10000
+The Dirichlet process
+Assuming we are interested in monogram models for languages, what model
+should we use? One difficulty in modelling a language is the unboundedness
+of vocabulary. The greater the sample of language, the greater the number
+of words encountered. A generative model for a language should emulate
+this property. If asked ‘what is the next word in a newly-discovered work
+of Shakespeare?’ our probability distribution over words must surely include
+some non-zero probability for words that Shakespeare never used before. Our
+generative monogram model for language should also satisfy a consistency
+rule called exchangeability. If we imagine generating a new language from
+our generative model, producing an ever-growing corpus of text, all statistical
+properties of the text should be homogeneous: the probability of finding a
+particular word at a given location in the stream of text should be the same
+everywhere in the stream.
+The Dirichlet process model is a model for a stream of symbols (which we
+think of as ‘words’) that satisfies the exchangeability rule and that allows the
+vocabulary of symbols to grow without limit. The model has one parameter
+α. As the stream of symbols is produced, we identify each new symbol by a
+unique integer w. When we have seen a stream of length F symbols, we define
+the probability of the next symbol in terms of the counts {F w } of the symbols
+seen so far thus: the probability that the next symbol is a new symbol, never
+seen before, is
+α
+.
+(18.11)
+F +α
+The probability that the next symbol is symbol w is
+Fw
+.
+F +α
+(18.12)
+Figure 18.6 shows Zipf plots (i.e., plots of symbol frequency versus rank) for
+million-symbol ‘documents’ generated by Dirichlet process priors with values
+of α ranging from 1 to 1000.
+It is evident that a Dirichlet process is not an adequate model for observed
+distributions that roughly obey Zipf’s law.
+264
+18 — Crosswords and Codebreaking
+Figure 18.7. Zipf plots for the
+words of two ‘languages’
+generated by creating successive
+characters from a Dirichlet
+process with α = 2, and declaring
+one character to be the space
+character. The two curves result
+from two different choices of the
+space character.
+0.1
+0.01
+0.001
+0.0001
+0.00001
+1
+10
+100
+1000
+10000
+With a small tweak, however, Dirichlet processes can produce rather nice
+Zipf plots. Imagine generating a language composed of elementary symbols
+using a Dirichlet process with a rather small value of the parameter α, so that
+the number of reasonably frequent symbols is about 27. If we then declare
+one of those symbols (now called ‘characters’ rather than words) to be a space
+character, then we can identify the strings between the space characters as
+‘words’. If we generate a language in this way then the frequencies of words
+often come out as very nice Zipf plots, as shown in figure 18.7. Which character
+is selected as the space character determines the slope of the Zipf plot – a less
+probable space character gives rise to a richer language with a shallower slope.
+18.3 Units of information content
+The information content of an outcome, x, whose probability is P (x), is defined
+to be
+1
+h(x) = log
+.
+(18.13)
+P (x)
+The entropy of an ensemble is an average information content,
+H(X) =
+�
+x
+P (x) log
+1
+.
+P (x)
+(18.14)
+When we compare hypotheses with each other in the light of data, it is of-
+ten convenient to compare the log of the probability of the data under the
+alternative hypotheses,
+‘log evidence for Hi ’ = log P (D | Hi ),
+(18.15)
+or, in the case where just two hypotheses are being compared, we evaluate the
+‘log odds’,
+P (D | H1 )
+log
+,
+(18.16)
+P (D | H2 )
+which has also been called the ‘weight of evidence in favour of H 1 ’. The
+log evidence for a hypothesis, log P (D | H i ) is the negative of the information
+content of the data D: if the data have large information content, given a hy-
+pothesis, then they are surprising to that hypothesis; if some other hypothesis
+is not so surprised by the data, then that hypothesis becomes more probable.
+‘Information content’, ‘surprise value’, and log likelihood or log evidence are
+the same thing.
+All these quantities are logarithms of probabilities, or weighted sums of
+logarithms of probabilities, so they can all be measured in the same units.
+The units depend on the choice of the base of the logarithm.
+The names that have been given to these units are shown in table 18
+18.4: A taste of Banburismus
+UnitExpression that has those units
+bit
+nat
+ban
+deciban (db)log2 p
+log e p
+log 10 p
+10 log 10 p
+The bit is the unit that we use most in this book. Because the word ‘bit’
+has other meanings, a backup name for this unit is the shannon. A byte is
+8 bits. A megabyte is 220 � 106 bytes. If one works in natural logarithms,
+information contents and weights of evidence are measured in nats. The most
+interesting units are the ban and the deciban.
+The history of the ban
+Let me tell you why a factor of ten in probability is called a ban. When Alan
+Turing and the other codebreakers at Bletchley Park were breaking each new
+day’s Enigma code, their task was a huge inference problem: to infer, given
+the day’s cyphertext, which three wheels were in the Enigma machines that
+day; what their starting positions were; what further letter substitutions were
+in use on the steckerboard; and, not least, what the original German messages
+were. These inferences were conducted using Bayesian methods (of course!),
+and the chosen units were decibans or half-decibans, the deciban being judged
+the smallest weight of evidence discernible to a human. The evidence in favour
+of particular hypotheses was tallied using sheets of paper that were specially
+printed in Banbury, a town about 30 miles from Bletchley. The inference task
+was known as Banburismus, and the units in which Banburismus was played
+were called bans, after that town.
+18.4 A taste of Banburismus
+The details of the code-breaking methods of Bletchley Park were kept secret
+for a long time, but some aspects of Banburismus can be pieced together.
+I hope the following description of a small part of Banburismus is not too
+inaccurate.1
+How much information was needed? The number of possible settings of
+the Enigma machine was about 8 × 10 12 . To deduce the state of the machine,
+‘it was therefore necessary to find about 129 decibans from somewhere’, as
+Good puts it. Banburismus was aimed not at deducing the entire state of the
+machine, but only at figuring out which wheels were in use; the logic-based
+bombes, fed with guesses of the plaintext (cribs), were then used to crack what
+the settings of the wheels were.
+The Enigma machine, once its wheels and plugs were put in place, im-
+plemented a continually-changing permutation cypher that wandered deter-
+ministically through a state space of 26 3 permutations. Because an enormous
+number of messages were sent each day, there was a good chance that what-
+ever state one machine was in when sending one character of a message, there
+would be another machine in the same state while sending a particular char-
+acter in another message. Because the evolution of the machine’s state was
+deterministic, the two machines would remain in the same state as each other
+1
+I’ve been most helped by descriptions given by Tony Sale (http://www.
+codesandciphers.org.uk/lectures/) and by Jack Good (1979), who worked with Turing
+at Bletchley.
+for the rest of the transmission. The resulting correlations between the out-
+puts of such pairs of machines provided a dribble of information-content from
+which Turing and his co-workers extracted their daily 129 decibans.
+How to detect that two messages came from machines with a common
+state sequence
+The hypotheses are the null hypothesis, H 0 , which states that the machines
+are in different states, and that the two plain messages are unrelated; and the
+‘match’ hypothesis, H 1 , which says that the machines are in the same state,
+and that the two plain messages are unrelated. No attempt is being made
+here to infer what the state of either machine is. The data provided are the
+two cyphertexts x and y; let’s assume they both have length T and that the
+alphabet size is A (26 in Enigma). What is the probability of the data, given
+the two hypotheses?
+First, the null hypothesis. This hypothesis asserts that the two cyphertexts
+are given by
+x = x1 x2 x3 . . . = c1 (u1 )c2 (u2 )c3 (u3 ) . . .
+(18.17)
+and
+y = y1 y2 y3 . . . = c�1 (v1 )c�2 (v2 )c�3 (v3 ) . . . ,
+(18.18)
+where the codes ct and c�t are two unrelated time-varying permutations of the
+alphabet, and u1 u2 u3 . . . and v1 v2 v3 . . . are the plaintext messages. An exact
+computation of the probability of the data (x, y) would depend on a language
+model of the plain text, and a model of the Enigma machine’s guts, but if we
+assume that each Enigma machine is an ideal random time-varying permuta-
+tion, then the probability distribution of the two cyphertexts is uniform. All
+cyphertexts are equally likely.
+P (x, y | H0 ) =
+� �2T
+1
+for all x, y of length T .
+A
+(18.19)
+What about H1 ? This hypothesis asserts that a single time-varying permuta-
+tion ct underlies both
+x = x1 x2 x3 . . . = c1 (u1 )c2 (u2 )c3 (u3 ) . . .(18.20)
+y = y1 y2 y3 . . . = c1 (v1 )c2 (v2 )c3 (v3 ) . . . .(18.21)
+and
+What is the probability of the data (x, y)? We have to make some assumptions
+about the plaintext language. If it were the case that the plaintext language
+was completely random, then the probability of u 1 u2 u3 . . . and v1 v2 v3 . . . would
+be uniform, and so would that of x and y, so the probability P (x, y | H 1 )
+would be equal to P (x, y | H 0 ), and the two hypotheses H 0 and H1 would be
+indistinguishable.
+We make progress by assuming that the plaintext is not completely ran-
+dom. Both plaintexts are written in a language, and that language has redun-
+dancies. Assume for example that particular plaintext letters are used more
+often than others. So, even though the two plaintext messages are unrelated,
+they are slightly more likely to use the same letters as each other; if H 1 is true,
+two synchronized letters from the two cyphertexts are slightly more likely to
+be identical. Similarly, if a language uses particular bigrams and trigrams
+frequently, then the two plaintext messages will occasionally contain the same
+bigrams and trigrams at the same time as each other, giving rise, if H 1 is true,
+18.4: A taste of Banburismus
+u
+v
+matches:
+LITTLE-JACK-HORNER-SAT-IN-THE-CORNER-EATING-A-CHRISTMAS-PIE--HE-PUT-IN-H
+RIDE-A-COCK-HORSE-TO-BANBURY-CROSS-TO-SEE-A-FINE-LADY-UPON-A-WHITE-HORSE
+.*....*..******.*..............*...........*................*...........
+to a little burst of 2 or 3 identical letters. Table 18.9 shows such a coinci-
+dence in two plaintext messages that are unrelated, except that they are both
+written in English.
+The codebreakers hunted among pairs of messages for pairs that were sus-
+piciously similar to each other, counting up the numbers of matching mono-
+grams, bigrams, trigrams, etc. This method was first used by the Polish
+codebreaker Rejewski.
+Let’s look at the simple case of a monogram language model and estimate
+how long a message is needed to be able to decide whether two machines
+are in the same state. I’ll assume the source language is monogram-English,
+the language in which successive letters are drawn i.i.d. from the probability
+distribution {pi } of figure 2.1. The probability of x and y is nonuniform:
+consider two single characters, x t = ct (ut ) and yt = ct (vt ); the probability
+that they are identical is
+�
+�
+p2i ≡ m.
+(18.22)
+P (ut )P (vt ) [ut = vt ] =
+ut ,vt
+i
+We give this quantity the name m, for ‘match probability’; for both English
+and German, m is about 2/26 rather than 1/26 (the value that would hold
+for a completely random language). Assuming that c t is an ideal random
+permutation, the probability of x t and yt is, by symmetry,
+�
+m
+if xt = yt
+A
+(18.23)
+P (xt , yt | H1 ) =
+(1−m)
+for
+xt �= yt .
+A(A−1)
+Given a pair of cyphertexts x and y of length T that match in M places and
+do not match in N places, the log evidence in favour of H 1 is then
+P (x, y | H1 )
+log
+P (x, y | H0 )
+(1−m)
+m/A
+A(A−1)
+= M log
++ N log
+1/A2
+1/A2
+(1 − m)A
+.
+= M log mA + N log
+A−1
+(18.24)
+(18.25)
+Every match contributes log mA in favour of H 1 ; every non-match contributes
+A−1
+in favour of H0 .
+log (1−m)A
+Match probability for monogram-English
+Coincidental match probability
+log-evidence for H1 per match
+log-evidence for H1 per non-match
+m
+1/A
+10 log 10 mA
+10 log 10 (1−m)A
+(A−1)
+0.076
+0.037
+3.1 db
+−0.18 db
+If there were M = 4 matches and N = 47 non-matches in a pair of length
+T = 51, for example, the weight of evidence in favour of H 1 would be +4
+decibans, or a likelihood ratio of 2.5 to 1 in favour.
+The expected weight of evidence from a line of text of length T = 20
+characters is the expectation of (18.25), which depends on whether H 1 or H0
+is true. If H1 is true then matches are expected to turn up at rate m, and the
+expected weight of evidence is 1.4 decibans per 20 characters. If H 0 is
+then spurious matches are expected to turn up at rate 1/A, and the expected
+weight of evidence is −1.1 decibans per 20 characters. Typically, roughly 400
+characters need to be inspected in order to have a weight of evidence greater
+than a hundred to one (20 decibans) in favour of one hypothesis or the other.
+So, two English plaintexts have more matches than two random strings.
+Furthermore, because consecutive characters in English are not independent,
+the bigram and trigram statistics of English are nonuniform and the matches
+tend to occur in bursts of consecutive matches. [The same observations also
+apply to German.] Using better language models, the evidence contributed
+by runs of matches was more accurately computed. Such a scoring system
+was worked out by Turing and refined by Good. Positive results were passed
+on to automated and human-powered codebreakers. According to Good, the
+longest false-positive that arose in this work was a string of 8 consecutive
+matches between two machines that were actually in unrelated states.

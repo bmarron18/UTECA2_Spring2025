@@ -12,9 +12,83 @@ Grupo:			6A2
 
 
 #####################
+						<== assign HW
+						<== upload MacKay excerpts
 HW_07.1	[Due: 27 Mar 2025]
+Read the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i) MacKay_Sex.pdf
+	ii) MacKay_CodeBreaking.pdf
+Do your best to get the gist (main ideas) of each excerpt and write a summary of each excerpt in English. Standard format applies.
 
 
+
+HW_07.1	[Due: 27 Mar 2025]
+Define the following terms in both English and Spanish. Add any new words to your dictionary.
+
+TERMS (64)
+	allele
+	alpha, beta, gamma, delta
+	asexual reproduction
+	asymmetrical
+	Bayesian statistics
+	bigram
+	binary
+	camouflaged
+	catalyst
+	code breaking
+	collating
+	conjecture
+	constraint
+	crossover
+	cypher
+	deleterious
+	deterministic
+	differential
+	diploid
+	Dirichlet process
+	discernible
+	DNA
+	ecosystem
+	empirical
+	emulate
+	enzymatic
+	eugenic
+	false-negative
+	false-positive
+	fitness (evolution)
+	Gaussian distribution
+	genome
+	genotype
+	haploid
+	histogram
+	homogeneous
+	logarithm
+	Mandelbrot set
+	mutation
+	nonlinear
+	nucleotide
+	parameter
+	parthenogenesis
+	permutation
+	phenotype
+	precursor
+	probability
+	probability distribution
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	self-replicating
+	sexual reproduction
+	spurious
+	statistics
+	symmetry
+	synchronized
+	transcription (genetics)
+	translation (genetics)
+	trigram
+	unicellular
 #####################
 
 
@@ -35,26 +109,44 @@ Today
 
 
 ---- NEW
+Sir David MacKay
+	Sir David John Cameron MacKay was a British physicist, mathematician, and academic. He was the Regius Professor of 
+	Engineering in the Department of Engineering at the University of Cambridge and from 2009 to 2014 was Chief 
+	Scientific Advisor to the UK Department of Energy and Climate Change. 
+	
+	https://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary
+	
+	Text, "Information Theory, Inference, Learning Algorithms"
 
-NatureComms_Engineerig_AISpeeach.pdf
+
+Lecture Number 1: Information Theory
+https://www.google.com/search?q=David+McKay%0D%0A%09Information+Theory%0D%0A%09Inference%0D%0A%09Learning+Algorithms&sca_esv=72c0482dd4ddf6e7&source=hp&ei=zjLWZ72eBr_PkPIP54LuQQ&iflsig=ACkRmUkAAAAAZ9ZA3lOBeEJExNSWB1CzzJjmY5V7rp2Y&ved=0ahUKEwi9veXFwo2MAxW_J0QIHWeBOwgQ4dUDCA4&uact=5&oq=David+McKay%0D%0A%09Information+Theory%0D%0A%09Inference%0D%0A%09Learning+Algorithms&gs_lp=Egdnd3Mtd2l6Ij9EYXZpZCBNY0theQoJSW5mb3JtYXRpb24gVGhlb3J5CglJbmZlcmVuY2UKCUxlYXJuaW5nIEFsZ29yaXRobXNIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz#fpstate=ive&vld=cid:6c72e432,vid:BCiZc0n6COY,st:0
+
 McKay_CodeBreaking.pdf
 McKay_Sex.pdf
 
 
----- Save
+---- Coming up
 7. Document Translation
-	*7.1 Academic Papers
-	7.2 Academic Texts
-	7.3 Science Reporting Articles
-		https://www.nature.com/nature/articles	<== look for open access
-		https://www.nature.com/nature-portfolio/open-access
+	*7.1 Academic Texts
+	7.2 Academic Research Papers (next three weeks)
+	
+
+
+
+
+---- Save
+NatureComms_Engineerig_AISpeech.pdf
 		
-		fully OA journals
-				Nature Communications ==> https://www.nature.com/ncomms/
-				Scientific Reports ==> https://www.nature.com/srep/
+fully OA journals
+https://www.nature.com/nature-portfolio/open-access
 
+	Nature Communications ==> https://www.nature.com/ncomms/
+	Scientific Reports ==> https://www.nature.com/srep/
 
-
+Nature Articles
+https://www.nature.com/nature/articles	<== look for open access tag
+		
 
 
 ---- Work Time
