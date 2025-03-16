@@ -97,7 +97,11 @@ Today
 
 
 ---- NEW
-Look at
+###########
+RFIs
+RFQs
+RFPs
+###########
 
 	RFI (Request for Information)
 		a formal business process used to gather information from potential suppliers about their capabilities, products, 
@@ -150,45 +154,47 @@ Look at ---
 
 
 --- Coming up
-7. Document Translation
-	*7.1 Academic Texts and Papers
-	*7.2 Manuals and Standard Operating Procedures (SOPs)
-	*7.3 Request for Proposals (RFPs) and Proposals		
-	7.4 White Papers (Reports) / Review Papers (Reports)
-8. Production of Client Deliverables
+################
+White Papers / 
+Reviews
+################
 
+White papers and review papers, while both in-depth reports, differ significantly in purpose and target audience.
 
+White Paper
+		+ Persuasive, industry-focused reports aiming to educate and persuade potential stakeholders
+        + Designed to educate and persuade a specific audience (often potential customers) about a particular product, 
+		service, or viewpoint
+        + Presents a problem, explores potential solutions, and often advocates for a specific approach or technology, 
+		using facts and logic to support its claims.
+        + Typically not peer-reviewed, and often written by marketing or internal company personnel.
 
-White papers and review papers, while both in-depth reports, differ significantly in purpose and target audience: white papers are persuasive, industry-focused reports aiming to educate and persuade potential customers, while review papers are scholarly, peer-reviewed articles summarizing existing research for experts in a field
+Reviews (Science, Engineering, Medicine, etc)
+       + Designed to provide a comprehensive overview and synthesis of existing research on a specific topic, for 
+	    researchers, academics, and other experts in the relevant field
+       + Summarizes, analyzes, and critically evaluates existing research, identifying key findings, gaps in knowledge, 
+	    and areas for future research.
+       + Typically peer-reviewed by experts in the field, ensuring the quality and validity of the research presented
+   
+#########
+Reviews
+#########
+Open Acces Journals.....
 
-White Paper 
-    Purpose:
-    To educate and persuade a specific audience (often potential customers) about a particular product, service, or viewpoint, often used in business-to-business (B2B) marketing.
-    Content:
-    Presents a problem, explores potential solutions, and often advocates for a specific approach or technology, using facts and logic to support its claims.
-    Audience:
-    Potential customers, industry professionals, or stakeholders who may be influenced by the information presented.
-    Peer Review:
-    Typically not peer-reviewed, and often written by marketing or internal company personnel.
-
-Review Paper 
-    Purpose:
-    To provide a comprehensive overview and synthesis of existing research on a specific topic, for academic or research purposes.
-    Content:
-    Summarizes, analyzes, and critically evaluates existing research, identifying key findings, gaps in knowledge, and areas for future research.
-    Audience:
-    Researchers, academics, and other experts in the relevant field.
-    Peer Review:
-    Typically peer-reviewed by experts in the field, ensuring the quality and validity of the research presented.
-
-
-
-IEEE  open access
-	https://open.ieee.org/publishing-options/topical-journals/
+IEEE  
+https://open.ieee.org/publishing-options/topical-journals/
 	
 	IEEE Open Journal of the Communications Society
-	Featuring high-quality peer reviewed research covering science, technology, applications and standards for 
-	information organization, collection and transfer using electronic, optical and wireless channels and networks.
+		6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions.pd
+		Survey_on_6G_Frontiers_Trends_Applications_Requirements_Technologies_and_Future_Research.pdf
+
+
+#######################
+Client Deliverables
+####################
+
+
+
 
 
 

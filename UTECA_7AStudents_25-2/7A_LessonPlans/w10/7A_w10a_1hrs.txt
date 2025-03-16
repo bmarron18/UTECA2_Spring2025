@@ -11,10 +11,51 @@ Grupo:			7A
 
 
 ######################
+										<== assign HW
+										<== upload folders from 3P
 HW_08.1	[Due: 25 Mar 2025]
+The standard format applies EXCEPT for double-spacing.
+
+--- Task 1
+Investigate the concept of "prueba" (proof) as piecesof admissible evidence from experts. Translate the following "teses aisladas" into English:
+	Registro 160371
+	Registro 193185
+	Registro 215624
+	Registro 2004757
+	Registro 2010576
+	Registro 2011752
 
 
-########################
+--- Task 2
+Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf.
+Answer the following:
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description ofthe "prueba" in English.
+	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
+
+--- Task 3
+Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN 
+(see https://sjf2.scjn.gob.mx/busqueda-principal-tesis). Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. Be sure to correctly and completely cite the "jurisprudencia" document you slected.
+
+
+---- Task 4 
+Define the following terms in English and Spanish.
+
+TERMS
+	cúmulo de sospechas
+	dictamen
+	eficacia probatoria
+	perito
+	probanza judicial
+	prueba pericial
+	prueba circunstancial
+	sentencia
+	writ
+	
+--- Task 5
+Answer the question:
+	1. Explain the difference between "tesis aislada" and "jurisprudencia" in English.
+	
+##################################
 
 
 
@@ -24,12 +65,15 @@ Today
 
 ---- Open 
 
+"Scientists want to know the evidence behind a statement; they want reproducible tests and verifiable facts. There is a big difference in the thought process of a trial lawyer who is interested not in what's true but what he can convince a jury is true."
+			--- Bill Foster
 
----- Content 
+
+
+%%%%%%%%%	Content %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 ---- Review
-
 
 
 ----NEW
@@ -53,20 +97,20 @@ Highlights--
 	foreigners
 
 *	 6 Jun 2011 Mexico updated and extended its support for human rights to align with international 
-	treaties
+	 treaties
 		- support available for both Constitutional violation and treaty violations
 		- support available as a class action suit
 		- support available not only in cases of legal interest but also for cases of legitimate interest
 		- support available for plantiffs and defendents
 		
-		- The SCJN has 
-			+formed a lower court to handle human rights cases
-			+established new sanctions for non-compliance
-			+eliminated the statute of limitations for cases
-			+will not close a case until all sentencing has been completed
-			+granted the Executive Branch rapid access to some (urgent) cases
-			+limited the abuse of a suspension clause that would permit the continued infringement or violation 
-			of rights of the affected person
+		- Also the SCJN has 
+			+ formed a lower court to handle human rights cases
+			+ established new sanctions for non-compliance
+			+ eliminated the statute of limitations for cases
+			+ will not close a case until all sentencing has been completed
+			+ granted the Executive Branch rapid access to some (urgent) cases
+			+ limited the abuse of a suspension clause that would permit the continued infringement or violation 
+			  of rights of the affected person
 
 
 #####################################
@@ -129,7 +173,7 @@ meh
 
 *	Article 77 ... defines jurisdictional competence
 
-*	Article 104 ... lists 16 cases in which the jurisdictional authorities will be prevented from continuing to hear
+*	Article 104 ... lists 16 instances in which the jurisdictional authorities will be prevented from continuing to hear
 	a case (clarifies "subjective jurisdiction")
 	
 *	Article 343 ... validation of evidence
@@ -161,20 +205,9 @@ vs
 Jurispreduncias
 ################
 https://diccionariojuridico.org/indice-materia/
-tesis aislada vs jurisprudencia
 
-PRUEBA PERICIAL (por Carbinell; teses aislados)
-	Registro 2004757
-	Registro 1931185
-	Registro 160371
-	Registro 2010576
-	Registro 2011752
-	Registro 215624
-
-
-
-
-La tesis aislada es un criterio de interpretación que orienta a los jueces, mientras que la jurisprudencia es la doctrina que establece la Suprema Corte de Justicia de la Nación (SCJN). La jurisprudencia es obligatoria, mientras que la tesis aislada no lo es. 
+Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes contenidos en las sentencias.
+Tesis aislada es un criterio de interpretación que orienta a los jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es obligatoria, mientras que la tesis aislada no lo es. 
 
 Tesis aislada 
     Es un criterio de interpretación que orienta el trabajo de los jueces.
@@ -188,35 +221,57 @@ Jurisprudencia
 	Se establece cuando se sustenta un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. 
 	Se emite por la SCJN funcionando en Pleno o en Salas, y por los Tribunales Colegiados de Circuito. 
 
-Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes contenidos en las sentencias
+
+
+Look at prueba pericial ....
+	En el ámbito legal, una "prueba pericial" significa la opinión o dictamen de un experto (perito) sobre un hecho 
+	específico, aportando conocimientos técnicos o científicos para ayudar al juez a entender aspectos que no son de 
+	conocimiento común. 
+
+PRUEBA PERICIAL given by Carbonell as general guideance for the new
+Código Nacional de Procedimientos Civiles y Familiares (teses aislados)
+
+Look at ...
+	Registro 160371
+
+
+
 
 
 
 
 ---- Coming Up
-##########
-Contratos
-############
-Código Civil Federal
-› Libro Cuarto - De las Obligaciones
-› Primera Parte - De las Obligaciones en General
-› Título Primero - Fuentes de las Obligaciones
-› Capítulo I - Contratos
 
+#############
+Contracts
+#############
+Contratos (Legal)...
+	Código Civil Federal
+	› Libro Cuarto - De las Obligaciones
+	› Primera Parte - De las Obligaciones en General
+	› Título Primero - Fuentes de las Obligaciones
+	› Capítulo I - Contratos
 
-Text--
-	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
+Contracts Textbooks..
+	Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
+	Textbook_Andrade_ContratosCiviles_Oxford.pdf
 
-Anaconda Terms of Service
+Real Contracts...
+	2015_may_obras_lpn_2.pdf
+	CFE_Anexo 3 Modelo Contrato.pdf
+	Anaconda Terms of Service
+	
 
 #####################
-Intĺ Law Open Access
+Intĺ Law 
 #####################
-International Journal of Law in Context (Cambridge)
-https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
+Open Access Journals.........
+	International Journal of Law in Context (Cambridge)
+	https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
+		+ Vulnerabilitys-legal-life-an-ambivalent-force-of-migration-governance.pdf
 
-International Journal of Law
-https://www.lawjournals.org/
+	International Journal of Law
+	https://www.lawjournals.org/
 
 
 
