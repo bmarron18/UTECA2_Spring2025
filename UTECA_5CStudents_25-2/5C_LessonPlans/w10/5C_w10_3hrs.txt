@@ -232,8 +232,214 @@ Los informes trimestrales que se encuentran disponibles son los siguientes:
 ############
 Corporations
 #############
+TYPES OF BUSINESS FIRMS p. 157 and 
+pluses/minuses
 
-TYPES OF BUSINESS FIRMS p. 157
+ownership is divided among those who buy shares of stock. Each share of stock entitles its owner to a vote for the board of directors, which in turn hires the corporation’s top managers. And each share of stock entitles its owner to a share of the corporation’s profit—some of which is paid out as dividends. The corporate form of organization makes it easier to raise additional funds: The corporation simply sells additional shares of stock, thereby bringing in new owners. People are less hesitant to become co-owners of a corporation because of its other chief advantage: limited liability. The owners (stockholders) of a corporation can lose only what they have paid for the stock they own; they will never have to reach into their own pockets to honor the firm’s obligations.
+
+Sole proprietorship
+	- easy to start
+	- taxes pass through
+	- Self-employment tax
+	- capitalization a problem
+	- unlimited liability
+
+Partnership
+	- easy
+	- all the profit
+	- taxes pass through
+	- capitalization a problem
+	- unlimited liability
+
+Corporations
+	- legal filings (municipal, state, federal)
+	- "articles of incorporation"
+	- limited liability
+	- complicated taxes
+	- issue stock!!
+	
+	for profit (LLC, C Corps)
+		-yearly reports
+	
+	non profit ("401 C 3")
+		-yearly reports
+
+Articles of Incorporation
+	-purpose, structure, and key operating principles. 
+	-company's name, address, purpose, types of stock, and information about the board of directors
+	-filed with the Secretary of State (or a similar government body) in the state where the company intends to operate. 
+ 	-purpose, mission, values, goals, and structure of an organization. 
+	-legal accountability. 
+
+
+
+	
+###############
+Corp.s in Mexico
+################
+https://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/
+
+Ley General de Sociedades Mercantiles
+Última Reforma DOF 20-10-2023
+
+
+La Ley General de Sociedades Mercantiles reconoce a 
+	-la sociedad en nombre colectivo, 
+	- la sociedad en comandita simple, 
+	- la sociedad de responsabilidad limitada, 
+	- la sociedad anónima, 
+	- la sociedad en comandita por acciones, 
+	- la sociedad cooperativa y 
+	- la sociedad por acciones simplificada. 
+
+La ley contiene disposiciones relativas a las formalidades de la constitución de las sociedades y su inscripción en el Registro Público de Comercio, a las del contrato social y de las asambleas. Esta legislación también regula las formas de administración y vigilancia de las sociedades. Además, la ley contiene disposiciones sobre la fusión, transformación y escisión de las sociedades, así como sobre la disolución y liquidación de las mismas.
+
+    Capítulo I - De la Constitución y Funcionamiento de las Sociedades en General (Artículo 1o. - Artículo 24)
+    Capítulo II - De la Sociedad en Nombre Colectivo (Artículo 25 - Artículo 50)
+    Capítulo III - De la Sociedad en Comandita Simple (Artículo 51 - Artículo 57)
+    Capítulo IV - De la Sociedad de Responsabilidad Limitada (Artículo 58 - Artículo 86)
+    Capítulo V - De la Sociedad Anónima (Artículo 87 - Artículo 88)
+    Capítulo VI - De la Sociedad en Comandita por Acciones (Artículo 207 - Artículo 211)
+    Capítulo VII - De la Sociedad Cooperativa (Artículo 212)
+    Capítulo VIII - De las Sociedades de Capital Variable (Artículo 213 - Artículo 221)
+    Capítulo IX - De la Fusión, Transformación, y Escisión de las Sociedades (Artículo 222 - Artículo 228 Bis)
+    Capitulo X - De la Disolución de las Sociedades (Artículo 229 - Artículo 233)
+    Capítulo XI - De la Liquidación de las Sociedades (Artículo 234 - Artículo 249 Bis 1o.)
+    Capítulo XII - De las Sociedades Extranjeras (Artículo 250 - Artículo 251)
+    Capítulo XIII - De la Asociación en Participación (Artículo 252 - Artículo 259)
+    Capítulo XIV - De la Sociedad por Acciones Simplificada (Artículo 260 - Artículo 273)
+
+Sociedad Anónima (S.A.):
+    This is a corporation with fixed capital, similar to a public limited company. 
+
+Sociedad Anónima de Capital Variable (S.A. de C.V.):
+	This is a corporation with variable capital, meaning the capital can be increased by a resolution of the board of 
+	directors. 
+	
+Sociedad de Responsabilidad Limitada (S. de R.L.):
+	This is a limited liability company, offering a structure similar to an LLC in the United States, where partners' 
+	assets are protected from business liabilities. 
+
+Simplified Stock Corporation (S.A.S.):
+	This is a newer type of entity in Mexico, designed to streamline the incorporation process for small businesses. 
+
+Sociedad Anónima Promotora de Inversión (S.A.P.I): 
+	This is a type of corporation that is usually used before going public, has flexibility in voting rights and types of 
+	shares. 
+
+Persona Física (Sole Proprietorship):
+	This is the simplest form of business entity in Mexico, owned and operated by a single individual. 
+
+Branch Office/Subsidiary:
+	These are common structures for foreign companies looking to establish a presence in Mexico. 
+Representative Office:
+	These are used for companies that want to have a presence in Mexico without establishing a legal entity. 
+
+Maquiladoras:
+These are factories operating under a special tax regime. 
+
+
+
+##########
+Start ups
+##########
+Mexico has a vibrant startup ecosystem
+
+Mexico has seen an increase in venture capital and other resources essential for a thriving entrepreneurial ecosystem.
+
+Mexico has several "unicorn" companies (startups that reach a valuation of $1 billion and are not listed on the stock market
+
+SMEs	small and medium-sized enterprises
+PyMEs	pequeña y mediana empresas
+
+
+Notable Startups:
+Kavak: 		An online marketplace and financing company for pre-owned vehicles, known as Mexico's first unicorn and one 
+			of LatAm's highest-valued startups. 
+Bitso: 		A cryptocurrency exchange and trading platform, a leading player in the Mexican fintech space. 
+Clip: 		A fintech company focused on digital trading and payments. 
+Konfio: 	An online financial services platform that empowers small and medium-sized enterprises (SMEs). 
+Merama: 	An e-commerce company focused on acquiring and expanding digital commerce businesses. 
+Stori: 		A fintech company offering credit cards with no annual fees. 
+Nowports: 	A digital freight forwarder, focusing on logistics. 
+Clara: 		A fintech company providing expense management and corporate credit cards. 
+Covalto: 	A Mexican SME-focused digital banking platform that is set to go public via a merger with a special purpose 
+			acquisition company (SPAC). 
+Motive: 	Builds productivity and safety products for driver safety and equipment tracking. 
+
+
+Unicorn Companies:
+, which are private companies valued at over $1 billion
+
+
+################
+Start up CDMX
+################
+
+Requisitos Legales (generales)
+    * Elaborar el acta constitutiva de la empresa con la ayuda de un notario. La constitución de una empresa puede costar 
+	  entre $15,000 y $18,000 MXN, dependiendo de la notaría y el tipo de sociedad. Tally que ofrecen un pago único de 
+	  $13,000 MXN
+	* Hacer el aviso de uso de denominación. 
+	
+
+Requisitos Fiscales  
+	* Documentación para la inscripción en el RFC (Registro Federal de Contribuyentes)
+		Acuse de preinscripción al RFC
+
+	* Comprobante de domicilio fiscal
+		Puede ser un recibo de servicios públicos (luz, agua, gas, teléfono) a nombre de la empresa o representante 
+		legal, un contrato de arrendamiento, o un estado de cuenta bancario. 
+
+	* Identificación oficial con fotografía: 
+		Del representante legal o de los socios (en caso de ser una sociedad). 
+
+	* CURP: (Clave Única de Registro de Población). 
+		Acta constitutiva de la empresa: (copia certificada). 
+
+	* Poder Notarial: 
+		Que acredite al representante legal 
+
+	* Documentación para la operación y cumplimiento fiscal:
+		+Facturas: Tanto las que se emiten como las que se reciben, deben contener la información requerida por el SAT. 
+		+Recibos de nómina: Si la empresa tiene empleados, debe emitir recibos de nómina electrónicos. 
+		+Registros de ingresos y gastos: 
+		+Declaraciones fiscales: Es necesario presentar las declaraciones fiscales correspondientes (ISR, IVA, etc.). 
+		+Constancia de situación fiscal: Documento que contiene la información fiscal de la empresa. 
+		+Certificado de Firma Electrónica: Necesario para generar el Certificado de Sello Digital (CSD)
+		+Alta Patronal ante el IMSS: Si la empresa contrata trabajadores
+
+
+Financiamiento y Apoyo a Emprendedores en CDMX:
+	* FONDESO (Fondo para el Desarrollo Social): 
+    Ofrece financiamiento para crear o fortalecer empresas, con montos que van desde $100,000 a $500,000 MXN y tasas de 
+	interés del 6% anual. Puedes encontrar información sobre sus programas y requisitos en 
+	https://www.fondeso.cdmx.gob.mx/programas
+
+	* Programa de Apoyo Financiero para Microempresas Familiares (Crédito a la Palabra): 
+	Ofrece apoyo financiero a microempresas familiares. Puedes registrarte en https://mipymes.economia.gob.mx/ para 	
+	solicitar el apoyo. 
+
+	* Préstamos Bienestar: 
+    Si eres microempresario y cumples con los requisitos (ser mayor de 18 años, tener un micronegocio con al menos seis 
+	meses de operación, ser residente en México por al menos 30 años o haber sido beneficiario de programas sociales), 
+	puedes solicitar un préstamo Bienestar.  Puedes encontrar información y solicitar el préstamo en el portal oficial de 
+	FINABIEN (https://www.gob.mx/finabien). 
+
+
+Curso Emprendedores: 
+    El CONDUSEF ofrece un curso gratuito y en línea sobre emprendimiento.  Puedes encontrar más información en 
+	https://emprendimiento.condusef.gob.mx/. 
+
+
+########################################
+Grupo Modelo, S.A.B. De C.V. (GMODELOC)
+########################################
+https://www.bmv.com.mx/es/emisoras/perfil/GMODELO-5443
+
+
+
+
 
 
 
