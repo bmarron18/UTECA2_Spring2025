@@ -18,11 +18,9 @@ Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish
 
 --- Task 2
 Translate "EXCERPTS_P2_EPA_Guidance-for-SOPs.txt" into Spanish
-	
 
---- Task 3z
+--- Task 3
 Translate "EXCERPTS_P3_EPA_Guidance-for-SOPs.txt" into Spanish.
-	
 
 --- Task 4
 Answer and/or summarize the following:

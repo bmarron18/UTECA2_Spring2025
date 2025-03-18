@@ -12,19 +12,17 @@ Grupo:			6A2
 
 
 #####################
-						<== assign HW
-						<== upload MacKay excerpts
 HW_07.1	[Due: 27 Mar 2025]
+The standard format applies ONLY to Task 1.
+
+--- Task 1
 Read the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
-	i) MacKay_Sex.pdf
+	i)  MacKay_Sex.pdf
 	ii) MacKay_CodeBreaking.pdf
-Do your best to get the gist (main ideas) of each excerpt and write a summary of each excerpt in English. Standard format applies.
+Do your best to get the gist (main ideas) of each excerpt and write a summary of each excerpt in English. 
 
-
-
-HW_07.1	[Due: 27 Mar 2025]
+--- Task 2
 Define the following terms in both English and Spanish. Add any new words to your dictionary.
-
 TERMS (64)
 	allele
 	alpha, beta, gamma, delta
@@ -162,6 +160,12 @@ OA Journals
 ####
 3P
 ####
+HW_07.1	[Due: 27 Mar 2025]
+--- Task 1 Read two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+Do your best to get the gist (main ideas) of each excerpt and write a summary of each excerpt in English. 
+--- Task 2 Define the following terms in both English and Spanish. Add any new words to your dictionary.
+TERMS (64)
+
 
 HW_06.1	[Due: 20 Mar 2025]
 	Read the entire document, "Semiconductores-Tecnológico-Nacional-México.pdf" and write a brief summary of the article 
