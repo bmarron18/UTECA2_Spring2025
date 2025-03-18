@@ -12,28 +12,35 @@ Grupo:			5C
 
 
 ######################################
+											<=== upload docs
+											<== create assignment
 HW_08.1	[Due 27 Mar 2025]
 --- Task 1 
-The document, 1f_oferta.pdf is a prospectus for a public offering of CKDs or, PROGRAMA DE CERTIFICADOS BURSÁTILES FIDUCIARIOS. The program was authorized up to the amount of $5,500’000,000.00 (CINCO MIL QUINIENTOS MILLONES DE PESOS 00/100). 
+The document, 1f_CKD_Prospectus_2.pdf is a prospectus for a CKD public offering (PROGRAMA DE CERTIFICADOS BURSÁTILES FIDUCIARIOS). The public offering was authorized up to the amount of $5,500’000,000.00 (CINCO MIL QUINIENTOS MILLONES DE PESOS 00/100). 
 
-Read the first 2 (two) pages of the document, 1f_oferta.pdf, which briefly summarize the offer. Next read Section 1.2 (Resumen Ejecutivo0 and Section 1.2.1 (Breve Descripción de la Operación). Lastly, translate Section 2 (La Oferta), Section 2.1 (Características de los Valores), and Section 2.2 (Destino de los Fondos) into English.
+Read the first 2 (two) pages of the document (1f_CKD_prospectus_2.pdf) which briefly summarize the offer. Next read Section 1.2 (Resumen Ejecutivo) and Section 1.2.1 (Breve Descripción de la Operación). Lastly, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. The standard format applies EXCEPT for double spacing.
 
 Challenge: Can you describe how this program of CKDs is set up?
 		
 --- Task 2
 Define the following terms in Spanish and English
-
 TERMS
 	Activos (de una empresa)
+	Amortization
 	AFORE
 	CKD
 	Colocador
+	Depreciation
+	EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
 	Fideicomiso
 	Fiduciaria
 	Fidelcomitente
 	Fideicomisario (ACREEDORES)
-	UDIS
+	Prospectus
+	UDIs
 
+--- Task 3
+The documnet, 2c_GrupoModelo_AnnualReport_toBMV.pdf, is Grupo Modelo's annual report to the BMV. Translate the Executive Summary (pp. 8 -10) from this document into English. Please note that ONLY the row labels need be translated from the tables. The standard format applies EXCEPT for double spacing.
 
 ######################################
 
@@ -158,7 +165,7 @@ Activos
 	recursos pueden ser bienes, derechos, patrimonio en efectivo, documentos, inmuebles y cuentas por cobrar. 
 	Los activos de una empresa permiten que esta funcione y cumpla con sus obligaciones. 
 
-UDIS
+UDIs
 	que significan Unidades de Inversión, son unidades de medida creadas por el Banco de México para proteger el poder 
 	adquisitivo de los ahorros y créditos, ajustándose a la inflación
 
@@ -170,9 +177,6 @@ Colocador
 Intermediarios Colocadores
 	casas de bolsa que se encargan de la colocación de valores, es decir, que ayudan a las empresas a obtener fondos del 
 	mercado al revisar la documentación y asegurar la inscripción de los valores
-
-
-
 
 
 CKDs
@@ -220,22 +224,22 @@ look at Figure in ....
 
 ##################
 A Prospectus
-1e_oferta.pdf
+1e_CKD_Prospectus_1.pdf
 ##################
-www.bmv.com.mx en la sección de Empresas Emisoras en el apartado de Reportes Anuales e
-Información Financiera
+www.bmv.com.mx en la sección de Empresas Emisoras en el apartado de 
+Reportes Anuales e Información Financiera
 Los informes trimestrales que se encuentran disponibles son los siguientes:
 
 
 
-
+==========	Corporations	=========================================
 ############
 Corporations
 #############
 TYPES OF BUSINESS FIRMS p. 157 and 
 pluses/minuses
 
-ownership is divided among those who buy shares of stock. Each share of stock entitles its owner to a vote for the board of directors, which in turn hires the corporation’s top managers. And each share of stock entitles its owner to a share of the corporation’s profit—some of which is paid out as dividends. The corporate form of organization makes it easier to raise additional funds: The corporation simply sells additional shares of stock, thereby bringing in new owners. People are less hesitant to become co-owners of a corporation because of its other chief advantage: limited liability. The owners (stockholders) of a corporation can lose only what they have paid for the stock they own; they will never have to reach into their own pockets to honor the firm’s obligations.
+
 
 Sole proprietorship
 	- easy to start
@@ -252,6 +256,12 @@ Partnership
 	- unlimited liability
 
 Corporations
+*	Ownership is divided among those who buy shares of stock. 
+*	Each share of stock entitles its owner to a vote for the board of directors, which in turn hires the corporation’s 
+	top managers. And each share of stock entitles its owner to a share of the corporation’s profit—some of which is paid 
+	out as dividends. 
+*The corporate form of organization makes it easier to raise additional funds: The corporation simply sells additional shares of stock, thereby bringing in new owners. People are less hesitant to become co-owners of a corporation because of its other chief advantage: limited liability. The owners (stockholders) of a corporation can lose only what they have paid for the stock they own; they will never have to reach into their own pockets to honor the firm’s obligations.
+
 	- legal filings (municipal, state, federal)
 	- "articles of incorporation"
 	- limited liability
@@ -284,7 +294,7 @@ Ley General de Sociedades Mercantiles
 
 
 La Ley General de Sociedades Mercantiles reconoce a 
-	-la sociedad en nombre colectivo, 
+	- la sociedad en nombre colectivo, 
 	- la sociedad en comandita simple, 
 	- la sociedad de responsabilidad limitada, 
 	- la sociedad anónima, 
@@ -369,7 +379,7 @@ Motive: 	Builds productivity and safety products for driver safety and equipment
 
 
 Unicorn Companies:
-, which are private companies valued at over $1 billion
+private companies valued at over $1 billion
 
 
 ################
@@ -432,10 +442,20 @@ Curso Emprendedores:
 	https://emprendimiento.condusef.gob.mx/. 
 
 
+
+A closer look.......
 ########################################
-Grupo Modelo, S.A.B. De C.V. (GMODELOC)
+Grupo Modelo, S.A.B. De C.V. (GMODELOC)		<== clave de cotizacion
 ########################################
 https://www.bmv.com.mx/es/emisoras/perfil/GMODELO-5443
+
+Look at ...
+2a_Grupo Modelo_Perfil_BMV.pdf
+2b_GrupoModelo_AnnualReport_2022.pdf
+2c_GrupoModelo_AnnualReport_BMV.pdf
+2d_GrupoModelo_3QReport_.pdf
+2e_GrupoModelo_FinancialEval_BMV.pdf
+2f_Grupo Modelo_StockSale.pdf
 
 
 
@@ -466,6 +486,12 @@ https://www.eleconomista.com.mx/mercados/Que-es-un-CKD-Certificados-de-Capital-d
 ####
 3P
 ####
+HW_08.1	[Due 27 Mar 2025]
+--- Task 1 From the document, 1f_CKD_Prospectus_2.pdf, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. 
+	Challenge: Can you describe how this program of CKDs is set up?
+--- Task 2 Define terms (13) in Spanish and English
+--- Task 3 Translate the Executive Summary (pp. 8 -10) from tGrupo Modelo's annual report to the BMV (2c_GrupoModelo_AnnualReport_toBMV.pdf) into English
+
 
 HW_07.2	[Due 20 Mar 2025]
 	Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English (25)
@@ -473,7 +499,6 @@ HW_07.2	[Due 20 Mar 2025]
 HW_07.1	[Due 20 Mar 2025]
 	Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms 
 	(25)
-
 
 ####
 2P

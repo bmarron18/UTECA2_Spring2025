@@ -11,13 +11,11 @@ Grupo:			7A
 
 
 ######################
-										<== assign HW
-										<== upload folders from 3P
 HW_08.1	[Due: 25 Mar 2025]
-The standard format applies EXCEPT for double-spacing.
+The standard format applies to all tasks EXCEPT for double-spacing.
 
 --- Task 1
-Investigate the concept of "prueba" (proof) as piecesof admissible evidence from experts. Translate the following "teses aisladas" into English:
+Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts. Translate the following "teses aisladas" into English:
 	Registro 160371
 	Registro 193185
 	Registro 215624
@@ -39,7 +37,6 @@ Research "jurisprendias" related to the term, "prueba pericial" in the registros
 
 ---- Task 4 
 Define the following terms in English and Spanish.
-
 TERMS
 	cúmulo de sospechas
 	dictamen
@@ -52,8 +49,7 @@ TERMS
 	writ
 	
 --- Task 5
-Answer the question:
-	1. Explain the difference between "tesis aislada" and "jurisprudencia" in English.
+Explain the difference between "tesis aislada" and "jurisprudencia" in English.
 	
 ##################################
 
@@ -281,6 +277,15 @@ Open Access Journals.........
 ####
 3P
 ####
+HW_08.1	[Due: 25 Mar 2025]
+--- Task 1. Investigate the concept of "prueba" (proof) as pieces of admissible evidence from experts. Translate six (6) "teses aisladas" into English:
+--- Task 2 Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf and answer two questions
+--- Task 3 Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN. Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. 
+---- Task 4  Define nine legal terms in English and Spanish.
+--- Task 5 Explain the difference between "tesis aislada" and "jurisprudencia" in English.
+
+
+
 HW_07.2 [Due: 18 Mar 2025]
 Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
 both English and Spanish (39)

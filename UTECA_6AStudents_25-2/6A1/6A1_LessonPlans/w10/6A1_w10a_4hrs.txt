@@ -10,15 +10,13 @@ Grupo:			6A1
 
 
 #########################################
-										<== assign HW
-										<== upload folder: CFE_RFP_0104_CACON_0030-2025
 HW_08.1	[Due: 25 Mar 2025]
-Translate the following two documents into English. The documents form part of the RFP issued by the CFE in March 2025 
-(CFE-0104-CACON-0030-2025). Standard format applies EXCEPT for double-spaced text.
+--- Task 1 
+Translate the following two documents into English. The documents form part of the RFP issued by the CFE in March 2025  (CFE-0104-CACON-0030-2025). Standard format applies EXCEPT for double-spaced text.
 	i)  CFE_01 Convocatoria CACON 0030 2025.pdf
 	ii) CFE_Anexo-2_07_PROGRAMA_SUMINISTRO_DE_MATERIALES_CONTRATISTA.pdf
 
-HW_08.2	[Due: 25 Mar 2025]
+--- Task 2 
 Define the terms below in both Spanish and English. Add any new words to your dictionary.
 
 Terms (56)
@@ -76,7 +74,6 @@ Terms (56)
 	TERMOMAGNÉTICO
 	TEZONTLE
 	VINILO
-
 #############################################
 
 
