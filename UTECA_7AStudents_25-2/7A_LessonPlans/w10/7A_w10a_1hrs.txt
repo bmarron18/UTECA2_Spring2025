@@ -59,6 +59,8 @@ Explain the difference between "tesis aislada" and "jurisprudencia" in English.
 Today
 #########
 
+Hand back exams
+
 ---- Open 
 
 "Scientists want to know the evidence behind a statement; they want reproducible tests and verifiable facts. There is a big difference in the thought process of a trial lawyer who is interested not in what's true but what he can convince a jury is true."
@@ -70,9 +72,6 @@ Today
 
 
 ---- Review
-
-
-----NEW
 
 ##############
 Concept of Amparo
@@ -108,7 +107,7 @@ Highlights--
 			+ limited the abuse of a suspension clause that would permit the continued infringement or violation 
 			  of rights of the affected person
 
-
+----NEW
 #####################################
 Intro to
 Código Nacional de 
@@ -174,8 +173,7 @@ meh
 	
 *	Article 343 ... validation of evidence
 
-*	Articles 432, 661 ... legal standing of notaries in some matters
-
+*	Articles 432, 661 ... legal standing of notaries in s
 *	Article 445 ... support for individuals with disabilities
 
 *	Article 855 ... revamps class action suites (now 15 people)
@@ -206,16 +204,16 @@ Las tesis aisladas y la jurisprudencia son documentos que contienen criterios re
 Tesis aislada es un criterio de interpretación que orienta a los jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es obligatoria, mientras que la tesis aislada no lo es. 
 
 Tesis aislada 
-    Es un criterio de interpretación que orienta el trabajo de los jueces.
-    No es obligatoria.
-    Puede ser utilizada para orientarse en un caso.
-    Puede ser modificada por una jurisprudencia si el Pleno sustenta una tesis contraria. 
+    +Es un criterio de interpretación que orienta el trabajo de los jueces.
+    +No es obligatoria.
+    +Puede ser utilizada para orientarse en un caso.
+    +Puede ser modificada por una jurisprudencia si el Pleno sustenta una tesis contraria. 
 
 Jurisprudencia
-    Es la interpretación de la ley, de observancia obligatoria. 
-	Puede ser confirmatoria de Ley, supletoria o interpretativa. 
-	Se establece cuando se sustenta un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. 
-	Se emite por la SCJN funcionando en Pleno o en Salas, y por los Tribunales Colegiados de Circuito. 
+   + Es la interpretación de la ley, de observancia obligatoria. 
+	+Puede ser confirmatoria de Ley, supletoria o interpretativa. 
+	+Se establece cuando se sustenta un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. 
+	+Se emite por la SCJN funcionando en Pleno o en Salas, y por los Tribunales Colegiados de Circuito. 
 
 
 
@@ -250,7 +248,10 @@ Contratos (Legal)...
 
 Contracts Textbooks..
 	Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
-	Textbook_Andrade_ContratosCiviles_Oxford.pdf
+		Read pp 1 - 9
+		Answer Q 1-33 (pp 9-10)
+		
+	Textbook_Andrade_ContratosCiviles_Oxford.pdf		<== save
 
 Real Contracts...
 	2015_may_obras_lpn_2.pdf

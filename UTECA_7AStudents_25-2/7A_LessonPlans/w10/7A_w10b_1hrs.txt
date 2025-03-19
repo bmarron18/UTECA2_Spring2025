@@ -9,55 +9,45 @@ Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 1
 Grupo:			7A
 
 ######################
-HW_07.1	[Due: 18 Mar 2025]
-Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+HW_08.1	[Due: 25 Mar 2025]
+The standard format applies to all tasks EXCEPT for double-spacing.
+
+--- Task 1
+Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts. Translate the following "teses aisladas" into English:
+	Registro 160371
+	Registro 193185
+	Registro 215624
+	Registro 2004757
+	Registro 2010576
+	Registro 2011752
 
 
-HW_07.2 [Due: 18 Mar 2025]
-Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
-both English and Spanish.
+--- Task 2
+Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf.
+Answer the following:
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description ofthe "prueba" in English.
+	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
 
+--- Task 3
+Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN 
+(see https://sjf2.scjn.gob.mx/busqueda-principal-tesis). Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. Be sure to correctly and completely cite the "jurisprudencia" document you slected.
+
+
+---- Task 4 
+Define the following terms in English and Spanish.
 TERMS
-	acto reclamado
-	abrogación
-	acusatorio
-	amparo adhesivo
-	desahogadas
-	“alegato de oidas” o “alegato de oreja”
-	apelación
-	aportaciones
-	aquilatar
-	atendibles
-	cabal
-	congruentes
-	contrafianza
-	declaratorias
-	decreto
-	disposiciones
-	doctrina
-	Entidades Federativas
-	"interés legítimo"
-	"interés jurídico"
-	intervenciones orales
-	juicio de amparo
-	laudos
-	litigación
-	mandato
-	normativas
-	“oralidad procesal”
-	preclusión
-	progresiva implantación
-	procesales civiles
-	queja
-	reposición
-	rezagadas
-	sentencias
-	supletoridad
-	supletorio
-	tratados internacionales 
-	tribunales
-	valoración
-
+	cúmulo de sospechas
+	dictamen
+	eficacia probatoria
+	perito
+	probanza judicial
+	prueba pericial
+	prueba circunstancial
+	sentencia
+	writ
+	
+--- Task 5
+Explain the difference between "tesis aislada" and "jurisprudencia" in English.
 ########################
 
 
@@ -69,25 +59,46 @@ Today
 ---- Open 
 
 
----- Content 
+%%%%%%%%%	Content %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-Finish Exam
+---- Review
 
 
+----NEW
+#############
+Contracts
+#############
+Contratos (Legal)...
+	Código Civil Federal
+	› Libro Cuarto - De las Obligaciones
+	› Primera Parte - De las Obligaciones en General
+	› Título Primero - Fuentes de las Obligaciones
+	› Capítulo I - Contratos
 
+Contracts Textbooks..
+	Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
+		Read pp 1 - 9
+		Answer Q 1-33 (pp 9-10)
+		
+	Textbook_Andrade_ContratosCiviles_Oxford.pdf		<== save
 
+Real Contracts...
+	2015_may_obras_lpn_2.pdf
+	CFE_Anexo 3 Modelo Contrato.pdf
+	Anaconda Terms of Service
+	
 
+#####################
+Intĺ Law 
+#####################
+Open Access Journals.........
+	International Journal of Law in Context (Cambridge)
+	https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
+		+ Vulnerabilitys-legal-life-an-ambivalent-force-of-migration-governance.pdf
 
---- Save
-Contratos
-	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
-
-Código Civil Federal
-› Libro Cuarto - De las Obligaciones
-› Primera Parte - De las Obligaciones en General
-› Título Primero - Fuentes de las Obligaciones
-› Capítulo I - Contratos
+	International Journal of Law
+	https://www.lawjournals.org/
 
 
 
