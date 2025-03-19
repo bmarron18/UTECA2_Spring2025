@@ -57,7 +57,7 @@ Takeaway: Humans need simplicity, and this translates to their experiences as co
 
 
 
----- Content 
+%%%%%%%%%%	Content 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
@@ -146,6 +146,18 @@ Section V. Financial Analysis
 
 
 
+In pairs 10-15 min
+	Share Sections I and II of Final Project
+	Evens rotate
+
+1-2
+3-4
+5-6
+7-8
+9-10
+11-12
+
+
 critique ads individually----
 	gold mine!!
 		https://www.edo.com/resources/top-spanish-language-tv-creatives-2023
@@ -156,6 +168,9 @@ critique ads individually----
 --- Work time
 Final Project and Presentation [Due: 09 Apr 2025]
 
+####
+3P
+####
 HW_09.1 [Due: 02 Apr 2025]
 Executive Summary
 Section V.	Financial Analysis
@@ -168,12 +183,53 @@ HW_07.1 [Due: 19 Mar 2025]
 Section I. Product / Service Foundations
 Section II. Market Analysis
 
+#####
+2P
+####
 HW_06.1 [Due: 12 Mar 2025]
 --- Task 1 Explain in detail Kosler and Armstrong's Integrated Marketing Communications model in Figure 14.1 (p. 429).
 --- Task 2 Reproduce TABLE 2 (Design principles, selected quotes), and TABLE 3 (Product language, selected quotes) but 
 	REPLACE the quotes/statements with your own. 
 --- Task 3 Briefly explain Artusi's process of redesigning product language for established products as shown in Figure 
 	3 (p.6)
+	
+HW_05.1 [Due: 05 Mar 2025]
+Designing a marketing campaign for either a product or a service is a multi-step process. Begin the process by identifying and describing the product/service, and by using the Reporter's Toolkit to define the fundamental properties of advertisement(s) for your marketing campaign. In a one-page+ paper, i) sketch the nature of your product/service (be as specifc as possible); and ii) provide answers to the Reporter's Toolkit questions for the advertisement(s) that you envision for your product/service.
+
+HW_04.1 [Due: 26 Feb 2025]
+--- Task 1
+In a one-page+ paper, i) briefly summarize the following two sections in Kosler and Armstrong's textbook, "Principles of Marketing,
+	The New Marketing Communications Model (pp 425-427)
+	The Need for Integrated Marketing Communications (pp 427-430) <== minus the inserts
+and ii) answer three Qs
+
+--- Task 2	
+Read Section 5.5, " More Stories about Marketing Managers" (pp 125-127) in the Ellis et al. textbook, "Marketing: A Critical Textbook" and be ready to discuss the reading in class.
+	
+#####
+1P
+######
+HW
+Study Guide
+
+HW_03.1	[Due: 5 Feb 2025]
+Do your values affect your product choices? Are there product messages "that speak to you"? In a one-page+ paper reflect on your personal values and their relation to your purchasing choices. Translate the paper into Spanish / English. The standard requirements apply.
+
+HW_02.1	[Due: 29 January 2025]
+Read the following sections from Ch.3 'What’s the Story? Analysing Marketing Discourse' in Ellis et al., "Marketing: A Critical Textbook":
+	* 3.1 Introduction
+	* 3.2 Discourse and ‘Grand’ Narratives
+	* 3.3 Marketing Discourse
+	
+Write a paper in English that i) summarizes section 3.1, and critiques the other two sections (3.2 and 3.3) of the chapter. 
+
+-- HW_01.1	Due: 23 Jan 2025
+Read the following excerpt from Ch.1, "Introducing the History of Marketing Theory and Practice from Marketing: A Critical Textbook (pp. 1-6):
+	* 1.1 Introduction
+	* 1.2 The Early Development of Marketing Thought
+	* 1.3 The First Courses in Marketing in the Early Twentieth Century
+	* 1.4 Marketing, Efficiency and Utility Creation
+Write a one-page summary of the excerpt in English and translate the summary into Spanish. 
 	
 ---- Save
 	

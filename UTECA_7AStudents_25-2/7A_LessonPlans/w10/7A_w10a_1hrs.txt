@@ -251,7 +251,6 @@ Contracts Textbooks..
 		Read pp 1 - 9
 		Answer Q 1-33 (pp 9-10)
 		
-	Textbook_Andrade_ContratosCiviles_Oxford.pdf		<== save
 
 Real Contracts...
 	2015_may_obras_lpn_2.pdf
@@ -287,21 +286,25 @@ HW_08.1	[Due: 25 Mar 2025]
 
 
 
-HW_07.2 [Due: 18 Mar 2025]
+HW_07.1	[Due: 18 Mar 2025]
+--- Task 1
+Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+
+--- Task 2
 Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
 both English and Spanish (39)
-
-HW_07.1	[Due: 18 Mar 2025]
-Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
 
 
 ####
 2P
 ####
 HW_06.1	[Due: 11 Mar 2025]
+--- Task 1
 	Translate the following into English : EXCERPTS_P1_Que-hace-la-SCJN.txt 
-	Questions
-	Legal terms (17)
+--- Task 2
+	Answer six Questions on the Supreme Corte (SCJN)
+--- Task 3
+	Define 17 legal terms in English and Spanish
 
 HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
 Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
@@ -341,7 +344,9 @@ HW_01.1	[Due: 22 Jan 2025]
 	report on two fields of law
 
 	
-	
+	---- SAVE
+Textbook_Andrade_ContratosCiviles_Oxford.pdf		<== save
+
 	
 	
 

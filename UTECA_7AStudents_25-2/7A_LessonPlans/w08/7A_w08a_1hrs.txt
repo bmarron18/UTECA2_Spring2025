@@ -11,7 +11,7 @@ Grupo:			7A
 
 
 ######################
-HW_06.1	[Due: 11 Mar 2025]This is a closed book exam; however, you may bring one (1) 8 in. x 11 in. ¨cheat sheet” to the exam
+HW_06.1	[Due: 11 Mar 2025]
 Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
 
 --- Task 1 

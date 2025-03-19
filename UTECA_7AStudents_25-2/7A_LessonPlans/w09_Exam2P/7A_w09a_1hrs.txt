@@ -12,10 +12,11 @@ Grupo:			7A
 
 ######################
 HW_07.1	[Due: 18 Mar 2025]
+--- Task 1
 Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
 
 
-HW_07.2 [Due: 18 Mar 2025]
+--- Task 2
 Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
 both English and Spanish.
 
