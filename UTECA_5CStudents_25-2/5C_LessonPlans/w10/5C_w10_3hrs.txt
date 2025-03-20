@@ -68,14 +68,14 @@ Comisión Nacional Bancaria y de Valores (CNBV)
 ###########################
 CNBV Legal Standing:
 in Federal Law
-Ley del Mercado de Valores
+	==> Ley del Mercado de Valores
 ########################
 
 ########################
 Instrumentos Reconocidos 
 por el SHCP and CNBV 
 ####################
-(pp 1-3) 1b_Instrumentos-SHCP-BVM.pdf
+(pp 1-3) 1b_Instrumentos-SHCP-BVM.pdfhttps://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/
 	Acciones
 	Títulos Opcionales (Warrants)
 	Obligaciones
@@ -104,7 +104,7 @@ by the CNBV (2024)
 
 
 (pp 18-19) Look at % PIB (Producto Interno Bruto!!)	<== GDP
-	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
+	B.2 Emisión de deuda interna y certificados bursátiles fiduciarios
 	
 
 
@@ -136,6 +136,7 @@ CKDs
 Certificados de capital de desarrollo
 Certificados Bursátiles Fiduciarios
 #######
+https://www.eleconomista.com.mx/mercados/Que-es-un-CKD-Certificados-de-Capital-de-Desarrollo-20170918-0146.html
 
 CKDs
 Los Certificados de Capital de Desarrollo o CKD son instrumentos de inversión creados por la Bolsa Mexicana de Valores (BMV), que entraron en vigor el 10 de agosto del 2009.  Se les encuentra listados en los intrumentos de capital, junto a las acciones, las fibras y los títulos opcionales. Con su establecimiento, la BMV inauguró el mercado de capital de desarrollo en México.
@@ -171,7 +172,7 @@ Fideicomiso (a Trust)
 		- Debe administrar los bienes para el beneficio del fideicomitente, no para el suyo.
 	
 	Fideicomisario (Acreedores o Tenedores)
-		- La persona (física o moral o jurídica) designada por el Fideicomitente para recibir los beneficios del 
+		- La persona (física o moral o jurídica) designada por el Fideicomitente para recibir los benefhttps://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/icios del 
 		Fideicomiso
 		- El destinatario final de los bienes puestos en fiducia
 		- El propietario legal de los activos
@@ -279,8 +280,7 @@ Look at HW,,,
 ############
 Corporations
 #############
-TYPES OF BUSINESS FIRMS p. 157 and 
-pluses/minuses
+TYPES OF BUSINESS FIRMS p. 157 
 
 
 
@@ -303,7 +303,11 @@ Corporations
 *	Each share of stock entitles its owner to a vote for the board of directors, which in turn hires the corporation’s 
 	top managers. And each share of stock entitles its owner to a share of the corporation’s profit—some of which is paid 
 	out as dividends. 
-*The corporate form of organization makes it easier to raise additional funds: The corporation simply sells additional shares of stock, thereby bringing in new owners. People are less hesitant to become co-owners of a corporation because of its other chief advantage: limited liability. The owners (stockholders) of a corporation can lose only what they have paid for the stock they own; they will never have to reach into their own pockets to honor the firm’s obligations.
+*	The corporate form of organization makes it easier to raise additional funds: The corporation simply sells additional 
+	shares of stock, thereby bringing in new owners. 
+*	People are less hesitant to become co-owners of a corporation because of its other chief advantage: LIMITED LIABILITY 
+	The owners (stockholders) of a corporation can lose only what they have paid for the stock they own; they will never 
+	have to reach into their own pockets to honor the firm’s obligations.
 
 	- legal filings (municipal, state, federal)
 	- "articles of incorporation"
@@ -383,6 +387,8 @@ Sociedad Anónima Promotora de Inversión (S.A.P.I):
 Persona Física (Sole Proprietorship):
 	This is the simplest form of business entity in Mexico, owned and operated by a single individual. 
 
+
+Int'l Co.s in Mexico
 Branch Office/Subsidiary:
 	These are common structures for foreign companies looking to establish a presence in Mexico. 
 Representative Office:
@@ -396,11 +402,13 @@ These are factories operating under a special tax regime.
 ##########
 Start ups
 ##########
-Mexico has a vibrant startup ecosystem
+*	Mexico has a vibrant startup ecosystem
 
-Mexico has seen an increase in venture capital and other resources essential for a thriving entrepreneurial ecosystem.
+*	Mexico has seen an increase in venture capital and other resources essential for a thriving entrepreneurial ecosystem.
 
-Mexico has several "unicorn" companies (startups that reach a valuation of $1 billion and are not listed on the stock market
+*	Mexico has several "unicorn" companies (startups that reach a valuation of $1 billion and are not listed on the stock 
+	market
+
 
 SMEs	small and medium-sized enterprises
 PyMEs	pequeña y mediana empresas
@@ -430,7 +438,7 @@ Start up CDMX
 ################
 
 Requisitos Legales (generales)
-    * Elaborar el acta constitutiva de la empresa con la ayuda de un notario. La constitución de una empresa puede costar 
+    * Elaborar el ACTA CONSTITIVA de la empresa con la ayuda de un notario. La constitución de una empresa puede costar 
 	  entre $15,000 y $18,000 MXN, dependiendo de la notaría y el tipo de sociedad. Tally que ofrecen un pago único de 
 	  $13,000 MXN
 	* Hacer el aviso de uso de denominación. 
@@ -500,7 +508,7 @@ Look at ...
 	2e_GrupoModelo_FinancialEval_BMV.pdf
 	2f_Grupo Modelo_StockSale.pdf
 
-
+https://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/
 
 
 
