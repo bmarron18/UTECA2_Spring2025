@@ -68,7 +68,7 @@ Comisión Nacional Bancaria y de Valores (CNBV)
 ###########################
 CNBV Legal Standing:
 in Federal Law
-Ley del Mercado de Valores (1a)
+Ley del Mercado de Valores
 ########################
 
 ########################
@@ -81,7 +81,7 @@ por el SHCP and CNBV
 	Obligaciones
 	Pagarés
 	Certificados de Participación
-	Certificados Bursátiles (Fiduciarios)
+	Certificados Bursátiles (Fiduciarios)								<== Stock Certificates issued by a Trust
 		Certificados Bursátiles Fiduciarios de Capital de Desarrollo
 			Certificados Bursátiles Fiduciarios Preferentes
 		Certificados Bursátiles Fiduciarios de Proyectos de Inversión
@@ -103,7 +103,7 @@ by the CNBV (2024)
 1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
 
 
-(pp 18-19) Look at % PIB (Producto Interno Bruto!!
+(pp 18-19) Look at % PIB (Producto Interno Bruto!!)	<== GDP
 	B. 2 Emisión de deuda interna y certificados bursátiles fiduciarios
 	
 
@@ -140,51 +140,60 @@ Certificados Bursátiles Fiduciarios
 CKDs
 Los Certificados de Capital de Desarrollo o CKD son instrumentos de inversión creados por la Bolsa Mexicana de Valores (BMV), que entraron en vigor el 10 de agosto del 2009.  Se les encuentra listados en los intrumentos de capital, junto a las acciones, las fibras y los títulos opcionales. Con su establecimiento, la BMV inauguró el mercado de capital de desarrollo en México.
 
-Los CKD están enfocados al financiamiento de actividades y proyectos que consumen recursos a un corto plazo y generan flujos en un largo plazo, como los de infraestructura, inmobiliarios, empresariales, mineros, de capital privado Diferentes de otros instrumentos de inversión, los CKD cuentan con un plazo de liquidación o vencimiento fijo que puede ser hasta de 50 años, características que los distingue de las acciones. 
+Los CKD están enfocados 
+	- al financiamiento de actividades y proyectos que consumen recursos a un corto plazo y generan flujos en un largo 
+	plazo (infraestructura, inmobiliarios, empresariales, mineros,etc)
+	- the Trust can be public or private 
+	- Diferentes de otros instrumentos de inversión, los CKD cuentan con un plazo de liquidación o vencimiento fijo que 
+	puede ser hasta de 50 años
+	- sólo se pueden emitir a "inversionistas calificados" (En contraste con los Fideicomisos de Inversión en Bienes 
+	Raíces (Fibras) en los que cualquiera puede invertir).
+	- Un instrumento de inversión cuyo diseño es atractivo para las AFORES (Administradoras de Fondos para el Retiro) y 
+	aseguradoras, entre otros (big investors)
 
-En contraste con los Fideicomisos de Inversión en Bienes Raíces (Fibras) en los que cualquiera puede invertir, en los CKD sólo se pueden emitir a inversionistas calificados. Un instrumento de inversión cuyo diseño es atractivo para las AFORES (Administradoras de Fondos para el Retiro) y aseguradoras, entre otros.
-
-
-Fideicomiso
-	un contrato mediante el cual una persona física o moral transmite la titularidad de bienes o derechos a una 
-	institución fiduciaria, para que ésta destine los mismos a la realización de ciertas finalidades. Los fideicomisos se 
-	utilizan para administrar patrimonios, proteger activos, y mitigar impuestos
-	
-	Fiduciaria
-		la institución encargada de la administración del Fideicomiso. Solo instituciones que cuenten con la concesión de
-		Estado/Gobierno Secretaria de Hacienda y Credito Publico (SHCP).la persona o entidad que recibe los bienes o 
-		derechos del fideicomitente para administrarlos.  Debe administrar los bienes para el beneficio del 
-		fideicomitente, no para el suyo. Puede ser una institución o sociedad nacional de crédito
-		9(g, Nacional Financiera, S.N.C., Institución de Banca de Desarrollo, Dirección Fiduciaria)
+TERMS 
+Fideicomiso (a Trust)
+	- a legally binding CONTRACT mediante el cual una persona física o moral (Fideicomiso Emisor or Fidelcomitente) 
+	transmite la titularidad  de bienes o derechos a una institución fiduciaria (Fiduciaria), para que ésta destine los 
+	mismos a la realización de  ciertas finalidades. 
+	- Los fideicomisos se utilizan para administrar patrimonios, proteger activos, y mitigar impuestos
 	
 	Fidelcomitente
-		la persona que transfiere bienes o derechos para crear un patrimonio separado. Establece las condiciones y normas 
-		de uso de los bienes del fideicomiso. Puede ser una persona natural o jurídica
+		- La persona (natural o jurídica) que transfiere bienes o derechos para crear un patrimonio separado. 
+		- Establece las condiciones y normas de uso de los bienes del fideicomiso
 	
-
-	Fideicomisario
-	(ACREEDORES)
-		la persona física o moral designada por el fideicomitente para recibir los beneficios del Fideicomiso; el 
-		destinatario final de los bienes puestos en fiducia; el propietario legal de los activos. puede ser una persona 
-		física o jurídica
+	Fiduciaria (like an escrow)
+		- La institución encargada de la administración del Fideicomiso; La persona o entidad que recibe los bienes o 
+		derechos del fideicomitente para administrarlos
+		- Solo se puede ser instituciones que cuenten con la concesión de Estado/Gobierno Secretaria de Hacienda y Credito 
+		Publico (SHCP); una institución o sociedad nacional de crédito (eg, Nacional Financiera, S.N.C., Institución de 
+		Banca de Desarrollo, Dirección Fiduciaria)
+		- Debe administrar los bienes para el beneficio del fideicomitente, no para el suyo.
 	
-Activos
-	los recursos que posee y controla una empresa, y que se espera que le generen un valor económico en el futuro. Estos 
-	recursos pueden ser bienes, derechos, patrimonio en efectivo, documentos, inmuebles y cuentas por cobrar. 
-	Los activos de una empresa permiten que esta funcione y cumpla con sus obligaciones. 
+	Fideicomisario (Acreedores o Tenedores)
+		- La persona (física o moral o jurídica) designada por el Fideicomitente para recibir los beneficios del 
+		Fideicomiso
+		- El destinatario final de los bienes puestos en fiducia
+		- El propietario legal de los activos
+		
+		
+Activos (Real Assests)
+	- Los recursos que posee y controla una empresa, y que se espera que le generen un valor económico en el futuro 
+	(pueden ser bienes, derechos, patrimonio en efectivo, documentos, inmuebles y cuentas por cobrar) 
+	- Los activos de una empresa permiten que esta funcione y cumpla con sus obligaciones
 
-UDIs
-	que significan Unidades de Inversión, son unidades de medida creadas por el Banco de México para proteger el poder 
-	adquisitivo de los ahorros y créditos, ajustándose a la inflación
+UDIs (Unidad de Inversión0
+	- Monetary units creadas por el Banco de México para proteger el poder adquisitivo de los ahorros y créditos, 
+	- ajustándo a la inflación
 
-Colocador
-	En el ámbito financiero, un "colocador" o "agente colocador" es una entidad financiera autorizada que facilita la 
-	venta y distribución de valores (como acciones o bonos) de un emisor a inversores, a cambio de una comisión. 
+Colocador (Stock Broker / Brokerage Firm / Casas de Bolsa))
+	- Una entidad financiera autorizada que facilita la venta y distribución de valores (como acciones o bonos) de un 
+	emisor a inversores, a cambio de una comisión. 
 
 
 Intermediarios Colocadores
-	casas de bolsa que se encargan de la colocación de valores, es decir, que ayudan a las empresas a obtener fondos del 
-	mercado al revisar la documentación y asegurar la inscripción de los valores
+	- se encargan de la colocación de valores que ayudan a las empresas a obtener fondos del mercado al revisar la 
+	documentación y asegurar la inscripción de los valores
 
 
 
@@ -195,7 +204,7 @@ CKD Properties
 	- Offers shareholders/investors the right to profits acquired by the enterprise with the possibility of 
 	  a high ROI; but with commensurate risks (no guarantees)
 	  
-	- Los CKDes no están sujetos a una calificación crediticia, pues no son instrumentos de deuda, pero si deben cumplir 
+	- Los CKDs no están sujetos a una calificación crediticia, pues no son instrumentos de deuda, pero si deben cumplir 
 	  con los requisitos de revelación de información y con las normas y estándares de gobierno corporativo establecidos 
 	  por la Comisión Nacional Bancaria y de Valores (CNBV) y la Ley del Mercado de Valores, para las empresas que 
 	  cotizan en la BMV.
@@ -207,30 +216,62 @@ CKD Properties
 	  devlopment in the areas of energy, real estate, and private equity
 	  
 	- Again, CKDs are not associated with loan paymets (principal; interest) but seek profit on the underlying activity 
-	  itself in thr long-term
+	  itself in the long-term
 	  
-	- The idea of "derecho fideicomisario" in a CKD is that a shareholder would have the right to earnings, profits, real 
-	  properties/equipment/materials as established in the offering (a legal contract) IF they exist at the close of the 
-	  contract (5 to 50 years)
+	- The idea of "derecho fideicomisario" in a CKD is that a shareholder (tenedor) would have the right to earnings, 
+	profits, real properties/equipment/materials as established in the offering (a legal contract) IF they exist at the 
+	close of the contract (5 to 50 years)
 	  
-	- CKDs provide a  funding source for "greefield" projects (those not yet under development) as well as for 
-	"brownfield" projects (those underway). Especially useful for big infrastructure projects (highways, airports, 
-	railways, energy plants, water purification plants, large buildings, technology, etc)
+	- CKDs provide a  funding source for "greefield" projects (those projects not yet under development) as well as for 
+	"brownfield" projects (those project already underway). Especially useful for big infrastructure projects (highways, 
+	airports, railways, energy plants, water purification plants, large buildings, technology, etc)
 	
 	-
-	
 look at Figure in ....
 	1d_CKDsESP.pdf
 
 
 
 ##################
-A Prospectus
-1e_CKD_Prospectus_1.pdf
+Active CKDs
+en BMV
 ##################
-www.bmv.com.mx en la sección de Empresas Emisoras en el apartado de 
-Reportes Anuales e Información Financiera
-Los informes trimestrales que se encuentran disponibles son los siguientes:
+www.bmv.com.mx 
+	==> sección de Empresas Listadas
+		==> apartado de Info de Emisora
+			==> Capital Markets; CKDs; Servicios Financieros; Entidades Financieros; Grupos Financieros
+		
+
+Clave 		Series 		Fideicomitente 					Fiduciario
+BALAMCK 	16,18 										BANCO CITI MÉXICO, S.A., 
+														INSTITUCIÓN DE BANCA MÚLTIPLE, GRUPO FINANCIERO CITI MÉXICO
+														
+BOCELCK 	20 		VALORES BOCEL, S.A. DE C.V. 		BANCO MONEX, S.A., INSTITUCION DE BANCA MULTIPLE, 
+														MONEX GRUPO FINANCIERO
+DELTACK 	18 		ADMINISTRADORA CKDELTA,SA de CV		BANCO INVEX, S.A., 
+														INSTITUCION DE BANCA MULTIPLE, 
+														INVEX GRUPO FINANCIERO
+														
+EXI2CK 		17 											BANCO CITI MÉXICO, S.A.,INSTITUCIÓN DE BANCA MÚLTIPLE, GRUPO 															FINANCIERO CITI MÉXICO
+
+EXI3CK 		20, 21 										BANCO ACTINVER, S.A. INSTITUCION DE BANCA MULTIPLE, 
+														GRUPO FINANCIERO ACTINVER
+
+FFBANCK 	18 	PMIC LATAM, S.A.P.I. DE C.V.			BANCO INVEX, S.A., INSTITUCION DE BANCA MULTIPLE, INVEX GRUPO 															FINANCIERO
+....
+
+
+
+
+##################
+A Real Prospectus
+##################
+
+1e_CKD_Prospectus_1.pdf
+
+
+
+Look at HW,,,
 
 
 
@@ -292,7 +333,7 @@ Corp.s in Mexico
 https://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/
 
 Ley General de Sociedades Mercantiles
-Última Reforma DOF 20-10-2023
+	(Última Reforma DOF 20-10-2023)
 
 
 La Ley General de Sociedades Mercantiles reconoce a 
@@ -452,12 +493,12 @@ Grupo Modelo, S.A.B. De C.V. (GMODELOC)		<== clave de cotizacion
 https://www.bmv.com.mx/es/emisoras/perfil/GMODELO-5443
 
 Look at ...
-2a_Grupo Modelo_Perfil_BMV.pdf
-2b_GrupoModelo_AnnualReport_2022.pdf
-2c_GrupoModelo_AnnualReport_BMV.pdf
-2d_GrupoModelo_3QReport_.pdf
-2e_GrupoModelo_FinancialEval_BMV.pdf
-2f_Grupo Modelo_StockSale.pdf
+	2a_Grupo Modelo_Perfil_BMV.pdf
+	2b_GrupoModelo_AnnualReport_2022.pdf
+	2c_GrupoModelo_AnnualReport_BMV.pdf
+	2d_GrupoModelo_3QReport_.pdf
+	2e_GrupoModelo_FinancialEval_BMV.pdf
+	2f_Grupo Modelo_StockSale.pdf
 
 
 
