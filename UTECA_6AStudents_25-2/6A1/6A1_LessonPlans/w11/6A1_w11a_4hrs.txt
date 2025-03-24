@@ -11,18 +11,28 @@ Grupo:			6A1
 
 #########################################
 HW_09.1	[Due: 01 Apr 2025]
+
+Standard format EXCEPT for double-spaced text. If possible, print your assignment double-sided or duplex.
+
 --- Task 1 
-Read:
-6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions.pdf
-Survey_on_6G_Frontiers_Trends_Applications_Requirements_Technologies_and_Future_Research.pdf
+Read/Scan:
+6G_Wireless1.pdf [6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions]
+6G_Wireless2.pdf [At_the_Dawn_of_Generative_AI_Era_A_Tutorial-cum-Survey_on_New_Frontiers_in_6G_Wireless_Intelligence]
 
 --- Task 2
-One+ page synopsis in Spanish of b. Standard format EXCEPT for double-spaced.
+Translate:
+Translate the Abstract and the Introduction of 6G_Wireless1.pdf into Spanish
+Translate the Abstract and Section II.A (What Should 6G Be?) of 6G_Wireless2.pdf into Spanish.
 
 --- Task 3
+Critique:
+Assuming that the descriptions and predictions of the 6G world come to pass, is this a world you want to live in? That is, highlight some of the advantages and disadvantages of a such a world. Do have ethical, moral, or other concerns about this world?
+
+--- Task 4
+Vocab:
 Define the terms below in both Spanish and English. Add any new words to your dictionary.
 
-Terms ()
+Terms (76)
 	actuator
 	ad-hoc
 	algorithm
@@ -70,33 +80,35 @@ Terms ()
 	interface
 	interference
 	interoperability
+	intrinsically
+	legacy
 	latency
 	machine-learning
 	malicious
+	MIMO
+	modulation
 	multiplexing
 	mandatorily
+	nanoscale
 	optimization
 	pharmaceutical
+	photodetector
+	polysomnography
+	proliferate
 	propagation
+	protocols
 	quantum communications
+	relays
+	sabotage
 	scalable
 	self-optimization
 	superimposing
 	surveillance
+	synergistic
 	three-dimensional networking
 	virtualization
 	wireless optical technology
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 #############################################
 
 
@@ -105,12 +117,12 @@ Terms ()
 Today
 #######
 
-Hand back 6A2 exam and other work
-
 ---- Open
 
-"The real technical problems came because people working on the project didn't really follow my proposal at all, but set out to do other things instead of making a laser."
-		--- Gordon Gould, laser inventor
+"6G will support a more sustainable world by embracing sustainable design practices, the circular economy, and the concept of choice based on measured observations"
+	-- Marie Hattar (chief marketing officer of Keysight Technologies, communication (hardware) analyzers)
+
+
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -149,17 +161,19 @@ Open Acces Journals.....
 
 IEEE  
 https://open.ieee.org/publishing-options/topical-journals/
-	
+
 	IEEE Open Journal of the Communications Society
 		6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions.pdf
-		Survey_on_6G_Frontiers_Trends_Applications_Requirements_Technologies_and_Future_Research.pdf
-
+		At the Dawn of Generative AI Era: A Tutorial-Cum-Survey on New Frontiers in 6G Wireless Intelligence.pdf
+		
 	IEEE Open Journal of Engineering in Medicine and Biology
 		Grand Challenges at the Interface of Engineering and Medicine
 		A Review on Recent Advancements of Biomedical Radar for Clinical Applications
 		
 
-
+Take a look---
+	6G_Wireless1.pdf [6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions]
+	6G_Wireless2.pdf [At_the_Dawn_of_Generative_AI_Era_A_Tutorial-cum-Survey_on_New_Frontiers_in_6G_Wireless_Intelligence]
 
 
 --- Coming up
@@ -178,14 +192,43 @@ Client Deliverables
 3P
 ####
 
-HW_07.2  [Due: 18 Mar 2025]
-	Provide definitions of the terms below in Spanish and English. Some definitions in English are provided.
-	(78 terms)
+HW_09.1	[Due: 01 Apr 2025]
+--- Task 1 
+Read/Scan:
+6G_Wireless1.pdf 
+6G_Wireless2.pdf 
+
+--- Task 2
+Translate:
+Translate the Abstract and the Introduction of 6G_Wireless1.pdf into Spanish
+Translate the Abstract and Section II.A (What Should 6G Be?) of 6G_Wireless2.pdf into Spanish.
+
+--- Task 3
+Critique:
+Assuming that the descriptions and predictions of the 6G world come to pass, is this a world you want to live in? That is, highlight some of the advantages and disadvantages of a such a world. Do have ethical, moral, or other concerns about this world?
+
+--- Task 4
+Vocab:
+Define 76 terms in both Spanish and English.
+
+
+
+HW_08.1	[Due: 25 Mar 2025]
+--- Task 1 
+Translate two RFP documents from the CFE into English. The documents form part of the RFP issued by the CFE in March 2025  (CFE-0104-CACON-0030-2025). 
+--- Task 2 
+Define terms (56)below in both Spanish and English. 
+
 
 HW_07.1	[Due: 18 Mar 2025]
 Scan five Standard Operating Procedure (SOP) documents (1a-1c): For each SOP, do the following:
 	1. Extract the title and the basic outline headings from the first two tiers of the outline
 	2. Translate the outline headings into Spanish.
+	
+HW_07.12 [Due: 18 Mar 2025]
+	Provide definitions of (78) terms below in Spanish and English. 
+
+
 
 ####
 2P
