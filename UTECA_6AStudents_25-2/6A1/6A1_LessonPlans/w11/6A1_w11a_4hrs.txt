@@ -1,0 +1,245 @@
+							LESSON PLAN  (200 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A1
+
+
+#########################################
+HW_09.1	[Due: 01 Apr 2025]
+--- Task 1 
+Read:
+6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions.pdf
+Survey_on_6G_Frontiers_Trends_Applications_Requirements_Technologies_and_Future_Research.pdf
+
+--- Task 2
+One+ page synopsis in Spanish of b. Standard format EXCEPT for double-spaced.
+
+--- Task 3
+Define the terms below in both Spanish and English. Add any new words to your dictionary.
+
+Terms ()
+	actuator
+	ad-hoc
+	algorithm
+	anions
+	autonomous
+	attenuation
+	backscatter communication
+	bandwidth
+	beamformimg
+	big data analytics
+	biosensors
+	blockchain
+	cations
+	cell-free communications
+	channel capacity
+	converge
+	cost-effective
+	cryptography
+	cyber-attacks
+	cybersecurity
+	dataset
+	decentralized
+	demodulation
+	deployment
+	diffusion
+	disengage
+	disruptive
+	dynamic network slicing
+	embedded
+	erogeneity
+	far-infrared
+	fidelity
+	free-space optical network
+	gadgets
+	hologram
+	holographic beamforming
+	illegitimate
+	immutability
+	impedance
+	incentivize
+	indispensable
+	infeasible
+	infrastructure
+	intelligent reflecting surface
+	interface
+	interference
+	interoperability
+	latency
+	machine-learning
+	malicious
+	multiplexing
+	mandatorily
+	optimization
+	pharmaceutical
+	propagation
+	quantum communications
+	scalable
+	self-optimization
+	superimposing
+	surveillance
+	three-dimensional networking
+	virtualization
+	wireless optical technology
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+#############################################
+
+
+
+#######
+Today
+#######
+
+Hand back 6A2 exam and other work
+
+---- Open
+
+"The real technical problems came because people working on the project didn't really follow my proposal at all, but set out to do other things instead of making a laser."
+		--- Gordon Gould, laser inventor
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+---- Review 
+
+
+
+---- NEW
+################
+White Papers / 
+Reviews
+################
+
+White papers and review papers, while both in-depth reports, differ significantly in purpose and target audience.
+
+White Paper
+		+ Persuasive, industry-focused reports aiming to educate and persuade potential stakeholders
+        + Designed to educate and persuade a specific audience (often potential customers) about a particular product, 
+		service, or viewpoint
+        + Presents a problem, explores potential solutions, and often advocates for a specific approach or technology, 
+		using facts and logic to support its claims.
+        + Typically not peer-reviewed, and often written by marketing or internal company personnel.
+
+Reviews (Science, Engineering, Medicine, etc)
+       + Designed to provide a comprehensive overview and synthesis of existing research on a specific topic, for 
+	    researchers, academics, and other experts in the relevant field
+       + Summarizes, analyzes, and critically evaluates existing research, identifying key findings, gaps in knowledge, 
+	    and areas for future research.
+       + Typically peer-reviewed by experts in the field, ensuring the quality and validity of the research presented
+   
+#########
+Reviews
+#########
+Open Acces Journals.....
+
+IEEE  
+https://open.ieee.org/publishing-options/topical-journals/
+	
+	IEEE Open Journal of the Communications Society
+		6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions.pdf
+		Survey_on_6G_Frontiers_Trends_Applications_Requirements_Technologies_and_Future_Research.pdf
+
+	IEEE Open Journal of Engineering in Medicine and Biology
+		Grand Challenges at the Interface of Engineering and Medicine
+		A Review on Recent Advancements of Biomedical Radar for Clinical Applications
+		
+
+
+
+
+--- Coming up
+
+#######################
+Client Deliverables
+####################
+
+
+
+
+
+
+---- Work time
+####
+3P
+####
+
+HW_07.2  [Due: 18 Mar 2025]
+	Provide definitions of the terms below in Spanish and English. Some definitions in English are provided.
+	(78 terms)
+
+HW_07.1	[Due: 18 Mar 2025]
+Scan five Standard Operating Procedure (SOP) documents (1a-1c): For each SOP, do the following:
+	1. Extract the title and the basic outline headings from the first two tiers of the outline
+	2. Translate the outline headings into Spanish.
+
+####
+2P
+####
+HW_06.1	[Due: 11 Mar 2025]
+Perform the tasks listed below. The standard format applies with tasks listed as major headings.
+	Translate the following text document into Spanish: EXCERPTS_P1_EPA_Guidance-for-SOPs.txt
+	Translate the following text document into Spanish: EXCERPTS_P2_EPA_Guidance-for-SOPs.txt
+	Translate the following text document into Spanish: EXCERPTS_P3_EPA_Guidance-for-SOPs.txt
+	Answer and/or summarize questions
+	Terms and definitions in both English and Spanish
+	
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+####
+1P
+####
+HW_03.1 [Due: 4 Feb 2025] 
+	Normal science vs wicked problems
+
+HW_02.2 [Due: 28 Jan 2025] 
+	fr. St Mary's Overview of Kuhn, translate part B.
+
+HW_02.1 [Due: 23 Jan 2025]
+	Read Chap. III Kuhn3-5 main points share out
+
+HW_01.2 [Due: 21 Jan 2025]
+	excerpts from Picon's paper
+
+HW_01.1 [Due: 21 Jan 2025]
+	two (2) fields of engineering
+	 
+	
+---- SAVE
+Textbook_Andrade_ContratosCiviles_Oxford.pdf		<== save
+
+RFPs
+https://www.proyectosmexico.gob.mx/en/home/
+https://www.proyectosmexico.gob.mx/en/projects-hub/
+
+Procedimiento No. CFE-0104-CACON-0030-2025
+https://www.cfe.mx/concursoscontratos/pages/programanualadquis.aspx
+https://msc.cfe.mx/Aplicaciones/NCFE/Concursos/
+https://msc.cfe.mx/Aplicaciones/NCFE/Concursos/Procedure/Details
+	 
+
