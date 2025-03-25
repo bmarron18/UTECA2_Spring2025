@@ -12,27 +12,29 @@ Grupo:			6A1
 #########################################
 HW_09.1	[Due: 01 Apr 2025]
 
-Standard format EXCEPT for double-spaced text. If possible, print your assignment double-sided or duplex.
+Standard format EXCEPT for double-spaced text; text should be single-spaced. 
+If possible, print your assignment double-sided or duplex.
 
 --- Task 1 
 Read/Scan:
-6G_Wireless1.pdf [6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions]
-6G_Wireless2.pdf [At_the_Dawn_of_Generative_AI_Era_A_Tutorial-cum-Survey_on_New_Frontiers_in_6G_Wireless_Intelligence]
+	a) 6G_Wireless1.pdf 
+	b) 6G_Wireless2.pdf 
 
 --- Task 2
 Translate:
-Translate the Abstract and the Introduction of 6G_Wireless1.pdf into Spanish
-Translate the Abstract and Section II.A (What Should 6G Be?) of 6G_Wireless2.pdf into Spanish.
+	i) Translate the Abstract and the Introduction of 6G_Wireless1.pdf into Spanish
+	ii) Translate the Abstract and Section II.A (What Should 6G Be?) of 6G_Wireless2.pdf into Spanish.
 
 --- Task 3
 Critique:
-Assuming that the descriptions and predictions of the 6G world come to pass, is this a world you want to live in? That is, highlight some of the advantages and disadvantages of a such a world. Do have ethical, moral, or other concerns about this world?
+	Assuming that the descriptions and predictions of the 6G world come to pass, is this a world you want to live in? That is, highlight 
+	some of the advantages and disadvantages of a such a world. Do you have any ethical, moral, or other concerns about this world? 
+	Explain.
 
 --- Task 4
-Vocab:
+Vocab (76):
 Define the terms below in both Spanish and English. Add any new words to your dictionary.
 
-Terms (76)
 	actuator
 	ad-hoc
 	algorithm

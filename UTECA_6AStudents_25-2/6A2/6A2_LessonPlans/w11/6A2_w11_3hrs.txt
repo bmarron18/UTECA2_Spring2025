@@ -14,6 +14,64 @@ Grupo:			6A2
 #####################
 HW_08.1	[Due: 03 Apr 2025]
 
+Standard format EXCEPT for double-spaced text. 
+If possible, print your assignment double-sided or duplex.
+
+--- Task 1
+Read/Scan:
+	a) NatureComms_Engineerig_AISpeeach.pdf
+	b) Challenges_high-quality_battery_production.pdf
+	c) Virtual-reality_plus_AI‐based_framework_for_advanced_digital_manufacturing_Mexico.pdf
+
+All docs in Class Materials, ContentDocs_3P, Papers_English
+
+--- Task 2
+Translate and Evaluate:
+For each report in Task 1 above,
+	i) Translate the Abstract into Spanish
+	ii) Summarize the Introduction in English
+	iii) Summarize the Conclusions in English
+
+--- Task 3
+Vocab (40):
+	accelerometer
+	acoustic
+	amplitude
+	amyotrophic
+	anneal
+	articulate
+	cardiac
+	cardiovascular
+	compatibility
+	constrained
+	cross-section
+	decibel
+	decoding
+	deformation
+	depict
+	diagnostics
+	dielectric
+	dysphonia
+	eigenvector
+	electrode
+	encapsulate
+	epidermal
+	Fourier transform
+	impedance
+	imperceptible
+	larynx
+	nanoengineering
+	neonatal
+	optoelectronic
+	phonemes
+	piezoelectric
+	randomized
+	self-powered
+	spectroscopy
+	transducer
+	waveform
+	zwitterion
+
 #####################
 
 
@@ -24,6 +82,9 @@ Today
 
 ---- Open
 
+
+	
+	
 
 
 %%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -47,11 +108,12 @@ https://www.nature.com/nature/articles					<== look for open access tag
 
 OA Journals
 	Nature Communications ==> https://www.nature.com/ncomms/
-		+ NatureComms_Engineerig_AISpeech.pdf
+		NatureComms_Engineerig_AISpeech.pdf
+		Challenges and opportunities for high-quality battery production at scale.pdf
 
 
 	Scientific Reports ==> https://www.nature.com/srep/
-
+		Developing a virtual reality and AI‑based framework for advanced digital manufacturing and nearshoring opportunities in Mexico.pdf
 
 
 ---- Coming up

@@ -12,12 +12,13 @@ Grupo:			7A
 
 ######################
 HW_09.1	[Due: 01 Apr 2025]
+
 The standard format applies to all tasks EXCEPT for double-spacing of text. 
 If possible, please print your assignment double-sided or duplex.
 
 --- Task 1
 Read/Scan:
-	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] 
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] <== in Class Materiels, RefDocs
 	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
 
 --- Task 2
