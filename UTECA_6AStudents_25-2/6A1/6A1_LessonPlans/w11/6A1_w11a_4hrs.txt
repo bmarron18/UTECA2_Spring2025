@@ -155,7 +155,8 @@ Reviews (Science, Engineering, Medicine, etc)
        + Summarizes, analyzes, and critically evaluates existing research, identifying key findings, gaps in knowledge, 
 	    and areas for future research.
        + Typically peer-reviewed by experts in the field, ensuring the quality and validity of the research presented
-   
+ 
+ 
 #########
 Reviews
 #########
@@ -176,6 +177,8 @@ https://open.ieee.org/publishing-options/topical-journals/
 Take a look---
 	6G_Wireless1.pdf [6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions]
 	6G_Wireless2.pdf [At_the_Dawn_of_Generative_AI_Era_A_Tutorial-cum-Survey_on_New_Frontiers_in_6G_Wireless_Intelligence]
+
+
 
 
 --- Coming up
