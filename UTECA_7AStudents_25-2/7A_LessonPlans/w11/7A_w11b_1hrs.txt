@@ -38,12 +38,9 @@ Today
 
 ---- Open 
 
-"A verbal contract isn't worth the paper it's written on." 
-			--- Samuel Goldwyn
-
-
-"I wish to be cremated. One tenth of my ashes shall be given to my agent, as written in our contract." 
-			--- Groucho Marx
+"I have always been an honest trader. I come from a school of traders where there was honour in the deal. No contracts, just a handshake and that's it, done. That's the way I prefer to do business but it's not always possible these days, sadly.¨
+			--- Alan Sugar
+			(British business magnate, media personality, author, politician)
 
 
 
@@ -52,12 +49,6 @@ Today
 
 ---- Review
 
-check in / share out---
-Task 3 Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN. 
-Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. 
-
-
---- NEW
 #############
 Contracts
 #############
@@ -67,34 +58,41 @@ https://mexico.justia.com/derecho-civil/contratos-civiles/
 https://mexico.justia.com/derecho-civil/contratos-civiles/preguntas-y-respuestas-sobre-contratos-civiles/
 
 
---look at legal structure ---
-https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/primera-parte/titulo-primero/capitulo-i/
-Contratos (Legal)...
-	Código Civil Federal
-	› Libro Cuarto - De las Obligaciones
-	› Primera Parte - De las Obligaciones en General
-	› Título Primero - Fuentes de las Obligaciones
-	› Capítulo I - Contratos
-		Artículos 1792 al 1859
 
-
+--- NEW
 
 Look at contracts textbooks..
-	Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
-		Read pp 1 - 9
+	Textbook_Andrade_ContratosCiviles_Oxford.pdf
+
+Magistrado Mario De La Madrid Andrade
+Universidad de Colima
+
+1. CONTRATOS TRASLATIVOS DE DOMINIO
+	acuerdos que transfieren la propiedad de un bien o derecho de una persona a otra
+		-compraventa, donación, permuta y mutuo. 
+
+2. CONTRATOS TRASLATIVOS DE USO
+	acuerdos donde una parte cede el uso de un bien a otra, sin transferir la propiedad, por un tiempo determinado
+		-gratuitos u onerosos
 		
+3. CONTRATOS DE CUSTODIA / contrato de depósito
+	acuerdo donde una persona (depositante) entrega una cosa mueble a otra (depositario) para que la custodie y la devuelva 
+	cuando se le reclame, a cambio de un precio o retribución
+	
+4. CONTRATOS DE PRESTACIÓN DE SERVICIOS
+	acuerdo legal donde una persona o empresa (el prestador) se compromete a realizar un servicio a cambio de una compensación 
+	económica, detallando las condiciones y términos del servicio
 
-Look at real contracts...
-	BID_Contracts_MinorWorks.pdf		<== p 61 - 72
-		1. Oferta
-		2. Información para la Calificación
-		3. Carta de Aceptación
-		4. Contrato
-		
-	Anaconda Terms of Service
-	CFE_ModeloContrato.pdf
-
-
+5. CONTRATOS ASOCIATIVOS
+	acuerdo entre dos o más partes para colaborar en un negocio o empresa con un fin común, sin crear una sociedad ni 
+	patrimonio separado, donde cada parte aporta recursos o actividades
+	
+6. CONTRATOS DE GARANTÍA
+	acuerdos legales que aseguran el cumplimiento de una obligación, ya sea personal o patrimonial, y protegen los derechos del 
+	acreedor en caso de incumplimiento por parte del deudor
+	
+7. CONTRATOS DE AFIRMACIÓN DE DERECHOS
+	acuerdos que refuerzan o confirman derechos preexistentes, en lugar de crear nuevos, como la compraventa o el arrendamiento
 
 
 

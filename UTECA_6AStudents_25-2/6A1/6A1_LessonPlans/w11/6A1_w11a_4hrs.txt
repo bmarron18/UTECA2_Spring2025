@@ -27,8 +27,7 @@ Translate:
 
 --- Task 3
 Critique:
-	Assuming that the descriptions and predictions of the 6G world come to pass, is this a world you want to live in? That is, highlight 
-	some of the advantages and disadvantages of a such a world. Do you have any ethical, moral, or other concerns about this world? 
+	Assuming that the descriptions and predictions of the 6G world come to pass, is this a world you want to live in? That is, highlight some of the advantages and disadvantages of a such a world. Do you have any ethical, moral, or other concerns about this world? 
 	Explain.
 
 --- Task 4
