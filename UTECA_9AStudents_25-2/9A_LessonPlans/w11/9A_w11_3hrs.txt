@@ -133,6 +133,9 @@ Section V. Financial Analysis
 	- Estimated Return on Investment (ROI)
 
 
+--- NEW
+
+after this share Marketing strategy / Logo.....
 
 --- Basic Start Up Costs -------------------------
 1. One-Time Startup Costs
@@ -224,8 +227,7 @@ Section V. Financial Analysis
 Algorithm for ROI Calculation
 
 ROI is calculated using the formula:
-
-ROI=(Net Profit)/(Initial Investment)×100
+	ROI=(Net Profit)/(Initial Investment)×100
 
 Where:
     Net Profit = Final Value of Investment – Initial Investment
@@ -243,12 +245,8 @@ Step-by-Step Algorithm
 Example Calculation
 
 Given:
-
     Initial Investment = $10,000
-
     Final Value of Investment = $12,500
-
-Steps:
 
     Net Profit = $12,500 - $10,000 = $2,500
     ROI = (2,50010,000)×100(10,0002,500​)×100 = 25%
