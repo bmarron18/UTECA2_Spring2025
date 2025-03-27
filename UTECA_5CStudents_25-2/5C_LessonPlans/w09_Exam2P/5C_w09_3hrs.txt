@@ -15,7 +15,7 @@ Grupo:			5C
 HW_07.1	[Due 20 Mar 2025]
 The legal foundation and explicit functioning of the BMV is given in the federal law, "Ley del Mercado de Valores". Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms below.
 
-TERMS
+TERMS (24)
 	Comisión
 	Consorcio
 	Control
@@ -46,7 +46,7 @@ TERMS
 HW_07.2	[Due 20 Mar 2025]
 The Secretária de Hacienda y Crédito Público (SHCP) and the CNBV recognize only specific investnment intruments.Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English.
 
-TERMS
+TERMS (27)
 	Acciones
 	Títulos Opcionales (Warrants)
 	Obligaciones

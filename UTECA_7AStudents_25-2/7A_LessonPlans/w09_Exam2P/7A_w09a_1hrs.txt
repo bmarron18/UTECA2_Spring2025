@@ -20,7 +20,7 @@ Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
 Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
 both English and Spanish.
 
-TERMS
+TERMS (39)
 	acto reclamado
 	abrogación
 	acusatorio
