@@ -16,15 +16,13 @@ HW_09.1	[Due: 10 Apr 2025]
 
 Standard format EXCEPT for double-spaced text. 
 If possible, print your assignment double-sided or duplex.
-All docs in Class Materials, ContentDocs_3P, Papers_English
+All materials for the assignment are in Class Materials >> ContentDocs_3P >> Papers_English
 
 --- Task 1
 Read/Scan:
-	a) Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and 
-	polyfluoroalkyl substances
-		
+	a) Lithium-ion battery components are at the nexus of sustainable energy and environmental release of 
+	per- and polyfluoroalkyl substances
 	b) Significantly wetter or drier future conditions for one to two thirds of the world’s population
-	
 	c) Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
 
 
@@ -89,8 +87,8 @@ https://www.nature.com/nature/articles					<== look for open access tag
 
 OA Journals
 	Nature Communications ==> https://www.nature.com/ncomms/
-		Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and 
-		polyfluoroalkyl substances
+		Lithium-ion battery components are at the nexus of sustainable energy and environmental release 
+		of per- and polyfluoroalkyl substances
 		
 		Significantly wetter or drier future conditions for one to two thirds of the world’s population
 		
