@@ -17,18 +17,22 @@ If possible, print your assignment double-sided or duplex.
 
 --- Task 1 
 Read/Scan:
-	Grand Challenges at the Interface of Engineering and Medicine
-	Weakly-Supervised_Deep_Learning_and_Its_Applications
+	a) Grand Challenges at the Interface of Engineering and Medicine
+	b) Weakly-Supervised_Deep_Learning_and_Its_Applications
+	c) Quantum many-body simulations on digital quantum computers: State-of-the-art and future challenges
 
 --- Task 2
 Translate:
+
 
 --- Task 3
 Critique:
 
 
 --- Task 4
-Vocab (49):
+
+
+Vocab (64):
 	aberrations
 	ablation
 	agnosia
@@ -47,32 +51,50 @@ Vocab (49):
 	burgeoning
 	cardiovascular
 	chromatin
+	coherent
+	convergence
 	corpus
 	CRISPR
+	decoupling
 	deleterious
 	diagnostic
+	discretized
+	eigenstate
+	entanglement
 	en vitro
 	epidemiologist
 	epigenetic
 	exobrain
+	extrapolation
 	fMRI
 	genome
+	Hamiltonian
 	harbinger
 	holistic
 	homeostasis
 	homology
 	immunology
+	lattice
 	lymphatic
 	meticulously
 	mitosis
 	nanoengineering
 	necrotic
 	neurophysiology
+	non-linear
+	parameters
 	pathogens
+	photon
 	progenitor
 	proliferation
 	prosthetic
+	quantum
+	quantum computer
+	spectroscopic
+	state-of-the-art
 	stochastic
+	superconductor
+	synergistic
 	synthesis
 	vascular
 
