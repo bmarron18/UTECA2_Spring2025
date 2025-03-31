@@ -12,26 +12,95 @@ Grupo:			5C
 
 
 ######################################
-HW_09.1
+HW_09.1	[DUE 10 Apr 2025]
 
-Standard format EXCEPT for double-spaced text; text should be single-spaced. 
+Use the standard format EXCEPT for double-spaced text: text should be single-spaced. 
 If possible, print your assignment double-sided or duplex.
 All materials for the assignment are in Class Materials >> ContentDocs_3P >> Journal_Articles
 
 ---Task 1
-Read/Scan:
-	a) Economic structures, institutions and economic performance
-	b) Bitcoin as a financial asset: a survey
-	c) On Debt and climate
+Read/Scan the following documents:
+	a) "Economic structures, institutions and economic performance".pdf
+	b) "Bitcoin as a financial asset: a survey".pdf
+	c) "On Debt and climate".pdf
 	
 --- Task 2
-Translate:
-
+Translate into Spanish:
+	i)   The Abstract, and the first four (4) paragraphs of the Intro from Document a) in Task 1
+	ii)  The Abstract, the first three (3) parargraphs of the Intro, and the Conclusions from Document b) 
+	in Task 1
+	iii) The Abstract, the Introduction, and the Conclusion from Document c) in Task 1
 
 --- Task 3
-Vocab ():
-
-
+Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
+Vocab (66):
+	accumulation
+	adaptive market hypothesis
+	affiliation
+	allocation
+	appraisal
+	arbitrage
+	asymmetric tail dependence
+	austerity measures
+	bearish market
+	benchmark
+	bibliometrics
+	black-market
+	blockchain
+	bullish market
+	carbon offsets
+	carbon sequestration
+	causality institutions (economics)
+	CBOE Volatility Index (VIX)
+	Consumer Price Index (CPI)
+	cryptocurrency
+	debt-for-nature swaps
+	debt restructuring
+	debunking
+	“Dutch Disease” 
+	Economic Policy Uncertainty (EPU) index
+	economic structure
+	ecosystem services
+	endogenous
+	entropy (information theory)
+	Environmental, Social, Governance (ESG) issues
+	Emissions Trading Systems (ETS) ("cap-and-trade" systems)
+	Exchange-Traded Fund (ETF)
+	externality
+	FIRE economy
+	forecast curve fitting
+	Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) models
+	Granger causality
+	green bonds
+	heteroskedasticity
+	hard commodities
+	hedging
+	implied volatility estimation
+	incentivize
+	inefficient market
+	International Monetary Fund (IMF)
+	Keynesian "pump priming"
+	multifractal
+	natural capital
+	neural network
+	OECD
+	proxy
+	regression analysis
+	rent-seeking behavior
+	rigidities (economics)
+	robust
+	safe-haven asset
+	scalability
+	shocks (economic)
+	soft commodities
+	speculation (economics)
+	spillover effect
+	stochastic
+	straddling (economics)
+	sustainability-linked bonds (SLBs)
+	tail events
+	"tragedy of the commons"
+	
 ######################################
 
 
@@ -53,7 +122,6 @@ Today
 *	3P exam and last HW
 *	take-home final
 
-	
 
 ----	NEW	--------------------
 
@@ -61,6 +129,7 @@ Today
 Economic Reports
 and Papers
 ################
+
 Open Access journals...
 
 
@@ -76,6 +145,11 @@ https://www.springeropen.com/journals
 Financial Innovation (FIN)
 https://www.springeropen.com/journals
 	**Bitcoin as a financial asset: a survey
+		 Bitcoin faces ESG-related challenges, such as energy consumption due to mining and its use in 
+		 illicit activit [DUE 10 Apr 2025]ies
+		 
+		 Bitcoin exhibits characteristics of a safe-haven asset due to its asymmetric tail dependence 
+		 and negative correlation within certain asset classes
 
 
 Oxford Open Economics
@@ -85,13 +159,75 @@ https://academic.oup.com/ooec
 
 
 
+###################
+Consulting:
+Clients, Transmittals, and Deliverables
+####################
+
+Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
+	providing context or instructions for the recipient
+	
+	+ standard business letter format, with a clear and concise tone
+	
+	+ explanations, instructions, new info (as needed)
+	
+	+ "Do not hesitate to call..." statement
+	
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to files
+
+
+
+
 
 --- Work time
 
 ####
 3P
 ####
-HW_08.1	[Due 27 Mar 2025]
+HW_09.1	[DUE 10 Apr 2025]
+---Task 1
+Read/Scan:
+	a) "Economic structures, institutions and economic performance".pdf
+	b) "Bitcoin as a financial asset: a survey".pdf
+	c) "On Debt and climate".pdf
+--- Task 2
+Translate into Spanish:
+	i)   The Abstract, and the first four (4) paragraphs of the Intro a)
+	ii)  The Abstract, first three (3) parargraphs of the Intro, and the Conclusions from b)
+	iii) The Abstract, the Introduction, and the Conclusion from c)
+--- Task 3
+Provide definitions in English and Spanish. Add any new terms to your dictionary.
+Vocab (66):
+
+
+HW_08.1	[Due 03 Apr 2025]
 --- Task 1 From the document, 1f_CKD_Prospectus_2.pdf, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. 
 	Challenge: Can you describe how this program of CKDs is set up?
 --- Task 2 Define terms (13) in Spanish and English

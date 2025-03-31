@@ -14,25 +14,25 @@ Grupo:			6A2
 #####################
 HW_09.1	[Due: 10 Apr 2025]
 
-Standard format EXCEPT for double-spaced text. 
+Use the standard format EXCEPT for double-spaced text: text should be single-spaced. 
 If possible, print your assignment double-sided or duplex.
 All materials for the assignment are in Class Materials >> ContentDocs_3P >> Papers_English
 
 --- Task 1
-Read/Scan:
-	a) Lithium-ion battery components are at the nexus of sustainable energy and environmental release of 
-	per- and polyfluoroalkyl substances
-	b) Significantly wetter or drier future conditions for one to two thirds of the world’s population
-	c) Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
-
-
+Read/scan the following documents:
+	a) "Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and polyfluoroalkyl substances".pdf
+	b) "Significantly wetter or drier future conditions for one to two thirds of the world’s 
+	population".pdf
+	c) "Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering".pdf
 
 --- Task 2
-Translate:
-
-
+Translate into Spanish:
+	i)   The Abstract from Document a) in Task 1
+	ii)  The Abstractfrom Document b) in Task 1
+	iii) The Abstract, and a brief summary of the Discussion section from Document c) in Task 1
 
 --- Task 3
+Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
 Vocab (17):
 	aggregated
 	alkaline
@@ -52,9 +52,6 @@ Vocab (17):
 	toxicology
 	uncertainty
 	
-	
-
-
 #####################
 
 
@@ -87,15 +84,15 @@ https://www.nature.com/nature/articles					<== look for open access tag
 
 OA Journals
 	Nature Communications ==> https://www.nature.com/ncomms/
-		Lithium-ion battery components are at the nexus of sustainable energy and environmental release 
+		*Lithium-ion battery components are at the nexus of sustainable energy and environmental release 
 		of per- and polyfluoroalkyl substances
 		
-		Significantly wetter or drier future conditions for one to two thirds of the world’s population
+		*Significantly wetter or drier future conditions for one to two thirds of the world’s population
 		
 
 
 	Scientific Reports ==> https://www.nature.com/srep/
-		Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+		*Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
 		
 		
 

@@ -12,25 +12,28 @@ Grupo:			6A1
 #########################################
 HW_10.1	[Due: 08 Apr 2025]
 
-Standard format EXCEPT for double-spaced text; text should be single-spaced. 
+Use the standard format EXCEPT for double-spaced text: text should be single-spaced. 
 If possible, print your assignment double-sided or duplex.
 All materials for the assignment are in Class Materials >> ContentDocs_3P >> Reviews_Reports
 
 --- Task 1 
-Read/Scan:
-	a) Grand Challenges at the Interface of Engineering and Medicine
-	b) Weakly-Supervised_Deep_Learning_and_Its_Applications
-	c) Quantum many-body simulations on digital quantum computers: State-of-the-art and future challenges
+Read/scan the following documents:
+	a) "Grand Challenges at the Interface of Engineering and Medicine".pdf
+	b) "Weakly-Supervised_Deep_Learning_and_Its_Applications".pdf
+	c) 'Quantum many-body simulations on digital quantum computers: State-of-the-art and future 
+	challenges".pdf
 
 --- Task 2
-Translate:
+Translate into Spanish:
 	i) The Abstract, the Impact Statement, the headings of the Five Grand Challenges, and the Conclusion 
-	from a) above
-	ii) The first paragraph, the first sentence of all subsequent paragraphs except for the very last 
-	paragraph in b) above.
-	iii) The Abstract, and the first three (3) parargraphs from the "Outlook and applications" section
+	from Document a) in Task 1
+	ii) The first paragraph, the first sentence of all subsequent paragraphs EXCEPT for the very last 
+	paragraph from Document b) in Task 1
+	iii) The Abstract, and the first three (3) parargraphs from the "Outlook and applications" section 
+	from Document c) in Task 1
 
 --- Task 3
+Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
 Vocab (64):
 	aberrations
 	ablation
@@ -127,54 +130,56 @@ Reviews
 Take a look---
 
 	IEEE Open Journal of Engineering in Medicine and Biology
-		Grand Challenges at the Interface of Engineering and Medicine
-		Weakly-Supervised_Deep_Learning_and_Its_Applications
+		*Grand Challenges at the Interface of Engineering and Medicine
+		*Weakly-Supervised_Deep_Learning_and_Its_Applications
 		
 	Nature Communications ==> https://www.nature.com/ncomms/
-		Quantum many-body simulations on digital quantum computers: State-of-the-art and future 
+		*Quantum many-body simulations on digital quantum computers: State-of-the-art and future 
 		challenges
 
 
 ###################
 Consulting:
-Clients and Deliverables
+Clients, Transmittals, and Deliverables
 ####################
 
 Marron's Rules for Consultants
+-------------------------------
 	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
-	Remember, "God is in the details."
-	(if you must break this rule, watermark every page of every document with the word, DRAFT)
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
 
-	2. Keep records of ALL client interactions (phone calls, email, casual conversations, EVERYTHING!)
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
 	
 	3. Archive, Archive, Archive!
 	
-	4. Be real but be professional AT ALL TIMES.
+	4. Be real but absolutely professional AT ALL TIMES.
 	
-	5. Written communications are ALWAYS at the highest level of professionalism.
+	5. Written communications must ALWAYS be at the highest level of professionalism.
 
 
-A Transmittal is formal. A Transmittal includes:
-	i) a transmittal letter
-	ii) the deliverable(s) 
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
 
 
-Transmittal letter
+The transmittal letter:
 	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
 	providing context or instructions for the recipient
 	
 	+ standard business letter format, with a clear and concise tone
 	
-	+ explanations, instructions, new info
+	+ explanations, instructions, new info (as needed)
 	
 	+ "Do not hesitate to call..." statement
 	
-	+ if appropriate, "thank you (appreciation)" statement
+	+ "thank you (appreciation)" statement (as appropriate)
 
 
-Deliverables
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
 	+ Attached to transmittal letter or drive address to files
-
 
 
 

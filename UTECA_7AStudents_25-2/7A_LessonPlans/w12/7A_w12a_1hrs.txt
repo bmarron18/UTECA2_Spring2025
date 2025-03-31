@@ -13,24 +13,25 @@ Grupo:			7A
 ######################
 HW_10.1	[Due: 08 Apr 2025]
 
-The standard format applies to all tasks EXCEPT for double-spacing of text. 
-If possible, please print your assignment double-sided or duplex.
+Use the standard format EXCEPT for double-spaced text: text should be single-spaced. 
+If possible, print your assignment double-sided or duplex.
 All materials for the assignment are in Class Materials >> ContentDocs_3P >> Intl_Law
 
 --- Task 1
-Read/Scan:
-	a) Fault Lines in the Rule of Law: Europe’s Present and the Presence of its Past
-	b) Judicial relational legal consciousness: Authoritarian backsliding as a catalyst of change
-	c) Governance of global peace and security through the international courts: Serving a holistic 
-	purpose or maintaining hegemony?
+Read/scan the following documents:
+	a) "Fault Lines in the Rule of Law: Europe’s Present and the Presence of its Past".pdf
+	b) "Judicial relational legal consciousness: Authoritarian backsliding as a catalyst of change".pdf
+	c) "Governance of global peace and security through the international courts: Serving a holistic 
+	purpose or maintaining hegemony?'.pdf
 	
 
 --- Task 2
-Translate:
-	i) Translate the Abstract and Conclusion from paper a) in Task 1 above.
-	ii) Translate the Abstract, the first four (4) paragraphs of the Introduction, and the Conclusion from paper b) in Task 1 above.
-	iii) Translate the Abstract and the section, "Overview of ICC, ICJ, and WTO Judicial Systems" from 
-	paper c) in Task 1 above
+Translate into Spanish:
+	i) The Abstract and the Conclusion from Document a) in Task 1
+	ii) The Abstract, the first four (4) paragraphs of the Introduction, and the Conclusion from Document 
+	b) in Task 1
+	iii) The Abstract and the section, "Overview of ICC, ICJ, and WTO Judicial Systems" from 
+	Document c) in Task 1
 
 --- Task 3
 Summary/Critique:
@@ -55,9 +56,6 @@ Today
 
 
 ---- Review
-
-
-
 
 
 --- NEW
@@ -87,6 +85,52 @@ Wiley Journal of Law and Society (Cornell)
 https://onlinelibrary.wiley.com/journal/14676478
 	**Judicial relational legal consciousness:  authoritarian backsliding as a catalyst of change
 	*Law and conspiracy theory: sovereign citizens, freemen on the land, and pseudolaw
+
+
+
+
+###################
+Consulting:
+Clients, Transmittals, and Deliverables
+####################
+
+Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
+	providing context or instructions for the recipient
+	
+	+ standard business letter format, with a clear and concise tone
+	
+	+ explanations, instructions, new info (as needed)
+	
+	+ "Do not hesitate to call..." statement
+	
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to files
 
 
 
