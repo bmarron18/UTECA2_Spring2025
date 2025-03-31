@@ -14,6 +14,24 @@ Grupo:			5C
 ######################################
 HW_09.1
 
+Standard format EXCEPT for double-spaced text; text should be single-spaced. 
+If possible, print your assignment double-sided or duplex.
+All materials for the assignment are in Class Materials >> ContentDocs_3P >> Journal_Articles
+
+---Task 1
+Read/Scan:
+	a) Economic structures, institutions and economic performance
+	b) Bitcoin as a financial asset: a survey
+	c) On Debt and climate
+	
+--- Task 2
+Translate:
+
+
+--- Task 3
+Vocab ():
+
+
 ######################################
 
 
@@ -47,36 +65,23 @@ Open Access journals...
 
 
 
-
-##################################
 The Journal of Economic Structures
-The Official Journal of the Pan-Pacific Association of Input-Output Studies (PAPAIOS)
 https://www.springeropen.com/journals
-#################################
-a peer-reviewed international journal that publishes theoretical and empirical articles that apply to a wide range of formal analytical instruments and statistical techniques to explore the structural interdependencies among various activities immanent in the economy.
+	**Economic structures, institutions and economic performance
+	*Mexico’s economic infrastructure: international benchmark and its impact on growth
+	*The role of intermediate inputs in a multisectoral balance‐of‐payments‐constrained growth model: the 
+	case of Mexico
 
-We collect manuscripts dealing with broad issues, covering subjects such as technological innovations and lifestyle changes, trade and commerce, networks, ecology and development, among others, where structural understanding is essential. The journal supports communication among various related disciplines and encourages contributions from regional practitioners. The journal also welcomes proposals for special issues reflecting the trends in structural economics and other related disciplines.
 
-
-
-#############################
 Financial Innovation (FIN)
-Sponsored by Southwestern University of Finance and Economics
 https://www.springeropen.com/journals
-############################
-a global academic forum for exchanging research findings across all fields in financial innovation in the era of electronic business that spans over several technological waves such as mobile computing, blockchain, and generative artificial intelligence (GenAI). It seeks to promote interactions among researchers, policy-makers, and practitioners, and to foster research ideas on financial innovation in the areas of new financial instruments as well as new financial technologies, markets and institutions.  FIN emphasizes emerging financial products, processes and services that are enabled by the introduction of disruptive technologies. FIN is peer-reviewed and publishes both high-quality academic (theoretical or empirical) and practical papers in the broad ranges of financial innovation. It has been indexed in SSCI, Scopus, Google Scholar, CNKI, CQVIP and so on.
-
-Topic areas of interest include, but are not limited to, agentic financial workflow, asset pricing, behavioral finance, big data analytics in finance, computational financial intelligence, corporate finance, derivative pricing and hedging, disruptive financial models, extreme risks and insurance, financial economics, financial engineering, financial instruments, financial intermediation, financial market, financial risk management and analysis, GenAI-centric financial process automation, high frequency and algorithmic trading, household finance, human-AI collaboration in finance, innovative financial services, international finance, internet and mobile finance, legal and social issues of new finance, public finance and taxation, and other relevant topics. In particular, FIN welcomes research articles that study real-world impacts surrounding applications and management of blockchain, artificial intelligence, big data, Internet-of-Things, and other advanced computing such as GenAI adoption in banking and other finance services.
+	**Bitcoin as a financial asset: a survey
 
 
-
-
-
-
-	Oxford Open Economics
-	https://academic.oup.com/ooec
-	https://academic.oup.com/ooec/pages/general-instructions
-
+Oxford Open Economics
+https://academic.oup.com/ooec
+	**On Debt and climate
+	*Potterian economics
 
 
 
