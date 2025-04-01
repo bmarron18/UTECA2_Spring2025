@@ -27,14 +27,14 @@ Read/scan the following documents:
 Translate into Spanish:
 	i) The Abstract, the Impact Statement, the headings of the Five Grand Challenges, and the Conclusion 
 	from Document a) in Task 1
-	ii) The first paragraph, the first sentence of all subsequent paragraphs EXCEPT for the very last 
+	ii) The first paragraph, and the first sentence of all subsequent paragraphs EXCEPT for the very last 
 	paragraph from Document b) in Task 1
 	iii) The Abstract, and the first three (3) parargraphs from the "Outlook and applications" section 
 	from Document c) in Task 1
 
 --- Task 3
 Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
-Vocab (64):
+Vocab (65):
 	aberrations
 	ablation
 	agnosia
@@ -99,6 +99,7 @@ Vocab (64):
 	synergistic
 	synthesis
 	vascular
+	weakly-supervised deep learning (WSDL)
 
 #############################################
 

@@ -338,5 +338,6 @@ virtualization
 voltage
 walkways
 watershed
+weakly-supervised deep learning (WSDL)
 wireless optical technology
  

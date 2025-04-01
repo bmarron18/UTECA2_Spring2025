@@ -28,7 +28,7 @@ Read/scan the following documents:
 --- Task 2
 Translate into Spanish:
 	i)   The Abstract from Document a) in Task 1
-	ii)  The Abstractfrom Document b) in Task 1
+	ii)  The Abstract from Document b) in Task 1
 	iii) The Abstract, and a brief summary of the Discussion section from Document c) in Task 1
 
 --- Task 3
@@ -42,6 +42,7 @@ Vocab (17):
 	gradient
 	groundwater
 	hydrology
+	Large Language Model
 	leachate
 	neurotoxic
 	parasitology
