@@ -111,6 +111,10 @@ Today
 
 ---- Open
 
+ If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet. 
+ 		--- Niels Bohr
+
+
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -119,6 +123,9 @@ Today
 
 ---- Review
 
+3P exam
+HW!!
+Final
 
 
 
@@ -199,7 +206,7 @@ Read/Scan:
 Translate:
 	i) The Abstract, the Impact Statement, the headings of the Five Grand Challenges, and the Conclusion 
 	from a) above
-	ii) The first paragraph, the first sentence of all subsequent paragraphs except for the very last 
+	ii) The first paragraph, and the first sentence of all subsequent paragraphs EXCEPT for the very last 
 	paragraph in b) above.
 	iii) The Abstract, and the first three (3) parargraphs from the "Outlook and applications" section
 --- Task 3 
