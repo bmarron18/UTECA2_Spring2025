@@ -73,6 +73,10 @@ Today
 
 ---- Review
 
+	*3P
+	*HW
+	*Final
+
 
 ---- NEW
 
@@ -83,10 +87,10 @@ Academic Research Papers	<== Final week
 https://www.nature.com/nature-portfolio/open-access
 https://www.nature.com/nature/articles					<== look for open access tag
 
-OA Journals
+Open Access Journals
 	Nature Communications ==> https://www.nature.com/ncomms/
 		*Lithium-ion battery components are at the nexus of sustainable energy and environmental release 
-		of per- and polyfluoroalkyl substances
+		 	of per- and polyfluoroalkyl substances
 		
 		*Significantly wetter or drier future conditions for one to two thirds of the world’s population
 		
@@ -108,6 +112,23 @@ OA Journals
 ####
 3P
 ####
+HW_09.1	[Due: 10 Apr 2025]
+--- Task 1
+Read/scan the following documents:
+	a) "Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and polyfluoroalkyl substances".pdf
+	b) "Significantly wetter or drier future conditions for one to two thirds of the world’s 
+	population".pdf
+	c) "Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering".pdf
+--- Task 2
+Translate into Spanish:
+	i)   The Abstract from Document a) in Task 1
+	ii)  The Abstract from Document b) in Task 1
+	iii) The Abstract, and a brief summary of the Discussion section from Document c) in Task 1
+--- Task 3
+Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
+Vocab (17):
+
+
 HW_08.1	[Due: 03 Apr 2025]
 --- Task 1
 Read/Scan:
