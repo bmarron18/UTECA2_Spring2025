@@ -96,6 +96,24 @@ critique ads individually----
 
 
 
+#**Order for 10 Apr (10 min slot) == 5/hr==> 15 in 3 hrs 
+-----------------
+1**Salvador	
+2**Pam
+3**Rodrigo
+4**Pao
+5**Jared
+6**Victoria	
+7**Samantha		
+8**Suni
+9**Nadia		
+10**Ximena
+11**Carla 
+12**Javier	
+13**Angel		
+14**Delia		
+
+
 
 
 
@@ -103,37 +121,37 @@ critique ads individually----
 List of Current Student Projects
 -----------------
 
-Victoria	low budget food blog; nonprofit; people w/ low budget
+6**Victoria	low budget food blog; nonprofit; people w/ low budget
 
-Jared		mascara (makeup); easy clean!; makeup users
+5**Jared		mascara (makeup); easy clean!; makeup users
 
-Rodrigo		fashion brand; exchangeable pieces! and recycled materials; fashion people
+3**Rodrigo		fashion brand; exchangeable pieces! and recycled materials; fashion people
 
-Nadia		food additive/flavor; to flavor food w/o spicy; people w/ special food needs
+9**Nadia		food additive/flavor; to flavor food w/o spicy; people w/ special food needs
 
-Pam			smart pillow/noise cancelling!; people who are light sleepers bc of noise
+2**Pam			smart pillow/noise cancelling!; people who are light sleepers bc of noise
 
-Angel		Spanish app/platform for Mexican Spanish and culture; interactive like Teams
+13**Angel		Spanish app/platform for Mexican Spanish and culture; interactive like Teams
 
-Suni		make your own specialty wine w/ a package of sabores (wine + pkg); higher level of 
+8**Suni		make your own specialty wine w/ a package of sabores (wine + pkg); higher level of 
 			enjoyment; young adults
 
-Pao			women's only gym; not expensive; focus w/o distractions; equipment specialized for 
+4**Pao			women's only gym; not expensive; focus w/o distractions; equipment specialized for 
 			women
 
-Samantha	sunscreen for pets; service animals especally
+7**Samantha	sunscreen for pets; service animals especally
 
-Carla 		power banks for devices; to extend battery life (C3PO)
+11**Carla 		power banks for devices; to extend battery life (C3PO)
 
-Javier		rehab centers are very expensive; offer low-cost option; training for new therapists;
+12**Javier		rehab centers are very expensive; offer low-cost option; training for new therapists;
 			adjustable schedules for therapists
 			
-Salvador	a general insurance system that acts as an investment acct bc of tax laws (get credit 
+1**Salvador	a general insurance system that acts as an investment acct bc of tax laws (get credit 
 			offsets if pay insurance
 
-Ximena		Fantasy novel
+10**Ximena		Fantasy novel
 
-Delia		smart pen
+14**Delia		smart pen
 
 
 
