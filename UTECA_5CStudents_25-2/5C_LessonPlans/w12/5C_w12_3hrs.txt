@@ -92,7 +92,7 @@ Vocab (66):
 	robust
 	safe-haven asset
 	scalability
-	shocks (economic)
+	shocks (economics)
 	soft commodities
 	speculation (economics)
 	spillover effect
@@ -110,6 +110,9 @@ Today
 #######
 
 ---- Open
+
+	*3P
+	*Final and wrap up
 
 
 %%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -137,7 +140,8 @@ Open Access journals...
 
 The Journal of Economic Structures
 https://www.springeropen.com/journals
-	**Economic structures, institutions and economic performance
+
+**Economic structures, institutions and economic performance
 	*Mexico’s economic infrastructure: international benchmark and its impact on growth
 	*The role of intermediate inputs in a multisectoral balance‐of‐payments‐constrained growth model: the 
 	case of Mexico
@@ -147,7 +151,7 @@ Financial Innovation (FIN)
 https://www.springeropen.com/journals
 	**Bitcoin as a financial asset: a survey
 		 Bitcoin faces ESG-related challenges, such as energy consumption due to mining and its use in 
-		 illicit activit [DUE 10 Apr 2025]ies
+		 illicit activities
 		 
 		 Bitcoin exhibits characteristics of a safe-haven asset due to its asymmetric tail dependence 
 		 and negative correlation within certain asset classes
@@ -155,7 +159,8 @@ https://www.springeropen.com/journals
 
 Oxford Open Economics
 https://academic.oup.com/ooec
-	**On Debt and climate
+
+**On Debt and climate
 	*Potterian economics
 
 
@@ -179,6 +184,9 @@ Marron's Rules for Consultants
 	4. Be real but absolutely professional AT ALL TIMES.
 	
 	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+
 
 
 A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
@@ -208,6 +216,62 @@ The Deliverable(s):
 
 
 --- Work time
+
+Herbert Simon "Science of the Artifical"
+Thomas Schelling agent-based modelinhg
+Kenneth Arrowś Impossibility Theorem
+no democratic voting system can perfectly aggregate individual preferences into a collective preference while simultaneously satisfying certain desirable fairness criteria, 
+
+
+Adaptive Market Hypothesis (AMH) 
+is a theory that financial markets are governed by evolutionary principles, suggesting that market efficiency varies over time as investors learn, adapt, and innovate, reconciling rational behavior with periods of irrationality
+
+Asymmetric tail dependence
+a situation where the dependence between two variables in their extreme (tail) values is stronger when one variable is in the upper tail (positive extreme) compared to when it's in the lower tail (negative extreme), or vice versa
+
+bullish market
+represented by rising stock prices of various securities in the market, especially equity instruments. Growth of at least 20% or more has to be registered by several stock exchanges in terms of trade volume and purchases to be categorised as a bull market
+
+causality institutions (economics)
+explores whether institutions (like legal frameworks, social norms, and organizations) are the cause of economic outcomes (like growth, development, or inequality), or if economic conditions themselves shape institution
+
+CBOE Volatility Index (VIX)
+VIX is the ticker symbol and the popular name for the Chicago Board Options Exchange's CBOE Volatility Index, a popular measure of the stock market's expectation of volatility based on S&P 500 index options
+
+Consumer Price Index (CPI)
+a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.
+
+“Dutch Disease” 
+an economic phenomenon where a sudden influx of income from a specific sector, like resource extraction, leads to a decline in other sectors, potentially causing overall economic problems
+[David Ricardo --- specializing in producing goods where they have a comparative advantage, even if they are less efficient at producing all goods than other countries]
+
+Economic Policy Uncertainty (EPU) index
+an index constructed based on newspaper articles regarding policy uncertainty from leading newspapers. It counts the number of newspaper articles containing the terms uncertain or uncertainty, economic or economy, and one or more policy-relevant terms
+
+OECD
+Organisation for Economic Co-operation and Development
+
+Granger causality
+a statistical concept that determines if one time series can be used to predict the future values of another, meaning if past values of one variable improve the forecasting of anothe
+
+heteroskedasticity 
+a situation where the variance of the error term in a regression model is not constant across all observations, meaning the spread of the residuals varies
+
+rent seeking behavior
+activities where individuals or entities use their resources to gain wealth or advantages without creating new wealth or value for society, often through political or regulatory means
+
+rigidities
+situations where prices and wages are slow to adjust to changes in economic conditions, either due to nominal or real factors, impacting macroeconomic stability and market equilibrium
+
+spillover effect
+(also known as an externality) describes the unintended consequences or impacts of an economic activity on parties not directly involved, which can be either positive or negative
+
+stochastic
+randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely.
+
+straddling (economics)
+a situation where an economic entity, such as a business or individual, is positioned in a way that allows them to benefit from or navigate multiple, potentially conflicting, economic conditions or markets. 
+
 
 ####
 3P
