@@ -26,7 +26,7 @@ Translate the following excerpts into English:
 --- Task 3
 Define the following terms in both English and Spanish. Add any new terms to your dictionary.
 
-Terms
+Terms (81)
 	actuadores
 	adheridos
 	afloramiento
